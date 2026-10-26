@@ -1,0 +1,362 @@
+diags:=[
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(vR(1,-k1),vRbar(2,-k1))*
+ prop(H1(3,-k1+p1),H1bar(4,-k1+p1))*
+ prop(H2(5,-k1-p2),H2bar(6,-k1-p2))*
+ prop(eR(7,k1-p1-p3),eRbar(8,k1-p1-p3))*
+ v3(lLbar(-1,p1),vR(1,-k1),H1bar(4,k1-p1))*
+ v3(vRbar(2,k1),lL(-3,p2),H2(5,-k1-p2))*
+ v3(lLbar(-5,p3),eR(7,k1-p1-p3),H1(3,-k1+p1))*
+ v3(eRbar(8,-k1+p1+p3),lL(-7,p4),H2bar(6,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(vR(1,-k1),vRbar(2,-k1))*
+ prop(H2(3,-k1+p1),H2bar(4,-k1+p1))*
+ prop(H1(5,-k1-p2),H1bar(6,-k1-p2))*
+ prop(eR(7,k1-p1-p3),eRbar(8,k1-p1-p3))*
+ v3(lLbar(-1,p1),vR(1,-k1),H2bar(4,k1-p1))*
+ v3(vRbar(2,k1),lL(-3,p2),H1(5,-k1-p2))*
+ v3(lLbar(-5,p3),eR(7,k1-p1-p3),H2(3,-k1+p1))*
+ v3(eRbar(8,-k1+p1+p3),lL(-7,p4),H1bar(6,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(vR(1,-k1),vRbar(2,-k1))*
+ prop(H2(3,-k1+p1),H2bar(4,-k1+p1))*
+ prop(H2(5,-k1-p2),H2bar(6,-k1-p2))*
+ prop(eR(7,k1-p1-p3),eRbar(8,k1-p1-p3))*
+ v3(lLbar(-1,p1),vR(1,-k1),H2bar(4,k1-p1))*
+ v3(vRbar(2,k1),lL(-3,p2),H2(5,-k1-p2))*
+ v3(lLbar(-5,p3),eR(7,k1-p1-p3),H2(3,-k1+p1))*
+ v3(eRbar(8,-k1+p1+p3),lL(-7,p4),H2bar(6,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(eR(1,-k1),eRbar(2,-k1))*
+ prop(H1(3,k1-p1),H1bar(4,k1-p1))*
+ prop(H2(5,k1+p2),H2bar(6,k1+p2))*
+ prop(vR(7,k1-p1-p3),vRbar(8,k1-p1-p3))*
+ v3(lLbar(-1,p1),eR(1,-k1),H1(3,k1-p1))*
+ v3(eRbar(2,k1),lL(-3,p2),H2bar(6,-k1-p2))*
+ v3(lLbar(-5,p3),vR(7,k1-p1-p3),H1bar(4,-k1+p1))*
+ v3(vRbar(8,-k1+p1+p3),lL(-7,p4),H2(5,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(eR(1,-k1),eRbar(2,-k1))*
+ prop(H2(3,k1-p1),H2bar(4,k1-p1))*
+ prop(H1(5,k1+p2),H1bar(6,k1+p2))*
+ prop(vR(7,k1-p1-p3),vRbar(8,k1-p1-p3))*
+ v3(lLbar(-1,p1),eR(1,-k1),H2(3,k1-p1))*
+ v3(eRbar(2,k1),lL(-3,p2),H1bar(6,-k1-p2))*
+ v3(lLbar(-5,p3),vR(7,k1-p1-p3),H2bar(4,-k1+p1))*
+ v3(vRbar(8,-k1+p1+p3),lL(-7,p4),H1(5,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(eR(1,-k1),eRbar(2,-k1))*
+ prop(H2(3,k1-p1),H2bar(4,k1-p1))*
+ prop(H2(5,k1+p2),H2bar(6,k1+p2))*
+ prop(vR(7,k1-p1-p3),vRbar(8,k1-p1-p3))*
+ v3(lLbar(-1,p1),eR(1,-k1),H2(3,k1-p1))*
+ v3(eRbar(2,k1),lL(-3,p2),H2bar(6,-k1-p2))*
+ v3(lLbar(-5,p3),vR(7,k1-p1-p3),H2bar(4,-k1+p1))*
+ v3(vRbar(8,-k1+p1+p3),lL(-7,p4),H2(5,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(vR(1,-k1),vRbar(2,-k1))*
+ prop(H1(3,-k1+p1),H1bar(4,-k1+p1))*
+ prop(H2(5,-k1-p2),H2bar(6,-k1-p2))*
+ prop(vR(7,-k1+p1+p4),vRbar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),vR(1,-k1),H1bar(4,k1-p1))*
+ v3(vRbar(2,k1),lL(-3,p2),H2(5,-k1-p2))*
+ v3(vRbar(8,k1-p1-p4),lL(-7,p4),H1(3,-k1+p1))*
+ v3(lLbar(-5,p3),vR(7,-k1+p1+p4),H2bar(6,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(vR(1,-k1),vRbar(2,-k1))*
+ prop(H2(3,-k1+p1),H2bar(4,-k1+p1))*
+ prop(H1(5,-k1-p2),H1bar(6,-k1-p2))*
+ prop(vR(7,-k1+p1+p4),vRbar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),vR(1,-k1),H2bar(4,k1-p1))*
+ v3(vRbar(2,k1),lL(-3,p2),H1(5,-k1-p2))*
+ v3(vRbar(8,k1-p1-p4),lL(-7,p4),H2(3,-k1+p1))*
+ v3(lLbar(-5,p3),vR(7,-k1+p1+p4),H1bar(6,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(vR(1,-k1),vRbar(2,-k1))*
+ prop(H2(3,-k1+p1),H2bar(4,-k1+p1))*
+ prop(H2(5,-k1-p2),H2bar(6,-k1-p2))*
+ prop(vR(7,-k1+p1+p4),vRbar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),vR(1,-k1),H2bar(4,k1-p1))*
+ v3(vRbar(2,k1),lL(-3,p2),H2(5,-k1-p2))*
+ v3(vRbar(8,k1-p1-p4),lL(-7,p4),H2(3,-k1+p1))*
+ v3(lLbar(-5,p3),vR(7,-k1+p1+p4),H2bar(6,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(eR(1,-k1),eRbar(2,-k1))*
+ prop(H1(3,k1-p1),H1bar(4,k1-p1))*
+ prop(H2(5,k1+p2),H2bar(6,k1+p2))*
+ prop(eR(7,-k1+p1+p4),eRbar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(1,-k1),H1(3,k1-p1))*
+ v3(eRbar(2,k1),lL(-3,p2),H2bar(6,-k1-p2))*
+ v3(eRbar(8,k1-p1-p4),lL(-7,p4),H1bar(4,-k1+p1))*
+ v3(lLbar(-5,p3),eR(7,-k1+p1+p4),H2(5,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(eR(1,-k1),eRbar(2,-k1))*
+ prop(H2(3,k1-p1),H2bar(4,k1-p1))*
+ prop(H1(5,k1+p2),H1bar(6,k1+p2))*
+ prop(eR(7,-k1+p1+p4),eRbar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(1,-k1),H2(3,k1-p1))*
+ v3(eRbar(2,k1),lL(-3,p2),H1bar(6,-k1-p2))*
+ v3(eRbar(8,k1-p1-p4),lL(-7,p4),H2bar(4,-k1+p1))*
+ v3(lLbar(-5,p3),eR(7,-k1+p1+p4),H1(5,k1+p2)),
+ 
+(+1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(eR(1,-k1),eRbar(2,-k1))*
+ prop(H2(3,k1-p1),H2bar(4,k1-p1))*
+ prop(H2(5,k1+p2),H2bar(6,k1+p2))*
+ prop(eR(7,-k1+p1+p4),eRbar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(1,-k1),H2(3,k1-p1))*
+ v3(eRbar(2,k1),lL(-3,p2),H2bar(6,-k1-p2))*
+ v3(eRbar(8,k1-p1-p4),lL(-7,p4),H2bar(4,-k1+p1))*
+ v3(lLbar(-5,p3),eR(7,-k1+p1+p4),H2(5,k1+p2)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H1(1,-k1),H1bar(2,-k1))*
+ prop(eR(3,k1-p1),eRbar(4,k1-p1))*
+ prop(eR(5,k1+p2),eRbar(6,k1+p2))*
+ prop(H2(7,-k1+p1+p4),H2bar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(3,k1-p1),H1(1,-k1))*
+ v3(eRbar(6,-k1-p2),lL(-3,p2),H1bar(2,k1))*
+ v3(eRbar(4,-k1+p1),lL(-7,p4),H2bar(8,k1-p1-p4))*
+ v3(lLbar(-5,p3),eR(5,k1+p2),H2(7,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H1(1,k1),H1bar(2,k1))*
+ prop(vR(3,k1-p1),vRbar(4,k1-p1))*
+ prop(vR(5,k1+p2),vRbar(6,k1+p2))*
+ prop(H2(7,k1-p1-p4),H2bar(8,k1-p1-p4))*
+ v3(lLbar(-1,p1),vR(3,k1-p1),H1bar(2,-k1))*
+ v3(vRbar(6,-k1-p2),lL(-3,p2),H1(1,k1))*
+ v3(vRbar(4,-k1+p1),lL(-7,p4),H2(7,k1-p1-p4))*
+ v3(lLbar(-5,p3),vR(5,k1+p2),H2bar(8,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,-k1),H2bar(2,-k1))*
+ prop(eR(3,k1-p1),eRbar(4,k1-p1))*
+ prop(eR(5,k1+p2),eRbar(6,k1+p2))*
+ prop(H1(7,-k1+p1+p4),H1bar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(3,k1-p1),H2(1,-k1))*
+ v3(eRbar(6,-k1-p2),lL(-3,p2),H2bar(2,k1))*
+ v3(eRbar(4,-k1+p1),lL(-7,p4),H1bar(8,k1-p1-p4))*
+ v3(lLbar(-5,p3),eR(5,k1+p2),H1(7,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,-k1),H2bar(2,-k1))*
+ prop(eR(3,k1-p1),eRbar(4,k1-p1))*
+ prop(eR(5,k1+p2),eRbar(6,k1+p2))*
+ prop(H2(7,-k1+p1+p4),H2bar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(3,k1-p1),H2(1,-k1))*
+ v3(eRbar(6,-k1-p2),lL(-3,p2),H2bar(2,k1))*
+ v3(eRbar(4,-k1+p1),lL(-7,p4),H2bar(8,k1-p1-p4))*
+ v3(lLbar(-5,p3),eR(5,k1+p2),H2(7,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,k1),H2bar(2,k1))*
+ prop(vR(3,k1-p1),vRbar(4,k1-p1))*
+ prop(vR(5,k1+p2),vRbar(6,k1+p2))*
+ prop(H1(7,k1-p1-p4),H1bar(8,k1-p1-p4))*
+ v3(lLbar(-1,p1),vR(3,k1-p1),H2bar(2,-k1))*
+ v3(vRbar(6,-k1-p2),lL(-3,p2),H2(1,k1))*
+ v3(vRbar(4,-k1+p1),lL(-7,p4),H1(7,k1-p1-p4))*
+ v3(lLbar(-5,p3),vR(5,k1+p2),H1bar(8,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,k1),H2bar(2,k1))*
+ prop(vR(3,k1-p1),vRbar(4,k1-p1))*
+ prop(vR(5,k1+p2),vRbar(6,k1+p2))*
+ prop(H2(7,k1-p1-p4),H2bar(8,k1-p1-p4))*
+ v3(lLbar(-1,p1),vR(3,k1-p1),H2bar(2,-k1))*
+ v3(vRbar(6,-k1-p2),lL(-3,p2),H2(1,k1))*
+ v3(vRbar(4,-k1+p1),lL(-7,p4),H2(7,k1-p1-p4))*
+ v3(lLbar(-5,p3),vR(5,k1+p2),H2bar(8,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H1(1,-k1),H1bar(2,-k1))*
+ prop(eR(3,k1-p1),eRbar(4,k1-p1))*
+ prop(vR(5,-k1-p3),vRbar(6,-k1-p3))*
+ prop(H2(7,-k1+p1+p4),H2bar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(3,k1-p1),H1(1,-k1))*
+ v3(lLbar(-5,p3),vR(5,-k1-p3),H1bar(2,k1))*
+ v3(eRbar(4,-k1+p1),lL(-7,p4),H2bar(8,k1-p1-p4))*
+ v3(vRbar(6,k1+p3),lL(-3,p2),H2(7,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H1(1,k1),H1bar(2,k1))*
+ prop(vR(3,k1-p1),vRbar(4,k1-p1))*
+ prop(eR(5,-k1-p3),eRbar(6,-k1-p3))*
+ prop(H2(7,k1-p1-p4),H2bar(8,k1-p1-p4))*
+ v3(lLbar(-1,p1),vR(3,k1-p1),H1bar(2,-k1))*
+ v3(lLbar(-5,p3),eR(5,-k1-p3),H1(1,k1))*
+ v3(vRbar(4,-k1+p1),lL(-7,p4),H2(7,k1-p1-p4))*
+ v3(eRbar(6,k1+p3),lL(-3,p2),H2bar(8,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,-k1),H2bar(2,-k1))*
+ prop(eR(3,k1-p1),eRbar(4,k1-p1))*
+ prop(vR(5,-k1-p3),vRbar(6,-k1-p3))*
+ prop(H1(7,-k1+p1+p4),H1bar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(3,k1-p1),H2(1,-k1))*
+ v3(lLbar(-5,p3),vR(5,-k1-p3),H2bar(2,k1))*
+ v3(eRbar(4,-k1+p1),lL(-7,p4),H1bar(8,k1-p1-p4))*
+ v3(vRbar(6,k1+p3),lL(-3,p2),H1(7,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,-k1),H2bar(2,-k1))*
+ prop(eR(3,k1-p1),eRbar(4,k1-p1))*
+ prop(vR(5,-k1-p3),vRbar(6,-k1-p3))*
+ prop(H2(7,-k1+p1+p4),H2bar(8,-k1+p1+p4))*
+ v3(lLbar(-1,p1),eR(3,k1-p1),H2(1,-k1))*
+ v3(lLbar(-5,p3),vR(5,-k1-p3),H2bar(2,k1))*
+ v3(eRbar(4,-k1+p1),lL(-7,p4),H2bar(8,k1-p1-p4))*
+ v3(vRbar(6,k1+p3),lL(-3,p2),H2(7,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,k1),H2bar(2,k1))*
+ prop(vR(3,k1-p1),vRbar(4,k1-p1))*
+ prop(eR(5,-k1-p3),eRbar(6,-k1-p3))*
+ prop(H1(7,k1-p1-p4),H1bar(8,k1-p1-p4))*
+ v3(lLbar(-1,p1),vR(3,k1-p1),H2bar(2,-k1))*
+ v3(lLbar(-5,p3),eR(5,-k1-p3),H2(1,k1))*
+ v3(vRbar(4,-k1+p1),lL(-7,p4),H1(7,k1-p1-p4))*
+ v3(eRbar(6,k1+p3),lL(-3,p2),H1bar(8,-k1+p1+p4)),
+ 
+(-1)*
+ cpol(lLbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(lLbar(-5,p3))*
+ cpol(lL(-7,p4))*
+
+ prop(H2(1,k1),H2bar(2,k1))*
+ prop(vR(3,k1-p1),vRbar(4,k1-p1))*
+ prop(eR(5,-k1-p3),eRbar(6,-k1-p3))*
+ prop(H2(7,k1-p1-p4),H2bar(8,k1-p1-p4))*
+ v3(lLbar(-1,p1),vR(3,k1-p1),H2bar(2,-k1))*
+ v3(lLbar(-5,p3),eR(5,-k1-p3),H2(1,k1))*
+ v3(vRbar(4,-k1+p1),lL(-7,p4),H2(7,k1-p1-p4))*
+ v3(eRbar(6,k1+p3),lL(-3,p2),H2bar(8,-k1+p1+p4)),
+NULL]:

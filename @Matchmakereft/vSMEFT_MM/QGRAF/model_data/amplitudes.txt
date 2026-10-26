@@ -1,0 +1,130 @@
+BT BT
+GT GT
+H1 H1bar
+WT WT
+dRbar dR
+eRbar eR
+lLbar lL
+qLbar qL
+uRbar uR
+vRbar vR
+GT GT GT
+WT WT WT
+dRbar dR BT
+dRbar dR GT
+dRbar qL H1bar
+eRbar eR BT
+eRbar lL H1bar
+lLbar eR H1
+lLbar lL BT
+lLbar lL WT
+lLbar vR H1bar
+qLbar dR H1
+qLbar qL BT
+qLbar qL GT
+qLbar qL WT
+qLbar uR H1bar
+uRbar qL H1
+uRbar uR BT
+uRbar uR GT
+vR vR BT
+vRbar lL H1
+vRbar vR BT
+vRbar vRbar BT
+BT BT H1 H1bar
+BT H1 H1bar WT
+GT GT H1 H1bar
+H1 H1 H1bar H1bar
+H1 H1bar WT WT
+dR qL lL uR
+dR qL qL vR
+dR uR dR vR
+dR uR eR uR
+dRbar dR H1 H1bar
+dRbar dR dRbar dR
+dRbar dR eRbar eR
+dRbar dR lLbar lL
+dRbar dR qLbar qL
+dRbar dR uRbar uR
+dRbar dR vRbar vR
+dRbar eR lLbar qL
+dRbar eR vRbar uR
+dRbar lL vRbar qL
+dRbar qL BT H1bar
+dRbar qL GT H1bar
+dRbar qL H1bar WT
+dRbar qL uRbar qL
+dRbar qLbar lLbar uRbar
+dRbar qLbar qLbar vRbar
+dRbar uR H1bar H1bar
+dRbar uRbar dRbar vRbar
+dRbar uRbar eRbar uRbar
+eR qL qL uR
+eRbar dR qLbar lL
+eRbar dR uRbar vR
+eRbar eR H1 H1bar
+eRbar eR eRbar eR
+eRbar eR lLbar lL
+eRbar eR qLbar qL
+eRbar eR uRbar uR
+eRbar eR vRbar vR
+eRbar lL BT H1bar
+eRbar lL H1bar WT
+eRbar lL uRbar qL
+eRbar lL vRbar lL
+eRbar qLbar qLbar uRbar
+eRbar vR H1bar H1bar
+lL lL H1 H1
+lL qL qL qL
+lLbar dR qLbar vR
+lLbar eR BT H1
+lLbar eR H1 WT
+lLbar eR lLbar vR
+lLbar eR qLbar uR
+lLbar lL H1 H1bar
+lLbar lL lLbar lL
+lLbar lL qLbar qL
+lLbar lL uRbar uR
+lLbar lL vRbar vR
+lLbar lLbar H1bar H1bar
+lLbar qL uRbar vR
+lLbar vR BT H1bar
+lLbar vR H1bar WT
+qLbar dR BT H1
+qLbar dR GT H1
+qLbar dR H1 WT
+qLbar dR qLbar uR
+qLbar lL vRbar uR
+qLbar lLbar qLbar qLbar
+qLbar qL H1 H1bar
+qLbar qL qLbar qL
+qLbar qL uRbar uR
+qLbar qL vRbar vR
+qLbar uR BT H1bar
+qLbar uR GT H1bar
+qLbar uR H1bar WT
+uRbar dR H1 H1
+uRbar qL BT H1
+uRbar qL GT H1
+uRbar qL H1 WT
+uRbar uR H1 H1bar
+uRbar uR uRbar uR
+uRbar uR vRbar vR
+vR vR H1 H1bar
+vR vR vR vR
+vRbar eR H1 H1
+vRbar lL BT H1
+vRbar lL H1 WT
+vRbar vR H1 H1bar
+vRbar vR vRbar vR
+vRbar vRbar H1 H1bar
+vRbar vRbar vRbar vRbar
+dRbar qL H1 H1bar H1bar
+eRbar lL H1 H1bar H1bar
+lLbar eR H1 H1 H1bar
+lLbar vR H1 H1bar H1bar
+qLbar dR H1 H1 H1bar
+qLbar uR H1 H1bar H1bar
+uRbar qL H1 H1 H1bar
+vRbar lL H1 H1 H1bar
+H1 H1 H1 H1bar H1bar H1bar

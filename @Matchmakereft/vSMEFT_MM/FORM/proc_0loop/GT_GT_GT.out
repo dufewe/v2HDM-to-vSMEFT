@@ -1,0 +1,20 @@
+    eseft(1)=G[6*(p2.p2)*(p3.pol1)*(pol2.pol3)*sSS^3*alphac6G - 6*(p2.p2)*(
+   p3.pol2)*(pol1.pol3)*sSS^3*alphac6G - 6*(p2.p3)*(p2.pol1)*(pol2.pol3)*sSS^3
+   *alphac6G + 6*(p2.p3)*(p2.pol2)*(pol1.pol3)*sSS^3*alphac6G + 6*(p2.p3)*(
+   p3.pol1)*(pol2.pol3)*sSS^3*alphac6G - 6*(p2.p3)*(p3.pol3)*(pol1.pol2)*sSS^3
+   *alphac6G + 6*(p2.pol1)*(p2.pol3)*(p3.pol2)*sSS^3*alphac6G - 6*(p2.pol1)*(
+   p3.p3)*(pol2.pol3)*sSS^3*alphac6G + 6*(p2.pol1)*(p3.pol2)*(p3.pol3)*sSS^3*
+   alphac6G + (p2.pol1)*(pol2.pol3)*sSS*gs*alphaKGT - 6*(p2.pol2)*(p2.pol3)*(
+   p3.pol1)*sSS^3*alphac6G + (p2.pol2)*(pol1.pol3)*sSS*gs*alphaKGT + 6*(
+   p2.pol3)*(p3.p3)*(pol1.pol2)*sSS^3*alphac6G - 6*(p2.pol3)*(p3.pol1)*(
+   p3.pol2)*sSS^3*alphac6G - 2*(p2.pol3)*(pol1.pol2)*sSS*gs*alphaKGT - (
+   p3.pol1)*(pol2.pol3)*sSS*gs*alphaKGT + 2*(p3.pol2)*(pol1.pol3)*sSS*gs*
+   alphaKGT - (p3.pol3)*(pol1.pol2)*sSS*gs*alphaKGT - 4*e_[p2,p3,pol1,pol2]*(
+   p2.pol3)*sSS^3*I*alphac6Gt - 2*e_[p2,p3,pol1,pol2]*(p3.pol3)*sSS^3*I*
+   alphac6Gt - 2*e_[p2,p3,pol1,pol3]*(p2.pol2)*sSS^3*I*alphac6Gt - 4*e_[p2,p3,
+   pol1,pol3]*(p3.pol2)*sSS^3*I*alphac6Gt + 2*e_[p2,p3,pol2,pol3]*(p2.pol1)*
+   sSS^3*I*alphac6Gt - 2*e_[p2,p3,pol2,pol3]*(p3.pol1)*sSS^3*I*alphac6Gt + 4*
+   e_[p2,pol1,pol2,pol3]*(p2.p3)*sSS^3*I*alphac6Gt + 2*e_[p2,pol1,pol2,pol3]*(
+   p3.p3)*sSS^3*I*alphac6Gt + 2*e_[p3,pol1,pol2,pol3]*(p2.p2)*sSS^3*I*
+   alphac6Gt + 4*e_[p3,pol1,pol2,pol3]*(p2.p3)*sSS^3*I*alphac6Gt];
+

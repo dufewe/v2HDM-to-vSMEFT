@@ -1,0 +1,37 @@
+    eseft(1)=G[2*(p2.p2)*(p2.pol1)*(pol2.pol3)*sSS^3*g2*alphacR6WD + 2*(p2.p2)
+   *(p2.pol2)*(pol1.pol3)*sSS^3*g2*alphacR6WD - 8*(p2.p2)*(p2.pol3)*(
+   pol1.pol2)*sSS^3*g2*alphacR6WD - 6*(p2.p2)*(p3.pol1)*(pol2.pol3)*sSS^3*
+   alphac6W - 6*(p2.p2)*(p3.pol1)*(pol2.pol3)*sSS^3*g2*alphacR6WD + 6*(p2.p2)*
+   (p3.pol2)*(pol1.pol3)*sSS^3*alphac6W + 8*(p2.p2)*(p3.pol2)*(pol1.pol3)*
+   sSS^3*g2*alphacR6WD - 4*(p2.p2)*(p3.pol3)*(pol1.pol2)*sSS^3*g2*alphacR6WD
+    + 6*(p2.p3)*(p2.pol1)*(pol2.pol3)*sSS^3*alphac6W + 4*(p2.p3)*(p2.pol1)*(
+   pol2.pol3)*sSS^3*g2*alphacR6WD - 6*(p2.p3)*(p2.pol2)*(pol1.pol3)*sSS^3*
+   alphac6W - 8*(p2.p3)*(p2.pol3)*(pol1.pol2)*sSS^3*g2*alphacR6WD - 6*(p2.p3)*
+   (p3.pol1)*(pol2.pol3)*sSS^3*alphac6W - 4*(p2.p3)*(p3.pol1)*(pol2.pol3)*
+   sSS^3*g2*alphacR6WD + 8*(p2.p3)*(p3.pol2)*(pol1.pol3)*sSS^3*g2*alphacR6WD
+    + 6*(p2.p3)*(p3.pol3)*(pol1.pol2)*sSS^3*alphac6W + 4*(p2.pol1)*(p2.pol2)*(
+   p2.pol3)*sSS^3*g2*alphacR6WD + 2*(p2.pol1)*(p2.pol2)*(p3.pol3)*sSS^3*g2*
+   alphacR6WD - 6*(p2.pol1)*(p2.pol3)*(p3.pol2)*sSS^3*alphac6W + 6*(p2.pol1)*(
+   p3.p3)*(pol2.pol3)*sSS^3*alphac6W + 6*(p2.pol1)*(p3.p3)*(pol2.pol3)*sSS^3*
+   g2*alphacR6WD - 6*(p2.pol1)*(p3.pol2)*(p3.pol3)*sSS^3*alphac6W - 4*(
+   p2.pol1)*(p3.pol2)*(p3.pol3)*sSS^3*g2*alphacR6WD - (p2.pol1)*(pol2.pol3)*
+   sSS*g2*alphaKWT + 6*(p2.pol2)*(p2.pol3)*(p3.pol1)*sSS^3*alphac6W + 4*(
+   p2.pol2)*(p2.pol3)*(p3.pol1)*sSS^3*g2*alphacR6WD + 4*(p2.pol2)*(p3.p3)*(
+   pol1.pol3)*sSS^3*g2*alphacR6WD - 2*(p2.pol2)*(p3.pol1)*(p3.pol3)*sSS^3*g2*
+   alphacR6WD - (p2.pol2)*(pol1.pol3)*sSS*g2*alphaKWT - 6*(p2.pol3)*(p3.p3)*(
+   pol1.pol2)*sSS^3*alphac6W - 8*(p2.pol3)*(p3.p3)*(pol1.pol2)*sSS^3*g2*
+   alphacR6WD + 6*(p2.pol3)*(p3.pol1)*(p3.pol2)*sSS^3*alphac6W + 2*(p2.pol3)*(
+   pol1.pol2)*sSS*g2*alphaKWT - 2*(p3.p3)*(p3.pol1)*(pol2.pol3)*sSS^3*g2*
+   alphacR6WD + 8*(p3.p3)*(p3.pol2)*(pol1.pol3)*sSS^3*g2*alphacR6WD - 2*(
+   p3.p3)*(p3.pol3)*(pol1.pol2)*sSS^3*g2*alphacR6WD - 4*(p3.pol1)*(p3.pol2)*(
+   p3.pol3)*sSS^3*g2*alphacR6WD + (p3.pol1)*(pol2.pol3)*sSS*g2*alphaKWT - 2*(
+   p3.pol2)*(pol1.pol3)*sSS*g2*alphaKWT + (p3.pol3)*(pol1.pol2)*sSS*g2*
+   alphaKWT + 4*e_[p2,p3,pol1,pol2]*(p2.pol3)*sSS^3*I*alphac6Wt + 2*e_[p2,p3,
+   pol1,pol2]*(p3.pol3)*sSS^3*I*alphac6Wt + 2*e_[p2,p3,pol1,pol3]*(p2.pol2)*
+   sSS^3*I*alphac6Wt + 4*e_[p2,p3,pol1,pol3]*(p3.pol2)*sSS^3*I*alphac6Wt - 2*
+   e_[p2,p3,pol2,pol3]*(p2.pol1)*sSS^3*I*alphac6Wt + 2*e_[p2,p3,pol2,pol3]*(
+   p3.pol1)*sSS^3*I*alphac6Wt - 4*e_[p2,pol1,pol2,pol3]*(p2.p3)*sSS^3*I*
+   alphac6Wt - 2*e_[p2,pol1,pol2,pol3]*(p3.p3)*sSS^3*I*alphac6Wt - 2*e_[p3,
+   pol1,pol2,pol3]*(p2.p2)*sSS^3*I*alphac6Wt - 4*e_[p3,pol1,pol2,pol3]*(p2.p3)
+   *sSS^3*I*alphac6Wt];
+

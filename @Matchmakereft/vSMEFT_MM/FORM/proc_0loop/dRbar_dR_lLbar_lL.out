@@ -1,0 +1,5 @@
+    eseft(1)=alphac6ld[fl95,fl93,fl99,fl97];
+    eseft(2)=G[gam[y95,FIVE,mu1,y93]*gam[y99,FIVE,mu1,y97]*I*eseft(1) - gam[
+   y95,FIVE,mu1,y93]*gam[y99,mu1,y97]*I*eseft(1) + gam[y95,mu1,y93]*gam[y99,
+   FIVE,mu1,y97]*I*eseft(1) - gam[y95,mu1,y93]*gam[y99,mu1,y97]*I*eseft(1)];
+

@@ -1,0 +1,58 @@
+diags:=[
+ 
+(-1)*
+ cpol(vRbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(H1(-5,p3))*
+ cpol(WT(-7,p4))*
+
+ prop(H2(1,-p1-p2),H2bar(2,-p1-p2))*
+ prop(H2(3,-k1+p4),H2bar(4,-k1+p4))*
+ prop(H2(5,-k1),H2bar(6,-k1))*
+ v3(vRbar(-1,p1),lL(-3,p2),H2(1,-p1-p2))*
+ v3(H2(5,-k1),H2bar(4,k1-p4),WT(-7,p4))*
+ v4(H1(-5,p3),H2(3,-k1+p4),H2bar(2,p1+p2),H2bar(6,k1)),
+ 
+(-1)*
+ cpol(vRbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(H1(-5,p3))*
+ cpol(WT(-7,p4))*
+
+ prop(H2(1,-p1-p2),H2bar(2,-p1-p2))*
+ prop(H2(3,p3),H2bar(4,p3))*
+ prop(H2(5,k1),H2bar(6,k1))*
+ v3(vRbar(-1,p1),lL(-3,p2),H2(1,-p1-p2))*
+ v3(H2(3,p3),H2bar(2,p1+p2),WT(-7,p4))*
+ v4(H1(-5,p3),H2(5,k1),H2bar(4,-p3),H2bar(6,-k1)),
+ 
+(-1)*
+ cpol(vRbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(H1(-5,p3))*
+ cpol(WT(-7,p4))*
+
+ prop(H2(1,-k1),H2bar(2,-k1))*
+ prop(lL(3,k1-p1),lLbar(4,k1-p1))*
+ prop(eR(5,k1+p2),eRbar(6,k1+p2))*
+ prop(lL(7,k1-p1-p4),lLbar(8,k1-p1-p4))*
+ v3(vRbar(-1,p1),lL(3,k1-p1),H2(1,-k1))*
+ v3(eRbar(6,-k1-p2),lL(-3,p2),H2bar(2,k1))*
+ v3(lLbar(4,-k1+p1),lL(7,k1-p1-p4),WT(-7,p4))*
+ v3(lLbar(8,-k1+p1+p4),eR(5,k1+p2),H1(-5,p3)),
+ 
+(-1)*
+ cpol(vRbar(-1,p1))*
+ cpol(lL(-3,p2))*
+ cpol(H1(-5,p3))*
+ cpol(WT(-7,p4))*
+
+ prop(lL(1,-k1),lLbar(2,-k1))*
+ prop(H2(3,k1-p1),H2bar(4,k1-p1))*
+ prop(eR(5,-k1-p3),eRbar(6,-k1-p3))*
+ prop(H2(7,k1-p1-p4),H2bar(8,k1-p1-p4))*
+ v3(vRbar(-1,p1),lL(1,-k1),H2(3,k1-p1))*
+ v3(lLbar(2,k1),eR(5,-k1-p3),H1(-5,p3))*
+ v3(H2(7,k1-p1-p4),H2bar(4,-k1+p1),WT(-7,p4))*
+ v3(eRbar(6,k1+p3),lL(-3,p2),H2bar(8,-k1+p1+p4)),
+NULL]:

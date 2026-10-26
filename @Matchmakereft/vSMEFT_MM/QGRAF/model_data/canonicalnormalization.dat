@@ -1,0 +1,1502 @@
+alldeltalist0 = {deltaalphac6G -> (-3*alphac6G*alphaKGT)/2, 
+     deltaalphac6Gt -> (-3*alphac6Gt*alphaKGT)/2, 
+     deltaalphac6H -> -3*alphac6H*alphaKH1, deltaalphac6HB -> 
+      (-2*alphac6HB*alphaKBT - 2*alphac6HB*alphaKH1)/2, 
+     deltaalphac6HBox -> -2*alphac6HBox*alphaKH1, deltaalphac6HBt -> 
+      (-2*alphac6HBt*alphaKBT - 2*alphac6HBt*alphaKH1)/2, 
+     deltaalphac6HD -> -2*alphac6HD*alphaKH1, deltaalphac6HG -> 
+      (-2*alphac6HG*alphaKGT - 2*alphac6HG*alphaKH1)/2, 
+     deltaalphac6HGt -> (-2*alphac6HGt*alphaKGT - 2*alphac6HGt*alphaKH1)/2, 
+     deltaalphac6HW -> (-2*alphac6HW*alphaKH1 - 2*alphac6HW*alphaKWT)/2, 
+     deltaalphac6HWB -> (-(alphac6HWB*alphaKBT) - 2*alphac6HWB*alphaKH1 - 
+        alphac6HWB*alphaKWT)/2, deltaalphac6HWt -> 
+      (-2*alphac6HWt*alphaKH1 - 2*alphac6HWt*alphaKWT)/2, 
+     deltaalphac6HWtB -> (-(alphac6HWtB*alphaKBT) - 2*alphac6HWtB*alphaKH1 - 
+        alphac6HWtB*alphaKWT)/2, deltaalphac6W -> (-3*alphac6W*alphaKWT)/2, 
+     deltaalphac6Wt -> (-3*alphac6Wt*alphaKWT)/2, deltaalphacR6BD -> 
+      -(alphacR6BD*alphaKBT), deltaalphacR6HD -> -2*alphacR6HD*alphaKH1, 
+     deltaalphacR6HDbar -> -2*alphacR6HDbar*alphaKH1, 
+     deltaalphacR6WD -> -(alphacR6WD*alphaKWT), deltaalphaKBT -> -alphaKBT, 
+     deltaalphaKGT -> -alphaKGT, deltaalphaKH1 -> -alphaKH1, 
+     deltaalphaKWT -> -alphaKWT, deltaalphalambda1 -> 
+      -2*alphaKH1*alphalambda1, deltaalphamH11 -> -(alphaKH1*alphamH11), 
+     deltaalphac5lH[fl97_, fl99_] -> (-2*alphaKH1*alphac5lH[fl97, fl99] - 
+        alphac5lH[MIF1, fl99]*alphaKLL[MIF1, fl97] - alphac5lH[fl97, MIF1]*
+         alphaKLL[MIF1, fl99])/2, deltaalphac5lHbar[fl97_, fl99_] -> 
+      (-2*alphaKH1*alphac5lHbar[fl97, fl99] - alphac5lHbar[MIF1, fl99]*
+         alphaKLLbar[MIF1, fl97] - alphac5lHbar[fl97, MIF1]*
+         alphaKLLbar[MIF1, fl99])/2, deltaalphac5vB[fl97_, fl99_] -> 
+      (-(alphaKBT*alphac5vB[fl97, fl99]) - alphac5vB[MIF1, fl99]*
+         alphaKNR[MIF1, fl97] - alphac5vB[fl97, MIF1]*alphaKNR[MIF1, fl99])/
+       2, deltaalphac5vBbar[fl97_, fl99_] -> 
+      (-(alphaKBT*alphac5vBbar[fl97, fl99]) - alphac5vBbar[MIF1, fl99]*
+         alphaKNRbar[MIF1, fl97] - alphac5vBbar[fl97, MIF1]*
+         alphaKNRbar[MIF1, fl99])/2, deltaalphac5vH[fl97_, fl99_] -> 
+      (-2*alphaKH1*alphac5vH[fl97, fl99] - alphac5vH[MIF1, fl99]*
+         alphaKNR[MIF1, fl97] - alphac5vH[fl97, MIF1]*alphaKNR[MIF1, fl99])/
+       2, deltaalphac5vHbar[fl97_, fl99_] -> 
+      (-2*alphaKH1*alphac5vHbar[fl97, fl99] - alphac5vHbar[MIF1, fl99]*
+         alphaKNRbar[MIF1, fl97] - alphac5vHbar[fl97, MIF1]*
+         alphaKNRbar[MIF1, fl99])/2, deltaalphac6dB[fl99_, fl97_] -> 
+      (-(alphaKBT*alphac6dB[fl99, fl97]) - alphaKH1*alphac6dB[fl99, fl97] - 
+        alphac6dB[fl99, MIF1]*alphaKDR[MIF1, fl97] - alphac6dB[MIF1, fl97]*
+         alphaKQL[fl99, MIF1])/2, deltaalphac6dBbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphac6dBbar[fl99, fl97]) - alphaKH1*alphac6dBbar[fl99, 
+          fl97] - alphac6dBbar[fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6dBbar[MIF1, fl97]*alphaKQLbar[fl99, MIF1])/2, 
+     deltaalphac6dd[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6dd[MIF1, fl93, fl99, fl97]*alphaKDR[fl95, MIF1]) - 
+        alphac6dd[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1] - 
+        alphac6dd[fl95, MIF1, fl99, fl97]*alphaKDR[MIF1, fl93] - 
+        alphac6dd[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97])/2, 
+     deltaalphac6dd[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6dd[MIF1, fl97, fl99, fl93]*alphaKDR[fl95, MIF1]) - 
+        alphac6dd[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1] - 
+        alphac6dd[fl95, fl97, fl99, MIF1]*alphaKDR[MIF1, fl93] - 
+        alphac6dd[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97])/2, 
+     deltaalphac6ddbar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ddbar[MIF1, fl93, fl99, fl97]*alphaKDRbar[fl95, MIF1]) - 
+        alphac6ddbar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1] - 
+        alphac6ddbar[fl95, MIF1, fl99, fl97]*alphaKDRbar[MIF1, fl93] - 
+        alphac6ddbar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97])/2, 
+     deltaalphac6ddbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6ddbar[MIF1, fl97, fl99, fl93]*alphaKDRbar[fl95, MIF1]) - 
+        alphac6ddbar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1] - 
+        alphac6ddbar[fl95, fl97, fl99, MIF1]*alphaKDRbar[MIF1, fl93] - 
+        alphac6ddbar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97])/2, 
+     deltaalphac6dG[fl99_, fl97_] -> (-(alphaKGT*alphac6dG[fl99, fl97]) - 
+        alphaKH1*alphac6dG[fl99, fl97] - alphac6dG[fl99, MIF1]*
+         alphaKDR[MIF1, fl97] - alphac6dG[MIF1, fl97]*alphaKQL[fl99, MIF1])/
+       2, deltaalphac6dGbar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphac6dGbar[fl99, fl97]) - alphaKH1*alphac6dGbar[fl99, 
+          fl97] - alphac6dGbar[fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6dGbar[MIF1, fl97]*alphaKQLbar[fl99, MIF1])/2, 
+     deltaalphac6dH[fl99_, fl97_] -> (-3*alphaKH1*alphac6dH[fl99, fl97] - 
+        alphac6dH[fl99, MIF1]*alphaKDR[MIF1, fl97] - alphac6dH[MIF1, fl97]*
+         alphaKQL[fl99, MIF1])/2, deltaalphac6dHbar[fl99_, fl97_] -> 
+      (-3*alphaKH1*alphac6dHbar[fl99, fl97] - alphac6dHbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97] - alphac6dHbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1])/2, deltaalphac6duql[fl99_, fl93_, fl97_, 
+       fl95_] -> (-(alphac6duql[MIF1, fl93, fl97, fl95]*alphaKDR[MIF1, 
+           fl99]) - alphac6duql[fl99, MIF1, fl97, fl95]*
+         alphaKLL[MIF1, fl93] - alphac6duql[fl99, fl93, fl97, MIF1]*
+         alphaKQL[MIF1, fl95] - alphac6duql[fl99, fl93, MIF1, fl95]*
+         alphaKUR[MIF1, fl97])/2, deltaalphac6duqlbar[fl99_, fl93_, fl97_, 
+       fl95_] -> (-(alphac6duqlbar[MIF1, fl93, fl97, fl95]*
+          alphaKDRbar[MIF1, fl99]) - alphac6duqlbar[fl99, MIF1, fl97, fl95]*
+         alphaKLLbar[MIF1, fl93] - alphac6duqlbar[fl99, fl93, fl97, MIF1]*
+         alphaKQLbar[MIF1, fl95] - alphac6duqlbar[fl99, fl93, MIF1, fl95]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphac6duue[fl99_, fl93_, fl97_, 
+       fl95_] -> (-(alphac6duue[MIF1, fl93, fl97, fl95]*alphaKDR[MIF1, 
+           fl99]) - alphac6duue[fl99, MIF1, fl97, fl95]*
+         alphaKER[MIF1, fl93] - alphac6duue[fl99, fl93, fl97, MIF1]*
+         alphaKUR[MIF1, fl95] - alphac6duue[fl99, fl93, MIF1, fl95]*
+         alphaKUR[MIF1, fl97])/2, deltaalphac6duue[fl99_, fl97_, fl93_, 
+       fl95_] -> (-(alphac6duue[MIF1, fl97, fl93, fl95]*alphaKDR[MIF1, 
+           fl99]) - alphac6duue[fl99, MIF1, fl93, fl95]*
+         alphaKER[MIF1, fl97] - alphac6duue[fl99, fl97, MIF1, fl95]*
+         alphaKUR[MIF1, fl93] - alphac6duue[fl99, fl97, fl93, MIF1]*
+         alphaKUR[MIF1, fl95])/2, deltaalphac6duuebar[fl99_, fl93_, fl97_, 
+       fl95_] -> (-(alphac6duuebar[MIF1, fl93, fl97, fl95]*
+          alphaKDRbar[MIF1, fl99]) - alphac6duuebar[fl99, MIF1, fl97, fl95]*
+         alphaKERbar[MIF1, fl93] - alphac6duuebar[fl99, fl93, fl97, MIF1]*
+         alphaKURbar[MIF1, fl95] - alphac6duuebar[fl99, fl93, MIF1, fl95]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphac6duuebar[fl99_, fl97_, fl93_, 
+       fl95_] -> (-(alphac6duuebar[MIF1, fl97, fl93, fl95]*
+          alphaKDRbar[MIF1, fl99]) - alphac6duuebar[fl99, MIF1, fl93, fl95]*
+         alphaKERbar[MIF1, fl97] - alphac6duuebar[fl99, fl97, MIF1, fl95]*
+         alphaKURbar[MIF1, fl93] - alphac6duuebar[fl99, fl97, fl93, MIF1]*
+         alphaKURbar[MIF1, fl95])/2, deltaalphac6dW[fl99_, fl97_] -> 
+      (-(alphaKH1*alphac6dW[fl99, fl97]) - alphaKWT*alphac6dW[fl99, fl97] - 
+        alphac6dW[fl99, MIF1]*alphaKDR[MIF1, fl97] - alphac6dW[MIF1, fl97]*
+         alphaKQL[fl99, MIF1])/2, deltaalphac6dWbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphac6dWbar[fl99, fl97]) - alphaKWT*alphac6dWbar[fl99, 
+          fl97] - alphac6dWbar[fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6dWbar[MIF1, fl97]*alphaKQLbar[fl99, MIF1])/2, 
+     deltaalphac6eB[fl99_, fl97_] -> (-(alphaKBT*alphac6eB[fl99, fl97]) - 
+        alphaKH1*alphac6eB[fl99, fl97] - alphac6eB[fl99, MIF1]*
+         alphaKER[MIF1, fl97] - alphac6eB[MIF1, fl97]*alphaKLL[fl99, MIF1])/
+       2, deltaalphac6eBbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphac6eBbar[fl99, fl97]) - alphaKH1*alphac6eBbar[fl99, 
+          fl97] - alphac6eBbar[fl99, MIF1]*alphaKERbar[MIF1, fl97] - 
+        alphac6eBbar[MIF1, fl97]*alphaKLLbar[fl99, MIF1])/2, 
+     deltaalphac6ed[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ed[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphac6ed[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphac6ed[MIF1, fl93, fl99, fl97]*alphaKER[fl95, MIF1] - 
+        alphac6ed[fl95, MIF1, fl99, fl97]*alphaKER[MIF1, fl93])/2, 
+     deltaalphac6edbar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6edbar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6edbar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6edbar[MIF1, fl93, fl99, fl97]*alphaKERbar[fl95, MIF1] - 
+        alphac6edbar[fl95, MIF1, fl99, fl97]*alphaKERbar[MIF1, fl93])/2, 
+     deltaalphac6ee[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ee[MIF1, fl93, fl99, fl97]*alphaKER[fl95, MIF1]) - 
+        alphac6ee[fl95, fl93, MIF1, fl97]*alphaKER[fl99, MIF1] - 
+        alphac6ee[fl95, MIF1, fl99, fl97]*alphaKER[MIF1, fl93] - 
+        alphac6ee[fl95, fl93, fl99, MIF1]*alphaKER[MIF1, fl97])/2, 
+     deltaalphac6ee[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6ee[MIF1, fl97, fl99, fl93]*alphaKER[fl95, MIF1]) - 
+        alphac6ee[fl95, fl97, MIF1, fl93]*alphaKER[fl99, MIF1] - 
+        alphac6ee[fl95, fl97, fl99, MIF1]*alphaKER[MIF1, fl93] - 
+        alphac6ee[fl95, MIF1, fl99, fl93]*alphaKER[MIF1, fl97])/2, 
+     deltaalphac6eebar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6eebar[MIF1, fl93, fl99, fl97]*alphaKERbar[fl95, MIF1]) - 
+        alphac6eebar[fl95, fl93, MIF1, fl97]*alphaKERbar[fl99, MIF1] - 
+        alphac6eebar[fl95, MIF1, fl99, fl97]*alphaKERbar[MIF1, fl93] - 
+        alphac6eebar[fl95, fl93, fl99, MIF1]*alphaKERbar[MIF1, fl97])/2, 
+     deltaalphac6eebar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6eebar[MIF1, fl97, fl99, fl93]*alphaKERbar[fl95, MIF1]) - 
+        alphac6eebar[fl95, fl97, MIF1, fl93]*alphaKERbar[fl99, MIF1] - 
+        alphac6eebar[fl95, fl97, fl99, MIF1]*alphaKERbar[MIF1, fl93] - 
+        alphac6eebar[fl95, MIF1, fl99, fl93]*alphaKERbar[MIF1, fl97])/2, 
+     deltaalphac6eH[fl99_, fl97_] -> (-3*alphaKH1*alphac6eH[fl99, fl97] - 
+        alphac6eH[fl99, MIF1]*alphaKER[MIF1, fl97] - alphac6eH[MIF1, fl97]*
+         alphaKLL[fl99, MIF1])/2, deltaalphac6eHbar[fl99_, fl97_] -> 
+      (-3*alphaKH1*alphac6eHbar[fl99, fl97] - alphac6eHbar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97] - alphac6eHbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1])/2, deltaalphac6eu[fl99_, fl97_, fl95_, 
+       fl93_] -> (-(alphac6eu[MIF1, fl97, fl95, fl93]*alphaKER[fl99, MIF1]) - 
+        alphac6eu[fl99, MIF1, fl95, fl93]*alphaKER[MIF1, fl97] - 
+        alphac6eu[fl99, fl97, MIF1, fl93]*alphaKUR[fl95, MIF1] - 
+        alphac6eu[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6eubar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6eubar[MIF1, fl97, fl95, fl93]*alphaKERbar[fl99, MIF1]) - 
+        alphac6eubar[fl99, MIF1, fl95, fl93]*alphaKERbar[MIF1, fl97] - 
+        alphac6eubar[fl99, fl97, MIF1, fl93]*alphaKURbar[fl95, MIF1] - 
+        alphac6eubar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6eW[fl99_, fl97_] -> (-(alphaKH1*alphac6eW[fl99, fl97]) - 
+        alphaKWT*alphac6eW[fl99, fl97] - alphac6eW[fl99, MIF1]*
+         alphaKER[MIF1, fl97] - alphac6eW[MIF1, fl97]*alphaKLL[fl99, MIF1])/
+       2, deltaalphac6eWbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphac6eWbar[fl99, fl97]) - alphaKWT*alphac6eWbar[fl99, 
+          fl97] - alphac6eWbar[fl99, MIF1]*alphaKERbar[MIF1, fl97] - 
+        alphac6eWbar[MIF1, fl97]*alphaKLLbar[fl99, MIF1])/2, 
+     deltaalphac6Hd[fl99_, fl97_] -> (-2*alphaKH1*alphac6Hd[fl99, fl97] - 
+        alphac6Hd[MIF1, fl97]*alphaKDR[fl99, MIF1] - alphac6Hd[fl99, MIF1]*
+         alphaKDR[MIF1, fl97])/2, deltaalphac6Hdbar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hdbar[fl99, fl97] - alphac6Hdbar[MIF1, fl97]*
+         alphaKDRbar[fl99, MIF1] - alphac6Hdbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97])/2, deltaalphac6He[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6He[fl99, fl97] - alphac6He[MIF1, fl97]*
+         alphaKER[fl99, MIF1] - alphac6He[fl99, MIF1]*alphaKER[MIF1, fl97])/
+       2, deltaalphac6Hebar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hebar[fl99, fl97] - alphac6Hebar[MIF1, fl97]*
+         alphaKERbar[fl99, MIF1] - alphac6Hebar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97])/2, deltaalphac6Hl1[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hl1[fl99, fl97] - alphac6Hl1[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphac6Hl1[fl99, MIF1]*alphaKLL[MIF1, fl97])/
+       2, deltaalphac6Hl1bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hl1bar[fl99, fl97] - alphac6Hl1bar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphac6Hl1bar[fl99, MIF1]*
+         alphaKLLbar[MIF1, fl97])/2, deltaalphac6Hl3[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hl3[fl99, fl97] - alphac6Hl3[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphac6Hl3[fl99, MIF1]*alphaKLL[MIF1, fl97])/
+       2, deltaalphac6Hl3bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hl3bar[fl99, fl97] - alphac6Hl3bar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphac6Hl3bar[fl99, MIF1]*
+         alphaKLLbar[MIF1, fl97])/2, deltaalphac6Hq1[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hq1[fl99, fl97] - alphac6Hq1[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphac6Hq1[fl99, MIF1]*alphaKQL[MIF1, fl97])/
+       2, deltaalphac6Hq1bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hq1bar[fl99, fl97] - alphac6Hq1bar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphac6Hq1bar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphac6Hq3[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hq3[fl99, fl97] - alphac6Hq3[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphac6Hq3[fl99, MIF1]*alphaKQL[MIF1, fl97])/
+       2, deltaalphac6Hq3bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hq3bar[fl99, fl97] - alphac6Hq3bar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphac6Hq3bar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphac6Hu[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hu[fl99, fl97] - alphac6Hu[MIF1, fl97]*
+         alphaKUR[fl99, MIF1] - alphac6Hu[fl99, MIF1]*alphaKUR[MIF1, fl97])/
+       2, deltaalphac6Hubar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hubar[fl99, fl97] - alphac6Hubar[MIF1, fl97]*
+         alphaKURbar[fl99, MIF1] - alphac6Hubar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphac6Hud[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hud[fl99, fl97] - alphac6Hud[fl99, MIF1]*
+         alphaKDR[MIF1, fl97] - alphac6Hud[MIF1, fl97]*alphaKUR[fl99, MIF1])/
+       2, deltaalphac6Hudbar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hudbar[fl99, fl97] - alphac6Hudbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97] - alphac6Hudbar[MIF1, fl97]*
+         alphaKURbar[fl99, MIF1])/2, deltaalphac6Hv[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hv[fl99, fl97] - alphac6Hv[MIF1, fl97]*
+         alphaKNR[fl99, MIF1] - alphac6Hv[fl99, MIF1]*alphaKNR[MIF1, fl97])/
+       2, deltaalphac6Hvbar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hvbar[fl99, fl97] - alphac6Hvbar[MIF1, fl97]*
+         alphaKNRbar[fl99, MIF1] - alphac6Hvbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphac6Hve[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hve[fl99, fl97] - alphac6Hve[fl99, MIF1]*
+         alphaKER[MIF1, fl97] - alphac6Hve[MIF1, fl97]*alphaKNR[fl99, MIF1])/
+       2, deltaalphac6Hvebar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphac6Hvebar[fl99, fl97] - alphac6Hvebar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97] - alphac6Hvebar[MIF1, fl97]*
+         alphaKNRbar[fl99, MIF1])/2, deltaalphac6ld[fl95_, fl93_, fl99_, 
+       fl97_] -> (-(alphac6ld[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphac6ld[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphac6ld[MIF1, fl93, fl99, fl97]*alphaKLL[fl95, MIF1] - 
+        alphac6ld[fl95, MIF1, fl99, fl97]*alphaKLL[MIF1, fl93])/2, 
+     deltaalphac6ldbar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ldbar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6ldbar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6ldbar[MIF1, fl93, fl99, fl97]*alphaKLLbar[fl95, MIF1] - 
+        alphac6ldbar[fl95, MIF1, fl99, fl97]*alphaKLLbar[MIF1, fl93])/2, 
+     deltaalphac6le[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6le[fl95, fl93, MIF1, fl97]*alphaKER[fl99, MIF1]) - 
+        alphac6le[fl95, fl93, fl99, MIF1]*alphaKER[MIF1, fl97] - 
+        alphac6le[MIF1, fl93, fl99, fl97]*alphaKLL[fl95, MIF1] - 
+        alphac6le[fl95, MIF1, fl99, fl97]*alphaKLL[MIF1, fl93])/2, 
+     deltaalphac6lebar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6lebar[fl95, fl93, MIF1, fl97]*alphaKERbar[fl99, MIF1]) - 
+        alphac6lebar[fl95, fl93, fl99, MIF1]*alphaKERbar[MIF1, fl97] - 
+        alphac6lebar[MIF1, fl93, fl99, fl97]*alphaKLLbar[fl95, MIF1] - 
+        alphac6lebar[fl95, MIF1, fl99, fl97]*alphaKLLbar[MIF1, fl93])/2, 
+     deltaalphac6ledq[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6ledq[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphac6ledq[fl95, MIF1, fl99, fl93]*alphaKER[MIF1, fl97] - 
+        alphac6ledq[MIF1, fl97, fl99, fl93]*alphaKLL[fl95, MIF1] - 
+        alphac6ledq[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphac6ledqbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6ledqbar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6ledqbar[fl95, MIF1, fl99, fl93]*alphaKERbar[MIF1, fl97] - 
+        alphac6ledqbar[MIF1, fl97, fl99, fl93]*alphaKLLbar[fl95, MIF1] - 
+        alphac6ledqbar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphac6lequ1[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lequ1[fl99, MIF1, fl95, fl93]*alphaKER[MIF1, fl97]) - 
+        alphac6lequ1[MIF1, fl97, fl95, fl93]*alphaKLL[fl99, MIF1] - 
+        alphac6lequ1[fl99, fl97, MIF1, fl93]*alphaKQL[fl95, MIF1] - 
+        alphac6lequ1[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6lequ1bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lequ1bar[fl99, MIF1, fl95, fl93]*alphaKERbar[MIF1, fl97]) - 
+        alphac6lequ1bar[MIF1, fl97, fl95, fl93]*alphaKLLbar[fl99, MIF1] - 
+        alphac6lequ1bar[fl99, fl97, MIF1, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphac6lequ1bar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6lequ3[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lequ3[fl99, MIF1, fl95, fl93]*alphaKER[MIF1, fl97]) - 
+        alphac6lequ3[MIF1, fl97, fl95, fl93]*alphaKLL[fl99, MIF1] - 
+        alphac6lequ3[fl99, fl97, MIF1, fl93]*alphaKQL[fl95, MIF1] - 
+        alphac6lequ3[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6lequ3bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lequ3bar[fl99, MIF1, fl95, fl93]*alphaKERbar[MIF1, fl97]) - 
+        alphac6lequ3bar[MIF1, fl97, fl95, fl93]*alphaKLLbar[fl99, MIF1] - 
+        alphac6lequ3bar[fl99, fl97, MIF1, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphac6lequ3bar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6ll[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ll[MIF1, fl93, fl99, fl97]*alphaKLL[fl95, MIF1]) - 
+        alphac6ll[fl95, fl93, MIF1, fl97]*alphaKLL[fl99, MIF1] - 
+        alphac6ll[fl95, MIF1, fl99, fl97]*alphaKLL[MIF1, fl93] - 
+        alphac6ll[fl95, fl93, fl99, MIF1]*alphaKLL[MIF1, fl97])/2, 
+     deltaalphac6ll[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6ll[MIF1, fl97, fl99, fl93]*alphaKLL[fl95, MIF1]) - 
+        alphac6ll[fl95, fl97, MIF1, fl93]*alphaKLL[fl99, MIF1] - 
+        alphac6ll[fl95, fl97, fl99, MIF1]*alphaKLL[MIF1, fl93] - 
+        alphac6ll[fl95, MIF1, fl99, fl93]*alphaKLL[MIF1, fl97])/2, 
+     deltaalphac6llbar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6llbar[MIF1, fl93, fl99, fl97]*alphaKLLbar[fl95, MIF1]) - 
+        alphac6llbar[fl95, fl93, MIF1, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphac6llbar[fl95, MIF1, fl99, fl97]*alphaKLLbar[MIF1, fl93] - 
+        alphac6llbar[fl95, fl93, fl99, MIF1]*alphaKLLbar[MIF1, fl97])/2, 
+     deltaalphac6llbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6llbar[MIF1, fl97, fl99, fl93]*alphaKLLbar[fl95, MIF1]) - 
+        alphac6llbar[fl95, fl97, MIF1, fl93]*alphaKLLbar[fl99, MIF1] - 
+        alphac6llbar[fl95, fl97, fl99, MIF1]*alphaKLLbar[MIF1, fl93] - 
+        alphac6llbar[fl95, MIF1, fl99, fl93]*alphaKLLbar[MIF1, fl97])/2, 
+     deltaalphac6lq1[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lq1[MIF1, fl97, fl95, fl93]*alphaKLL[fl99, MIF1]) - 
+        alphac6lq1[fl99, MIF1, fl95, fl93]*alphaKLL[MIF1, fl97] - 
+        alphac6lq1[fl99, fl97, MIF1, fl93]*alphaKQL[fl95, MIF1] - 
+        alphac6lq1[fl99, fl97, fl95, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphac6lq1bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lq1bar[MIF1, fl97, fl95, fl93]*alphaKLLbar[fl99, MIF1]) - 
+        alphac6lq1bar[fl99, MIF1, fl95, fl93]*alphaKLLbar[MIF1, fl97] - 
+        alphac6lq1bar[fl99, fl97, MIF1, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphac6lq1bar[fl99, fl97, fl95, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphac6lq3[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lq3[MIF1, fl97, fl95, fl93]*alphaKLL[fl99, MIF1]) - 
+        alphac6lq3[fl99, MIF1, fl95, fl93]*alphaKLL[MIF1, fl97] - 
+        alphac6lq3[fl99, fl97, MIF1, fl93]*alphaKQL[fl95, MIF1] - 
+        alphac6lq3[fl99, fl97, fl95, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphac6lq3bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lq3bar[MIF1, fl97, fl95, fl93]*alphaKLLbar[fl99, MIF1]) - 
+        alphac6lq3bar[fl99, MIF1, fl95, fl93]*alphaKLLbar[MIF1, fl97] - 
+        alphac6lq3bar[fl99, fl97, MIF1, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphac6lq3bar[fl99, fl97, fl95, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphac6lu[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lu[MIF1, fl97, fl95, fl93]*alphaKLL[fl99, MIF1]) - 
+        alphac6lu[fl99, MIF1, fl95, fl93]*alphaKLL[MIF1, fl97] - 
+        alphac6lu[fl99, fl97, MIF1, fl93]*alphaKUR[fl95, MIF1] - 
+        alphac6lu[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6lubar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lubar[MIF1, fl97, fl95, fl93]*alphaKLLbar[fl99, MIF1]) - 
+        alphac6lubar[fl99, MIF1, fl95, fl93]*alphaKLLbar[MIF1, fl97] - 
+        alphac6lubar[fl99, fl97, MIF1, fl93]*alphaKURbar[fl95, MIF1] - 
+        alphac6lubar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6lv[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lv[MIF1, fl97, fl95, fl93]*alphaKLL[fl99, MIF1]) - 
+        alphac6lv[fl99, MIF1, fl95, fl93]*alphaKLL[MIF1, fl97] - 
+        alphac6lv[fl99, fl97, MIF1, fl93]*alphaKNR[fl95, MIF1] - 
+        alphac6lv[fl99, fl97, fl95, MIF1]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphac6lvbar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6lvbar[MIF1, fl97, fl95, fl93]*alphaKLLbar[fl99, MIF1]) - 
+        alphac6lvbar[fl99, MIF1, fl95, fl93]*alphaKLLbar[MIF1, fl97] - 
+        alphac6lvbar[fl99, fl97, MIF1, fl93]*alphaKNRbar[fl95, MIF1] - 
+        alphac6lvbar[fl99, fl97, fl95, MIF1]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphac6lvle[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6lvle[fl95, fl93, fl99, MIF1]*alphaKER[MIF1, fl97]) - 
+        alphac6lvle[MIF1, fl93, fl99, fl97]*alphaKLL[fl95, MIF1] - 
+        alphac6lvle[fl95, fl93, MIF1, fl97]*alphaKLL[fl99, MIF1] - 
+        alphac6lvle[fl95, MIF1, fl99, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphac6lvle[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvle[fl99, fl93, fl95, MIF1]*alphaKER[MIF1, fl97]) - 
+        alphac6lvle[fl99, fl93, MIF1, fl97]*alphaKLL[fl95, MIF1] - 
+        alphac6lvle[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1] - 
+        alphac6lvle[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphac6lvlebar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6lvlebar[fl95, fl93, fl99, MIF1]*alphaKERbar[MIF1, fl97]) - 
+        alphac6lvlebar[MIF1, fl93, fl99, fl97]*alphaKLLbar[fl95, MIF1] - 
+        alphac6lvlebar[fl95, fl93, MIF1, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphac6lvlebar[fl95, MIF1, fl99, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphac6lvlebar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvlebar[fl99, fl93, fl95, MIF1]*alphaKERbar[MIF1, fl97]) - 
+        alphac6lvlebar[fl99, fl93, MIF1, fl97]*alphaKLLbar[fl95, MIF1] - 
+        alphac6lvlebar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphac6lvlebar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphac6lvqd1[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvqd1[fl99, fl93, fl95, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphac6lvqd1[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1] - 
+        alphac6lvqd1[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93] - 
+        alphac6lvqd1[fl99, fl93, MIF1, fl97]*alphaKQL[fl95, MIF1])/2, 
+     deltaalphac6lvqd1bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvqd1bar[fl99, fl93, fl95, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6lvqd1bar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphac6lvqd1bar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93] - 
+        alphac6lvqd1bar[fl99, fl93, MIF1, fl97]*alphaKQLbar[fl95, MIF1])/2, 
+     deltaalphac6lvqd3[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvqd3[fl99, fl93, fl95, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphac6lvqd3[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1] - 
+        alphac6lvqd3[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93] - 
+        alphac6lvqd3[fl99, fl93, MIF1, fl97]*alphaKQL[fl95, MIF1])/2, 
+     deltaalphac6lvqd3bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvqd3bar[fl99, fl93, fl95, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6lvqd3bar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphac6lvqd3bar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93] - 
+        alphac6lvqd3bar[fl99, fl93, MIF1, fl97]*alphaKQLbar[fl95, MIF1])/2, 
+     deltaalphac6lvuq[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvuq[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1]) - 
+        alphac6lvuq[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93] - 
+        alphac6lvuq[fl99, fl93, fl95, MIF1]*alphaKQL[MIF1, fl97] - 
+        alphac6lvuq[fl99, fl93, MIF1, fl97]*alphaKUR[fl95, MIF1])/2, 
+     deltaalphac6lvuqbar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6lvuqbar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1]) - 
+        alphac6lvuqbar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93] - 
+        alphac6lvuqbar[fl99, fl93, fl95, MIF1]*alphaKQLbar[MIF1, fl97] - 
+        alphac6lvuqbar[fl99, fl93, MIF1, fl97]*alphaKURbar[fl95, MIF1])/2, 
+     deltaalphac6qd1[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qd1[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphac6qd1[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphac6qd1[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphac6qd1[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphac6qd1bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qd1bar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6qd1bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6qd1bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphac6qd1bar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphac6qd8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qd8[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphac6qd8[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphac6qd8[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphac6qd8[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphac6qd8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qd8bar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6qd8bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6qd8bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphac6qd8bar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphac6qe[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qe[fl95, fl93, MIF1, fl97]*alphaKER[fl99, MIF1]) - 
+        alphac6qe[fl95, fl93, fl99, MIF1]*alphaKER[MIF1, fl97] - 
+        alphac6qe[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphac6qe[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphac6qebar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qebar[fl95, fl93, MIF1, fl97]*alphaKERbar[fl99, MIF1]) - 
+        alphac6qebar[fl95, fl93, fl99, MIF1]*alphaKERbar[MIF1, fl97] - 
+        alphac6qebar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphac6qebar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphac6qq1[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qq1[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1]) - 
+        alphac6qq1[fl95, fl93, MIF1, fl97]*alphaKQL[fl99, MIF1] - 
+        alphac6qq1[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93] - 
+        alphac6qq1[fl95, fl93, fl99, MIF1]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qq1[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6qq1[MIF1, fl97, fl99, fl93]*alphaKQL[fl95, MIF1]) - 
+        alphac6qq1[fl95, fl97, MIF1, fl93]*alphaKQL[fl99, MIF1] - 
+        alphac6qq1[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93] - 
+        alphac6qq1[fl95, MIF1, fl99, fl93]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qq1bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qq1bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1]) - 
+        alphac6qq1bar[fl95, fl93, MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6qq1bar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qq1bar[fl95, fl93, fl99, MIF1]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qq1bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6qq1bar[MIF1, fl97, fl99, fl93]*alphaKQLbar[fl95, MIF1]) - 
+        alphac6qq1bar[fl95, fl97, MIF1, fl93]*alphaKQLbar[fl99, MIF1] - 
+        alphac6qq1bar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qq1bar[fl95, MIF1, fl99, fl93]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qq3[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qq3[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1]) - 
+        alphac6qq3[fl95, fl93, MIF1, fl97]*alphaKQL[fl99, MIF1] - 
+        alphac6qq3[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93] - 
+        alphac6qq3[fl95, fl93, fl99, MIF1]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qq3[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6qq3[MIF1, fl97, fl99, fl93]*alphaKQL[fl95, MIF1]) - 
+        alphac6qq3[fl95, fl97, MIF1, fl93]*alphaKQL[fl99, MIF1] - 
+        alphac6qq3[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93] - 
+        alphac6qq3[fl95, MIF1, fl99, fl93]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qq3bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6qq3bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1]) - 
+        alphac6qq3bar[fl95, fl93, MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6qq3bar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qq3bar[fl95, fl93, fl99, MIF1]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qq3bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6qq3bar[MIF1, fl97, fl99, fl93]*alphaKQLbar[fl95, MIF1]) - 
+        alphac6qq3bar[fl95, fl97, MIF1, fl93]*alphaKQLbar[fl99, MIF1] - 
+        alphac6qq3bar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qq3bar[fl95, MIF1, fl99, fl93]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qqdv[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6qqdv[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97]) - 
+        alphac6qqdv[fl95, fl97, fl99, MIF1]*alphaKNR[MIF1, fl93] - 
+        alphac6qqdv[MIF1, fl97, fl99, fl93]*alphaKQL[MIF1, fl95] - 
+        alphac6qqdv[fl95, fl97, MIF1, fl93]*alphaKQL[MIF1, fl99])/2, 
+     deltaalphac6qqdvbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6qqdvbar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6qqdvbar[fl95, fl97, fl99, MIF1]*alphaKNRbar[MIF1, fl93] - 
+        alphac6qqdvbar[MIF1, fl97, fl99, fl93]*alphaKQLbar[MIF1, fl95] - 
+        alphac6qqdvbar[fl95, fl97, MIF1, fl93]*alphaKQLbar[MIF1, fl99])/2, 
+     deltaalphac6qqql[fl93_, fl95_, fl97_, fl99_] -> 
+      (-(alphac6qqql[fl93, fl95, fl97, MIF1]*alphaKLL[MIF1, fl99]) - 
+        alphac6qqql[MIF1, fl95, fl97, fl99]*alphaKQL[MIF1, fl93] - 
+        alphac6qqql[fl93, MIF1, fl97, fl99]*alphaKQL[MIF1, fl95] - 
+        alphac6qqql[fl93, fl95, MIF1, fl99]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qqql[fl93_, fl97_, fl95_, fl99_] -> 
+      (-(alphac6qqql[fl93, fl97, fl95, MIF1]*alphaKLL[MIF1, fl99]) - 
+        alphac6qqql[MIF1, fl97, fl95, fl99]*alphaKQL[MIF1, fl93] - 
+        alphac6qqql[fl93, fl97, MIF1, fl99]*alphaKQL[MIF1, fl95] - 
+        alphac6qqql[fl93, MIF1, fl95, fl99]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qqql[fl95_, fl93_, fl97_, fl99_] -> 
+      (-(alphac6qqql[fl95, fl93, fl97, MIF1]*alphaKLL[MIF1, fl99]) - 
+        alphac6qqql[fl95, MIF1, fl97, fl99]*alphaKQL[MIF1, fl93] - 
+        alphac6qqql[MIF1, fl93, fl97, fl99]*alphaKQL[MIF1, fl95] - 
+        alphac6qqql[fl95, fl93, MIF1, fl99]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qqql[fl95_, fl97_, fl93_, fl99_] -> 
+      (-(alphac6qqql[fl95, fl97, fl93, MIF1]*alphaKLL[MIF1, fl99]) - 
+        alphac6qqql[fl95, fl97, MIF1, fl99]*alphaKQL[MIF1, fl93] - 
+        alphac6qqql[MIF1, fl97, fl93, fl99]*alphaKQL[MIF1, fl95] - 
+        alphac6qqql[fl95, MIF1, fl93, fl99]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qqql[fl97_, fl93_, fl95_, fl99_] -> 
+      (-(alphac6qqql[fl97, fl93, fl95, MIF1]*alphaKLL[MIF1, fl99]) - 
+        alphac6qqql[fl97, MIF1, fl95, fl99]*alphaKQL[MIF1, fl93] - 
+        alphac6qqql[fl97, fl93, MIF1, fl99]*alphaKQL[MIF1, fl95] - 
+        alphac6qqql[MIF1, fl93, fl95, fl99]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qqql[fl97_, fl95_, fl93_, fl99_] -> 
+      (-(alphac6qqql[fl97, fl95, fl93, MIF1]*alphaKLL[MIF1, fl99]) - 
+        alphac6qqql[fl97, fl95, MIF1, fl99]*alphaKQL[MIF1, fl93] - 
+        alphac6qqql[fl97, MIF1, fl93, fl99]*alphaKQL[MIF1, fl95] - 
+        alphac6qqql[MIF1, fl95, fl93, fl99]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qqqlbar[fl93_, fl95_, fl97_, fl99_] -> 
+      (-(alphac6qqqlbar[fl93, fl95, fl97, MIF1]*alphaKLLbar[MIF1, fl99]) - 
+        alphac6qqqlbar[MIF1, fl95, fl97, fl99]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qqqlbar[fl93, MIF1, fl97, fl99]*alphaKQLbar[MIF1, fl95] - 
+        alphac6qqqlbar[fl93, fl95, MIF1, fl99]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qqqlbar[fl93_, fl97_, fl95_, fl99_] -> 
+      (-(alphac6qqqlbar[fl93, fl97, fl95, MIF1]*alphaKLLbar[MIF1, fl99]) - 
+        alphac6qqqlbar[MIF1, fl97, fl95, fl99]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qqqlbar[fl93, fl97, MIF1, fl99]*alphaKQLbar[MIF1, fl95] - 
+        alphac6qqqlbar[fl93, MIF1, fl95, fl99]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qqqlbar[fl95_, fl93_, fl97_, fl99_] -> 
+      (-(alphac6qqqlbar[fl95, fl93, fl97, MIF1]*alphaKLLbar[MIF1, fl99]) - 
+        alphac6qqqlbar[fl95, MIF1, fl97, fl99]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qqqlbar[MIF1, fl93, fl97, fl99]*alphaKQLbar[MIF1, fl95] - 
+        alphac6qqqlbar[fl95, fl93, MIF1, fl99]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qqqlbar[fl95_, fl97_, fl93_, fl99_] -> 
+      (-(alphac6qqqlbar[fl95, fl97, fl93, MIF1]*alphaKLLbar[MIF1, fl99]) - 
+        alphac6qqqlbar[fl95, fl97, MIF1, fl99]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qqqlbar[MIF1, fl97, fl93, fl99]*alphaKQLbar[MIF1, fl95] - 
+        alphac6qqqlbar[fl95, MIF1, fl93, fl99]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qqqlbar[fl97_, fl93_, fl95_, fl99_] -> 
+      (-(alphac6qqqlbar[fl97, fl93, fl95, MIF1]*alphaKLLbar[MIF1, fl99]) - 
+        alphac6qqqlbar[fl97, MIF1, fl95, fl99]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qqqlbar[fl97, fl93, MIF1, fl99]*alphaKQLbar[MIF1, fl95] - 
+        alphac6qqqlbar[MIF1, fl93, fl95, fl99]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qqqlbar[fl97_, fl95_, fl93_, fl99_] -> 
+      (-(alphac6qqqlbar[fl97, fl95, fl93, MIF1]*alphaKLLbar[MIF1, fl99]) - 
+        alphac6qqqlbar[fl97, fl95, MIF1, fl99]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qqqlbar[fl97, MIF1, fl93, fl99]*alphaKQLbar[MIF1, fl95] - 
+        alphac6qqqlbar[MIF1, fl95, fl93, fl99]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6qque[fl95_, fl97_, fl93_, fl99_] -> 
+      (-(alphac6qque[fl95, MIF1, fl93, fl99]*alphaKER[MIF1, fl97]) - 
+        alphac6qque[fl95, fl97, MIF1, fl99]*alphaKQL[MIF1, fl93] - 
+        alphac6qque[fl95, fl97, fl93, MIF1]*alphaKQL[MIF1, fl99] - 
+        alphac6qque[MIF1, fl97, fl93, fl99]*alphaKUR[MIF1, fl95])/2, 
+     deltaalphac6qquebar[fl95_, fl97_, fl93_, fl99_] -> 
+      (-(alphac6qquebar[fl95, MIF1, fl93, fl99]*alphaKERbar[MIF1, fl97]) - 
+        alphac6qquebar[fl95, fl97, MIF1, fl99]*alphaKQLbar[MIF1, fl93] - 
+        alphac6qquebar[fl95, fl97, fl93, MIF1]*alphaKQLbar[MIF1, fl99] - 
+        alphac6qquebar[MIF1, fl97, fl93, fl99]*alphaKURbar[MIF1, fl95])/2, 
+     deltaalphac6qu1[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6qu1[MIF1, fl97, fl95, fl93]*alphaKQL[fl99, MIF1]) - 
+        alphac6qu1[fl99, MIF1, fl95, fl93]*alphaKQL[MIF1, fl97] - 
+        alphac6qu1[fl99, fl97, MIF1, fl93]*alphaKUR[fl95, MIF1] - 
+        alphac6qu1[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6qu1bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6qu1bar[MIF1, fl97, fl95, fl93]*alphaKQLbar[fl99, MIF1]) - 
+        alphac6qu1bar[fl99, MIF1, fl95, fl93]*alphaKQLbar[MIF1, fl97] - 
+        alphac6qu1bar[fl99, fl97, MIF1, fl93]*alphaKURbar[fl95, MIF1] - 
+        alphac6qu1bar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6qu8[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6qu8[MIF1, fl97, fl95, fl93]*alphaKQL[fl99, MIF1]) - 
+        alphac6qu8[fl99, MIF1, fl95, fl93]*alphaKQL[MIF1, fl97] - 
+        alphac6qu8[fl99, fl97, MIF1, fl93]*alphaKUR[fl95, MIF1] - 
+        alphac6qu8[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6qu8bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6qu8bar[MIF1, fl97, fl95, fl93]*alphaKQLbar[fl99, MIF1]) - 
+        alphac6qu8bar[fl99, MIF1, fl95, fl93]*alphaKQLbar[MIF1, fl97] - 
+        alphac6qu8bar[fl99, fl97, MIF1, fl93]*alphaKURbar[fl95, MIF1] - 
+        alphac6qu8bar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6quqd1[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6quqd1[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphac6quqd1[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphac6quqd1[fl95, fl93, MIF1, fl97]*alphaKQL[fl99, MIF1] - 
+        alphac6quqd1[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6quqd1[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6quqd1[fl99, fl93, fl95, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphac6quqd1[fl99, fl93, MIF1, fl97]*alphaKQL[fl95, MIF1] - 
+        alphac6quqd1[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1] - 
+        alphac6quqd1[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6quqd1bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6quqd1bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6quqd1bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphac6quqd1bar[fl95, fl93, MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6quqd1bar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6quqd1bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6quqd1bar[fl99, fl93, fl95, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6quqd1bar[fl99, fl93, MIF1, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphac6quqd1bar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6quqd1bar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6quqd8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6quqd8[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphac6quqd8[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphac6quqd8[fl95, fl93, MIF1, fl97]*alphaKQL[fl99, MIF1] - 
+        alphac6quqd8[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6quqd8[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6quqd8[fl99, fl93, fl95, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphac6quqd8[fl99, fl93, MIF1, fl97]*alphaKQL[fl95, MIF1] - 
+        alphac6quqd8[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1] - 
+        alphac6quqd8[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6quqd8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6quqd8bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6quqd8bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphac6quqd8bar[fl95, fl93, MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6quqd8bar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6quqd8bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphac6quqd8bar[fl99, fl93, fl95, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6quqd8bar[fl99, fl93, MIF1, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphac6quqd8bar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6quqd8bar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6qv[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6qv[fl99, fl97, MIF1, fl93]*alphaKNR[fl95, MIF1]) - 
+        alphac6qv[fl99, fl97, fl95, MIF1]*alphaKNR[MIF1, fl93] - 
+        alphac6qv[MIF1, fl97, fl95, fl93]*alphaKQL[fl99, MIF1] - 
+        alphac6qv[fl99, MIF1, fl95, fl93]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphac6qvbar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphac6qvbar[fl99, fl97, MIF1, fl93]*alphaKNRbar[fl95, MIF1]) - 
+        alphac6qvbar[fl99, fl97, fl95, MIF1]*alphaKNRbar[MIF1, fl93] - 
+        alphac6qvbar[MIF1, fl97, fl95, fl93]*alphaKQLbar[fl99, MIF1] - 
+        alphac6qvbar[fl99, MIF1, fl95, fl93]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphac6uB[fl99_, fl97_] -> (-(alphaKBT*alphac6uB[fl99, fl97]) - 
+        alphaKH1*alphac6uB[fl99, fl97] - alphac6uB[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphac6uB[fl99, MIF1]*alphaKUR[MIF1, fl97])/
+       2, deltaalphac6uBbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphac6uBbar[fl99, fl97]) - alphaKH1*alphac6uBbar[fl99, 
+          fl97] - alphac6uBbar[MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6uBbar[fl99, MIF1]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphac6ud1[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ud1[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphac6ud1[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphac6ud1[MIF1, fl93, fl99, fl97]*alphaKUR[fl95, MIF1] - 
+        alphac6ud1[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6ud1bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ud1bar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6ud1bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6ud1bar[MIF1, fl93, fl99, fl97]*alphaKURbar[fl95, MIF1] - 
+        alphac6ud1bar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6ud8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ud8[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphac6ud8[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphac6ud8[MIF1, fl93, fl99, fl97]*alphaKUR[fl95, MIF1] - 
+        alphac6ud8[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6ud8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ud8bar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6ud8bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6ud8bar[MIF1, fl93, fl99, fl97]*alphaKURbar[fl95, MIF1] - 
+        alphac6ud8bar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6uddv[fl97_, fl95_, fl99_, fl93_] -> 
+      (-(alphac6uddv[fl97, MIF1, fl99, fl93]*alphaKDR[MIF1, fl95]) - 
+        alphac6uddv[MIF1, fl95, fl99, fl93]*alphaKDR[MIF1, fl97] - 
+        alphac6uddv[fl97, fl95, fl99, MIF1]*alphaKNR[MIF1, fl93] - 
+        alphac6uddv[fl97, fl95, MIF1, fl93]*alphaKUR[MIF1, fl99])/2, 
+     deltaalphac6uddv[fl97_, fl99_, fl95_, fl93_] -> 
+      (-(alphac6uddv[MIF1, fl99, fl95, fl93]*alphaKDR[MIF1, fl97]) - 
+        alphac6uddv[fl97, MIF1, fl95, fl93]*alphaKDR[MIF1, fl99] - 
+        alphac6uddv[fl97, fl99, fl95, MIF1]*alphaKNR[MIF1, fl93] - 
+        alphac6uddv[fl97, fl99, MIF1, fl93]*alphaKUR[MIF1, fl95])/2, 
+     deltaalphac6uddvbar[fl97_, fl95_, fl99_, fl93_] -> 
+      (-(alphac6uddvbar[fl97, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl95]) - 
+        alphac6uddvbar[MIF1, fl95, fl99, fl93]*alphaKDRbar[MIF1, fl97] - 
+        alphac6uddvbar[fl97, fl95, fl99, MIF1]*alphaKNRbar[MIF1, fl93] - 
+        alphac6uddvbar[fl97, fl95, MIF1, fl93]*alphaKURbar[MIF1, fl99])/2, 
+     deltaalphac6uddvbar[fl97_, fl99_, fl95_, fl93_] -> 
+      (-(alphac6uddvbar[MIF1, fl99, fl95, fl93]*alphaKDRbar[MIF1, fl97]) - 
+        alphac6uddvbar[fl97, MIF1, fl95, fl93]*alphaKDRbar[MIF1, fl99] - 
+        alphac6uddvbar[fl97, fl99, fl95, MIF1]*alphaKNRbar[MIF1, fl93] - 
+        alphac6uddvbar[fl97, fl99, MIF1, fl93]*alphaKURbar[MIF1, fl95])/2, 
+     deltaalphac6uG[fl99_, fl97_] -> (-(alphaKGT*alphac6uG[fl99, fl97]) - 
+        alphaKH1*alphac6uG[fl99, fl97] - alphac6uG[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphac6uG[fl99, MIF1]*alphaKUR[MIF1, fl97])/
+       2, deltaalphac6uGbar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphac6uGbar[fl99, fl97]) - alphaKH1*alphac6uGbar[fl99, 
+          fl97] - alphac6uGbar[MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6uGbar[fl99, MIF1]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphac6uH[fl99_, fl97_] -> (-3*alphaKH1*alphac6uH[fl99, fl97] - 
+        alphac6uH[MIF1, fl97]*alphaKQL[fl99, MIF1] - alphac6uH[fl99, MIF1]*
+         alphaKUR[MIF1, fl97])/2, deltaalphac6uHbar[fl99_, fl97_] -> 
+      (-3*alphaKH1*alphac6uHbar[fl99, fl97] - alphac6uHbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphac6uHbar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphac6uu[fl95_, fl93_, fl99_, 
+       fl97_] -> (-(alphac6uu[MIF1, fl93, fl99, fl97]*alphaKUR[fl95, MIF1]) - 
+        alphac6uu[fl95, fl93, MIF1, fl97]*alphaKUR[fl99, MIF1] - 
+        alphac6uu[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93] - 
+        alphac6uu[fl95, fl93, fl99, MIF1]*alphaKUR[MIF1, fl97])/2, 
+     deltaalphac6uu[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6uu[MIF1, fl97, fl99, fl93]*alphaKUR[fl95, MIF1]) - 
+        alphac6uu[fl95, fl97, MIF1, fl93]*alphaKUR[fl99, MIF1] - 
+        alphac6uu[fl95, fl97, fl99, MIF1]*alphaKUR[MIF1, fl93] - 
+        alphac6uu[fl95, MIF1, fl99, fl93]*alphaKUR[MIF1, fl97])/2, 
+     deltaalphac6uubar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6uubar[MIF1, fl93, fl99, fl97]*alphaKURbar[fl95, MIF1]) - 
+        alphac6uubar[fl95, fl93, MIF1, fl97]*alphaKURbar[fl99, MIF1] - 
+        alphac6uubar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93] - 
+        alphac6uubar[fl95, fl93, fl99, MIF1]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphac6uubar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6uubar[MIF1, fl97, fl99, fl93]*alphaKURbar[fl95, MIF1]) - 
+        alphac6uubar[fl95, fl97, MIF1, fl93]*alphaKURbar[fl99, MIF1] - 
+        alphac6uubar[fl95, fl97, fl99, MIF1]*alphaKURbar[MIF1, fl93] - 
+        alphac6uubar[fl95, MIF1, fl99, fl93]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphac6uW[fl99_, fl97_] -> (-(alphaKH1*alphac6uW[fl99, fl97]) - 
+        alphaKWT*alphac6uW[fl99, fl97] - alphac6uW[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphac6uW[fl99, MIF1]*alphaKUR[MIF1, fl97])/
+       2, deltaalphac6uWbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphac6uWbar[fl99, fl97]) - alphaKWT*alphac6uWbar[fl99, 
+          fl97] - alphac6uWbar[MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphac6uWbar[fl99, MIF1]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphac6vB[fl99_, fl97_] -> (-(alphaKBT*alphac6vB[fl99, fl97]) - 
+        alphaKH1*alphac6vB[fl99, fl97] - alphac6vB[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphac6vB[fl99, MIF1]*alphaKNR[MIF1, fl97])/
+       2, deltaalphac6vBbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphac6vBbar[fl99, fl97]) - alphaKH1*alphac6vBbar[fl99, 
+          fl97] - alphac6vBbar[MIF1, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphac6vBbar[fl99, MIF1]*alphaKNRbar[MIF1, fl97])/2, 
+     deltaalphac6vd[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6vd[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphac6vd[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphac6vd[MIF1, fl93, fl99, fl97]*alphaKNR[fl95, MIF1] - 
+        alphac6vd[fl95, MIF1, fl99, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphac6vdbar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6vdbar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6vdbar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphac6vdbar[MIF1, fl93, fl99, fl97]*alphaKNRbar[fl95, MIF1] - 
+        alphac6vdbar[fl95, MIF1, fl99, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphac6ve[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6ve[fl95, fl93, MIF1, fl97]*alphaKER[fl99, MIF1]) - 
+        alphac6ve[fl95, fl93, fl99, MIF1]*alphaKER[MIF1, fl97] - 
+        alphac6ve[MIF1, fl93, fl99, fl97]*alphaKNR[fl95, MIF1] - 
+        alphac6ve[fl95, MIF1, fl99, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphac6vebar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6vebar[fl95, fl93, MIF1, fl97]*alphaKERbar[fl99, MIF1]) - 
+        alphac6vebar[fl95, fl93, fl99, MIF1]*alphaKERbar[MIF1, fl97] - 
+        alphac6vebar[MIF1, fl93, fl99, fl97]*alphaKNRbar[fl95, MIF1] - 
+        alphac6vebar[fl95, MIF1, fl99, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphac6vedu[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6vedu[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphac6vedu[fl95, MIF1, fl99, fl93]*alphaKER[MIF1, fl97] - 
+        alphac6vedu[MIF1, fl97, fl99, fl93]*alphaKNR[fl95, MIF1] - 
+        alphac6vedu[fl95, fl97, fl99, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphac6vedubar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6vedubar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphac6vedubar[fl95, MIF1, fl99, fl93]*alphaKERbar[MIF1, fl97] - 
+        alphac6vedubar[MIF1, fl97, fl99, fl93]*alphaKNRbar[fl95, MIF1] - 
+        alphac6vedubar[fl95, fl97, fl99, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphac6vH[fl99_, fl97_] -> (-3*alphaKH1*alphac6vH[fl99, fl97] - 
+        alphac6vH[MIF1, fl97]*alphaKLL[fl99, MIF1] - alphac6vH[fl99, MIF1]*
+         alphaKNR[MIF1, fl97])/2, deltaalphac6vHbar[fl99_, fl97_] -> 
+      (-3*alphaKH1*alphac6vHbar[fl99, fl97] - alphac6vHbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphac6vHbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphac6vu[fl95_, fl93_, fl99_, 
+       fl97_] -> (-(alphac6vu[MIF1, fl93, fl99, fl97]*alphaKNR[fl95, MIF1]) - 
+        alphac6vu[fl95, MIF1, fl99, fl97]*alphaKNR[MIF1, fl93] - 
+        alphac6vu[fl95, fl93, MIF1, fl97]*alphaKUR[fl99, MIF1] - 
+        alphac6vu[fl95, fl93, fl99, MIF1]*alphaKUR[MIF1, fl97])/2, 
+     deltaalphac6vubar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6vubar[MIF1, fl93, fl99, fl97]*alphaKNRbar[fl95, MIF1]) - 
+        alphac6vubar[fl95, MIF1, fl99, fl97]*alphaKNRbar[MIF1, fl93] - 
+        alphac6vubar[fl95, fl93, MIF1, fl97]*alphaKURbar[fl99, MIF1] - 
+        alphac6vubar[fl95, fl93, fl99, MIF1]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphac6vv[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6vv[MIF1, fl93, fl99, fl97]*alphaKNR[fl95, MIF1]) - 
+        alphac6vv[fl95, fl93, MIF1, fl97]*alphaKNR[fl99, MIF1] - 
+        alphac6vv[fl95, MIF1, fl99, fl97]*alphaKNR[MIF1, fl93] - 
+        alphac6vv[fl95, fl93, fl99, MIF1]*alphaKNR[MIF1, fl97])/2, 
+     deltaalphac6vv[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6vv[MIF1, fl97, fl99, fl93]*alphaKNR[fl95, MIF1]) - 
+        alphac6vv[fl95, fl97, MIF1, fl93]*alphaKNR[fl99, MIF1] - 
+        alphac6vv[fl95, fl97, fl99, MIF1]*alphaKNR[MIF1, fl93] - 
+        alphac6vv[fl95, MIF1, fl99, fl93]*alphaKNR[MIF1, fl97])/2, 
+     deltaalphac6vvbar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphac6vvbar[MIF1, fl93, fl99, fl97]*alphaKNRbar[fl95, MIF1]) - 
+        alphac6vvbar[fl95, fl93, MIF1, fl97]*alphaKNRbar[fl99, MIF1] - 
+        alphac6vvbar[fl95, MIF1, fl99, fl97]*alphaKNRbar[MIF1, fl93] - 
+        alphac6vvbar[fl95, fl93, fl99, MIF1]*alphaKNRbar[MIF1, fl97])/2, 
+     deltaalphac6vvbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphac6vvbar[MIF1, fl97, fl99, fl93]*alphaKNRbar[fl95, MIF1]) - 
+        alphac6vvbar[fl95, fl97, MIF1, fl93]*alphaKNRbar[fl99, MIF1] - 
+        alphac6vvbar[fl95, fl97, fl99, MIF1]*alphaKNRbar[MIF1, fl93] - 
+        alphac6vvbar[fl95, MIF1, fl99, fl93]*alphaKNRbar[MIF1, fl97])/2, 
+     deltaalphac6vvvv[fl93_, fl95_, fl97_, fl99_] -> 
+      (-(alphac6vvvv[MIF1, fl95, fl97, fl99]*alphaKNR[MIF1, fl93]) - 
+        alphac6vvvv[fl93, MIF1, fl97, fl99]*alphaKNR[MIF1, fl95] - 
+        alphac6vvvv[fl93, fl95, MIF1, fl99]*alphaKNR[MIF1, fl97] - 
+        alphac6vvvv[fl93, fl95, fl97, MIF1]*alphaKNR[MIF1, fl99])/2, 
+     deltaalphac6vvvv[fl93_, fl97_, fl95_, fl99_] -> 
+      (-(alphac6vvvv[MIF1, fl97, fl95, fl99]*alphaKNR[MIF1, fl93]) - 
+        alphac6vvvv[fl93, fl97, MIF1, fl99]*alphaKNR[MIF1, fl95] - 
+        alphac6vvvv[fl93, MIF1, fl95, fl99]*alphaKNR[MIF1, fl97] - 
+        alphac6vvvv[fl93, fl97, fl95, MIF1]*alphaKNR[MIF1, fl99])/2, 
+     deltaalphac6vvvv[fl93_, fl99_, fl95_, fl97_] -> 
+      (-(alphac6vvvv[MIF1, fl99, fl95, fl97]*alphaKNR[MIF1, fl93]) - 
+        alphac6vvvv[fl93, fl99, MIF1, fl97]*alphaKNR[MIF1, fl95] - 
+        alphac6vvvv[fl93, fl99, fl95, MIF1]*alphaKNR[MIF1, fl97] - 
+        alphac6vvvv[fl93, MIF1, fl95, fl97]*alphaKNR[MIF1, fl99])/2, 
+     deltaalphac6vvvvbar[fl93_, fl95_, fl97_, fl99_] -> 
+      (-(alphac6vvvvbar[MIF1, fl95, fl97, fl99]*alphaKNRbar[MIF1, fl93]) - 
+        alphac6vvvvbar[fl93, MIF1, fl97, fl99]*alphaKNRbar[MIF1, fl95] - 
+        alphac6vvvvbar[fl93, fl95, MIF1, fl99]*alphaKNRbar[MIF1, fl97] - 
+        alphac6vvvvbar[fl93, fl95, fl97, MIF1]*alphaKNRbar[MIF1, fl99])/2, 
+     deltaalphac6vvvvbar[fl93_, fl97_, fl95_, fl99_] -> 
+      (-(alphac6vvvvbar[MIF1, fl97, fl95, fl99]*alphaKNRbar[MIF1, fl93]) - 
+        alphac6vvvvbar[fl93, fl97, MIF1, fl99]*alphaKNRbar[MIF1, fl95] - 
+        alphac6vvvvbar[fl93, MIF1, fl95, fl99]*alphaKNRbar[MIF1, fl97] - 
+        alphac6vvvvbar[fl93, fl97, fl95, MIF1]*alphaKNRbar[MIF1, fl99])/2, 
+     deltaalphac6vvvvbar[fl93_, fl99_, fl95_, fl97_] -> 
+      (-(alphac6vvvvbar[MIF1, fl99, fl95, fl97]*alphaKNRbar[MIF1, fl93]) - 
+        alphac6vvvvbar[fl93, fl99, MIF1, fl97]*alphaKNRbar[MIF1, fl95] - 
+        alphac6vvvvbar[fl93, fl99, fl95, MIF1]*alphaKNRbar[MIF1, fl97] - 
+        alphac6vvvvbar[fl93, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl99])/2, 
+     deltaalphac6vW[fl99_, fl97_] -> (-(alphaKH1*alphac6vW[fl99, fl97]) - 
+        alphaKWT*alphac6vW[fl99, fl97] - alphac6vW[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphac6vW[fl99, MIF1]*alphaKNR[MIF1, fl97])/
+       2, deltaalphac6vWbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphac6vWbar[fl99, fl97]) - alphaKWT*alphac6vWbar[fl99, 
+          fl97] - alphac6vWbar[MIF1, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphac6vWbar[fl99, MIF1]*alphaKNRbar[MIF1, fl97])/2, 
+     deltaalphacR6BDdT[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDdT[fl99, fl97]) - alphacR6BDdT[MIF1, fl97]*
+         alphaKDR[fl99, MIF1] - alphacR6BDdT[fl99, MIF1]*
+         alphaKDR[MIF1, fl97])/2, deltaalphacR6BDdTbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDdTbar[fl99, fl97]) - alphacR6BDdTbar[MIF1, fl97]*
+         alphaKDRbar[fl99, MIF1] - alphacR6BDdTbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97])/2, deltaalphacR6BDeT[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDeT[fl99, fl97]) - alphacR6BDeT[MIF1, fl97]*
+         alphaKER[fl99, MIF1] - alphacR6BDeT[fl99, MIF1]*
+         alphaKER[MIF1, fl97])/2, deltaalphacR6BDeTbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDeTbar[fl99, fl97]) - alphacR6BDeTbar[MIF1, fl97]*
+         alphaKERbar[fl99, MIF1] - alphacR6BDeTbar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97])/2, deltaalphacR6BDlT[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDlT[fl99, fl97]) - alphacR6BDlT[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6BDlT[fl99, MIF1]*
+         alphaKLL[MIF1, fl97])/2, deltaalphacR6BDlTbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDlTbar[fl99, fl97]) - alphacR6BDlTbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6BDlTbar[fl99, MIF1]*
+         alphaKLLbar[MIF1, fl97])/2, deltaalphacR6BDqT[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDqT[fl99, fl97]) - alphacR6BDqT[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6BDqT[fl99, MIF1]*
+         alphaKQL[MIF1, fl97])/2, deltaalphacR6BDqTbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDqTbar[fl99, fl97]) - alphacR6BDqTbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6BDqTbar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphacR6BDuT[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDuT[fl99, fl97]) - alphacR6BDuT[MIF1, fl97]*
+         alphaKUR[fl99, MIF1] - alphacR6BDuT[fl99, MIF1]*
+         alphaKUR[MIF1, fl97])/2, deltaalphacR6BDuTbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDuTbar[fl99, fl97]) - alphacR6BDuTbar[MIF1, fl97]*
+         alphaKURbar[fl99, MIF1] - alphacR6BDuTbar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6BDvT[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDvT[fl99, fl97]) - alphacR6BDvT[MIF1, fl97]*
+         alphaKNR[fl99, MIF1] - alphacR6BDvT[fl99, MIF1]*
+         alphaKNR[MIF1, fl97])/2, deltaalphacR6BDvTbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6BDvTbar[fl99, fl97]) - alphacR6BDvTbar[MIF1, fl97]*
+         alphaKNRbar[fl99, MIF1] - alphacR6BDvTbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphacR6DBd[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBd[fl99, fl97]) - alphacR6DBd[MIF1, fl97]*
+         alphaKDR[fl99, MIF1] - alphacR6DBd[fl99, MIF1]*alphaKDR[MIF1, fl97])/
+       2, deltaalphacR6DBdbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBdbar[fl99, fl97]) - alphacR6DBdbar[MIF1, fl97]*
+         alphaKDRbar[fl99, MIF1] - alphacR6DBdbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97])/2, deltaalphacR6DBe[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBe[fl99, fl97]) - alphacR6DBe[MIF1, fl97]*
+         alphaKER[fl99, MIF1] - alphacR6DBe[fl99, MIF1]*alphaKER[MIF1, fl97])/
+       2, deltaalphacR6DBebar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBebar[fl99, fl97]) - alphacR6DBebar[MIF1, fl97]*
+         alphaKERbar[fl99, MIF1] - alphacR6DBebar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97])/2, deltaalphacR6DBl[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBl[fl99, fl97]) - alphacR6DBl[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6DBl[fl99, MIF1]*alphaKLL[MIF1, fl97])/
+       2, deltaalphacR6DBlbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBlbar[fl99, fl97]) - alphacR6DBlbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6DBlbar[fl99, MIF1]*
+         alphaKLLbar[MIF1, fl97])/2, deltaalphacR6DBq[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBq[fl99, fl97]) - alphacR6DBq[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6DBq[fl99, MIF1]*alphaKQL[MIF1, fl97])/
+       2, deltaalphacR6DBqbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBqbar[fl99, fl97]) - alphacR6DBqbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6DBqbar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphacR6DBu[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBu[fl99, fl97]) - alphacR6DBu[MIF1, fl97]*
+         alphaKUR[fl99, MIF1] - alphacR6DBu[fl99, MIF1]*alphaKUR[MIF1, fl97])/
+       2, deltaalphacR6DBubar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBubar[fl99, fl97]) - alphacR6DBubar[MIF1, fl97]*
+         alphaKURbar[fl99, MIF1] - alphacR6DBubar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6DBv[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBv[fl99, fl97]) - alphacR6DBv[MIF1, fl97]*
+         alphaKNR[fl99, MIF1] - alphacR6DBv[fl99, MIF1]*alphaKNR[MIF1, fl97])/
+       2, deltaalphacR6DBvbar[fl99_, fl97_] -> 
+      (-(alphaKBT*alphacR6DBvbar[fl99, fl97]) - alphacR6DBvbar[MIF1, fl97]*
+         alphaKNRbar[fl99, MIF1] - alphacR6DBvbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphacR6Dd[fl99_, fl97_] -> 
+      (-(alphacR6Dd[MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphacR6Dd[fl99, MIF1]*alphaKDR[MIF1, fl97])/2, 
+     deltaalphacR6dd8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6dd8[MIF1, fl93, fl99, fl97]*alphaKDR[fl95, MIF1]) - 
+        alphacR6dd8[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1] - 
+        alphacR6dd8[fl95, MIF1, fl99, fl97]*alphaKDR[MIF1, fl93] - 
+        alphacR6dd8[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97])/2, 
+     deltaalphacR6dd8[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6dd8[MIF1, fl97, fl99, fl93]*alphaKDR[fl95, MIF1]) - 
+        alphacR6dd8[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1] - 
+        alphacR6dd8[fl95, fl97, fl99, MIF1]*alphaKDR[MIF1, fl93] - 
+        alphacR6dd8[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97])/2, 
+     deltaalphacR6dd8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6dd8bar[MIF1, fl93, fl99, fl97]*alphaKDRbar[fl95, MIF1]) - 
+        alphacR6dd8bar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1] - 
+        alphacR6dd8bar[fl95, MIF1, fl99, fl97]*alphaKDRbar[MIF1, fl93] - 
+        alphacR6dd8bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97])/2, 
+     deltaalphacR6dd8bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6dd8bar[MIF1, fl97, fl99, fl93]*alphaKDRbar[fl95, MIF1]) - 
+        alphacR6dd8bar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1] - 
+        alphacR6dd8bar[fl95, fl97, fl99, MIF1]*alphaKDRbar[MIF1, fl93] - 
+        alphacR6dd8bar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97])/2, 
+     deltaalphacR6Ddbar[fl99_, fl97_] -> 
+      (-(alphacR6Ddbar[MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6Ddbar[fl99, MIF1]*alphaKDRbar[MIF1, fl97])/2, 
+     deltaalphacR6De[fl99_, fl97_] -> 
+      (-(alphacR6De[MIF1, fl97]*alphaKER[fl99, MIF1]) - 
+        alphacR6De[fl99, MIF1]*alphaKER[MIF1, fl97])/2, 
+     deltaalphacR6Debar[fl99_, fl97_] -> 
+      (-(alphacR6Debar[MIF1, fl97]*alphaKERbar[fl99, MIF1]) - 
+        alphacR6Debar[fl99, MIF1]*alphaKERbar[MIF1, fl97])/2, 
+     deltaalphacR6DGd[fl99_, fl97_] -> (-(alphaKGT*alphacR6DGd[fl99, fl97]) - 
+        alphacR6DGd[MIF1, fl97]*alphaKDR[fl99, MIF1] - 
+        alphacR6DGd[fl99, MIF1]*alphaKDR[MIF1, fl97])/2, 
+     deltaalphacR6DGdbar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6DGdbar[fl99, fl97]) - alphacR6DGdbar[MIF1, fl97]*
+         alphaKDRbar[fl99, MIF1] - alphacR6DGdbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97])/2, deltaalphacR6DGq[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6DGq[fl99, fl97]) - alphacR6DGq[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6DGq[fl99, MIF1]*alphaKQL[MIF1, fl97])/
+       2, deltaalphacR6DGqbar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6DGqbar[fl99, fl97]) - alphacR6DGqbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6DGqbar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphacR6DGu[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6DGu[fl99, fl97]) - alphacR6DGu[MIF1, fl97]*
+         alphaKUR[fl99, MIF1] - alphacR6DGu[fl99, MIF1]*alphaKUR[MIF1, fl97])/
+       2, deltaalphacR6DGubar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6DGubar[fl99, fl97]) - alphacR6DGubar[MIF1, fl97]*
+         alphaKURbar[fl99, MIF1] - alphacR6DGubar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6DHdS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHdS[fl99, fl97]) - alphacR6DHdS[fl99, MIF1]*
+         alphaKDR[MIF1, fl97] - alphacR6DHdS[MIF1, fl97]*
+         alphaKQL[fl99, MIF1])/2, deltaalphacR6DHdSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHdSbar[fl99, fl97]) - alphacR6DHdSbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97] - alphacR6DHdSbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1])/2, deltaalphacR6DHeS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHeS[fl99, fl97]) - alphacR6DHeS[fl99, MIF1]*
+         alphaKER[MIF1, fl97] - alphacR6DHeS[MIF1, fl97]*
+         alphaKLL[fl99, MIF1])/2, deltaalphacR6DHeSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHeSbar[fl99, fl97]) - alphacR6DHeSbar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97] - alphacR6DHeSbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1])/2, deltaalphacR6DHuS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHuS[fl99, fl97]) - alphacR6DHuS[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6DHuS[fl99, MIF1]*
+         alphaKUR[MIF1, fl97])/2, deltaalphacR6DHuSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHuSbar[fl99, fl97]) - alphacR6DHuSbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6DHuSbar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6DHvS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHvS[fl99, fl97]) - alphacR6DHvS[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6DHvS[fl99, MIF1]*
+         alphaKNR[MIF1, fl97])/2, deltaalphacR6DHvSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6DHvSbar[fl99, fl97]) - alphacR6DHvSbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6DHvSbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphacR6Dl[fl99_, fl97_] -> 
+      (-(alphacR6Dl[MIF1, fl97]*alphaKLL[fl99, MIF1]) - 
+        alphacR6Dl[fl99, MIF1]*alphaKLL[MIF1, fl97])/2, 
+     deltaalphacR6Dlbar[fl99_, fl97_] -> 
+      (-(alphacR6Dlbar[MIF1, fl97]*alphaKLLbar[fl99, MIF1]) - 
+        alphacR6Dlbar[fl99, MIF1]*alphaKLLbar[MIF1, fl97])/2, 
+     deltaalphacR6Dq[fl99_, fl97_] -> 
+      (-(alphacR6Dq[MIF1, fl97]*alphaKQL[fl99, MIF1]) - 
+        alphacR6Dq[fl99, MIF1]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphacR6Dqbar[fl99_, fl97_] -> 
+      (-(alphacR6Dqbar[MIF1, fl97]*alphaKQLbar[fl99, MIF1]) - 
+        alphacR6Dqbar[fl99, MIF1]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphacR6Du[fl99_, fl97_] -> 
+      (-(alphacR6Du[MIF1, fl97]*alphaKUR[fl99, MIF1]) - 
+        alphacR6Du[fl99, MIF1]*alphaKUR[MIF1, fl97])/2, 
+     deltaalphacR6Dubar[fl99_, fl97_] -> 
+      (-(alphacR6Dubar[MIF1, fl97]*alphaKURbar[fl99, MIF1]) - 
+        alphacR6Dubar[fl99, MIF1]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphacR6Dv[fl99_, fl97_] -> 
+      (-(alphacR6Dv[MIF1, fl97]*alphaKNR[fl99, MIF1]) - 
+        alphacR6Dv[fl99, MIF1]*alphaKNR[MIF1, fl97])/2, 
+     deltaalphacR6Dvbar[fl99_, fl97_] -> 
+      (-(alphacR6Dvbar[MIF1, fl97]*alphaKNRbar[fl99, MIF1]) - 
+        alphacR6Dvbar[fl99, MIF1]*alphaKNRbar[MIF1, fl97])/2, 
+     deltaalphacR6DWl[fl99_, fl97_] -> (-(alphaKWT*alphacR6DWl[fl99, fl97]) - 
+        alphacR6DWl[MIF1, fl97]*alphaKLL[fl99, MIF1] - 
+        alphacR6DWl[fl99, MIF1]*alphaKLL[MIF1, fl97])/2, 
+     deltaalphacR6DWlbar[fl99_, fl97_] -> 
+      (-(alphaKWT*alphacR6DWlbar[fl99, fl97]) - alphacR6DWlbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6DWlbar[fl99, MIF1]*
+         alphaKLLbar[MIF1, fl97])/2, deltaalphacR6DWq[fl99_, fl97_] -> 
+      (-(alphaKWT*alphacR6DWq[fl99, fl97]) - alphacR6DWq[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6DWq[fl99, MIF1]*alphaKQL[MIF1, fl97])/
+       2, deltaalphacR6DWqbar[fl99_, fl97_] -> 
+      (-(alphaKWT*alphacR6DWqbar[fl99, fl97]) - alphacR6DWqbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6DWqbar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphacR6GDdT[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6GDdT[fl99, fl97]) - alphacR6GDdT[MIF1, fl97]*
+         alphaKDR[fl99, MIF1] - alphacR6GDdT[fl99, MIF1]*
+         alphaKDR[MIF1, fl97])/2, deltaalphacR6GDdTbar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6GDdTbar[fl99, fl97]) - alphacR6GDdTbar[MIF1, fl97]*
+         alphaKDRbar[fl99, MIF1] - alphacR6GDdTbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97])/2, deltaalphacR6GDqT[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6GDqT[fl99, fl97]) - alphacR6GDqT[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6GDqT[fl99, MIF1]*
+         alphaKQL[MIF1, fl97])/2, deltaalphacR6GDqTbar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6GDqTbar[fl99, fl97]) - alphacR6GDqTbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6GDqTbar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphacR6GDuT[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6GDuT[fl99, fl97]) - alphacR6GDuT[MIF1, fl97]*
+         alphaKUR[fl99, MIF1] - alphacR6GDuT[fl99, MIF1]*
+         alphaKUR[MIF1, fl97])/2, deltaalphacR6GDuTbar[fl99_, fl97_] -> 
+      (-(alphaKGT*alphacR6GDuTbar[fl99, fl97]) - alphacR6GDuTbar[MIF1, fl97]*
+         alphaKURbar[fl99, MIF1] - alphacR6GDuTbar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6Hd[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hd[fl99, fl97] - alphacR6Hd[MIF1, fl97]*
+         alphaKDR[fl99, MIF1] - alphacR6Hd[fl99, MIF1]*alphaKDR[MIF1, fl97])/
+       2, deltaalphacR6Hdbar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hdbar[fl99, fl97] - alphacR6Hdbar[MIF1, fl97]*
+         alphaKDRbar[fl99, MIF1] - alphacR6Hdbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97])/2, deltaalphacR6HdDS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HdDS[fl99, fl97]) - alphacR6HdDS[fl99, MIF1]*
+         alphaKDR[MIF1, fl97] - alphacR6HdDS[MIF1, fl97]*
+         alphaKQL[fl99, MIF1])/2, deltaalphacR6HDdS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDdS[fl99, fl97]) - alphacR6HDdS[fl99, MIF1]*
+         alphaKDR[MIF1, fl97] - alphacR6HDdS[MIF1, fl97]*
+         alphaKQL[fl99, MIF1])/2, deltaalphacR6HdDSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HdDSbar[fl99, fl97]) - alphacR6HdDSbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97] - alphacR6HdDSbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1])/2, deltaalphacR6HDdSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDdSbar[fl99, fl97]) - alphacR6HDdSbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97] - alphacR6HDdSbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1])/2, deltaalphacR6HdDT[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HdDT[fl99, fl97]) - alphacR6HdDT[fl99, MIF1]*
+         alphaKDR[MIF1, fl97] - alphacR6HdDT[MIF1, fl97]*
+         alphaKQL[fl99, MIF1])/2, deltaalphacR6HdDTbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HdDTbar[fl99, fl97]) - alphacR6HdDTbar[fl99, MIF1]*
+         alphaKDRbar[MIF1, fl97] - alphacR6HdDTbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1])/2, deltaalphacR6HDeS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDeS[fl99, fl97]) - alphacR6HDeS[fl99, MIF1]*
+         alphaKER[MIF1, fl97] - alphacR6HDeS[MIF1, fl97]*
+         alphaKLL[fl99, MIF1])/2, deltaalphacR6HDeSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDeSbar[fl99, fl97]) - alphacR6HDeSbar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97] - alphacR6HDeSbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1])/2, deltaalphacR6HDuS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDuS[fl99, fl97]) - alphacR6HDuS[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6HDuS[fl99, MIF1]*
+         alphaKUR[MIF1, fl97])/2, deltaalphacR6HDuSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDuSbar[fl99, fl97]) - alphacR6HDuSbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6HDuSbar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6HDvS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDvS[fl99, fl97]) - alphacR6HDvS[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6HDvS[fl99, MIF1]*
+         alphaKNR[MIF1, fl97])/2, deltaalphacR6HDvSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HDvSbar[fl99, fl97]) - alphacR6HDvSbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6HDvSbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphacR6He[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6He[fl99, fl97] - alphacR6He[MIF1, fl97]*
+         alphaKER[fl99, MIF1] - alphacR6He[fl99, MIF1]*alphaKER[MIF1, fl97])/
+       2, deltaalphacR6Hebar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hebar[fl99, fl97] - alphacR6Hebar[MIF1, fl97]*
+         alphaKERbar[fl99, MIF1] - alphacR6Hebar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97])/2, deltaalphacR6HeDS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HeDS[fl99, fl97]) - alphacR6HeDS[fl99, MIF1]*
+         alphaKER[MIF1, fl97] - alphacR6HeDS[MIF1, fl97]*
+         alphaKLL[fl99, MIF1])/2, deltaalphacR6HeDSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HeDSbar[fl99, fl97]) - alphacR6HeDSbar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97] - alphacR6HeDSbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1])/2, deltaalphacR6HeDT[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HeDT[fl99, fl97]) - alphacR6HeDT[fl99, MIF1]*
+         alphaKER[MIF1, fl97] - alphacR6HeDT[MIF1, fl97]*
+         alphaKLL[fl99, MIF1])/2, deltaalphacR6HeDTbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HeDTbar[fl99, fl97]) - alphacR6HeDTbar[fl99, MIF1]*
+         alphaKERbar[MIF1, fl97] - alphacR6HeDTbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1])/2, deltaalphacR6Hl1[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hl1[fl99, fl97] - alphacR6Hl1[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6Hl1[fl99, MIF1]*alphaKLL[MIF1, fl97])/
+       2, deltaalphacR6Hl1bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hl1bar[fl99, fl97] - alphacR6Hl1bar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6Hl1bar[fl99, MIF1]*
+         alphaKLLbar[MIF1, fl97])/2, deltaalphacR6Hl3[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hl3[fl99, fl97] - alphacR6Hl3[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6Hl3[fl99, MIF1]*alphaKLL[MIF1, fl97])/
+       2, deltaalphacR6Hl3bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hl3bar[fl99, fl97] - alphacR6Hl3bar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6Hl3bar[fl99, MIF1]*
+         alphaKLLbar[MIF1, fl97])/2, deltaalphacR6Hq1[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hq1[fl99, fl97] - alphacR6Hq1[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6Hq1[fl99, MIF1]*alphaKQL[MIF1, fl97])/
+       2, deltaalphacR6Hq1bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hq1bar[fl99, fl97] - alphacR6Hq1bar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6Hq1bar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphacR6Hq3[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hq3[fl99, fl97] - alphacR6Hq3[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6Hq3[fl99, MIF1]*alphaKQL[MIF1, fl97])/
+       2, deltaalphacR6Hq3bar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hq3bar[fl99, fl97] - alphacR6Hq3bar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6Hq3bar[fl99, MIF1]*
+         alphaKQLbar[MIF1, fl97])/2, deltaalphacR6Hu[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hu[fl99, fl97] - alphacR6Hu[MIF1, fl97]*
+         alphaKUR[fl99, MIF1] - alphacR6Hu[fl99, MIF1]*alphaKUR[MIF1, fl97])/
+       2, deltaalphacR6Hubar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hubar[fl99, fl97] - alphacR6Hubar[MIF1, fl97]*
+         alphaKURbar[fl99, MIF1] - alphacR6Hubar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6HuDS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HuDS[fl99, fl97]) - alphacR6HuDS[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6HuDS[fl99, MIF1]*
+         alphaKUR[MIF1, fl97])/2, deltaalphacR6HuDSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HuDSbar[fl99, fl97]) - alphacR6HuDSbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6HuDSbar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6HuDT[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HuDT[fl99, fl97]) - alphacR6HuDT[MIF1, fl97]*
+         alphaKQL[fl99, MIF1] - alphacR6HuDT[fl99, MIF1]*
+         alphaKUR[MIF1, fl97])/2, deltaalphacR6HuDTbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HuDTbar[fl99, fl97]) - alphacR6HuDTbar[MIF1, fl97]*
+         alphaKQLbar[fl99, MIF1] - alphacR6HuDTbar[fl99, MIF1]*
+         alphaKURbar[MIF1, fl97])/2, deltaalphacR6Hv[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hv[fl99, fl97] - alphacR6Hv[MIF1, fl97]*
+         alphaKNR[fl99, MIF1] - alphacR6Hv[fl99, MIF1]*alphaKNR[MIF1, fl97])/
+       2, deltaalphacR6Hvbar[fl99_, fl97_] -> 
+      (-2*alphaKH1*alphacR6Hvbar[fl99, fl97] - alphacR6Hvbar[MIF1, fl97]*
+         alphaKNRbar[fl99, MIF1] - alphacR6Hvbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphacR6HvDS[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HvDS[fl99, fl97]) - alphacR6HvDS[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6HvDS[fl99, MIF1]*
+         alphaKNR[MIF1, fl97])/2, deltaalphacR6HvDSbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HvDSbar[fl99, fl97]) - alphacR6HvDSbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6HvDSbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphacR6HvDT[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HvDT[fl99, fl97]) - alphacR6HvDT[MIF1, fl97]*
+         alphaKLL[fl99, MIF1] - alphacR6HvDT[fl99, MIF1]*
+         alphaKNR[MIF1, fl97])/2, deltaalphacR6HvDTbar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphacR6HvDTbar[fl99, fl97]) - alphacR6HvDTbar[MIF1, fl97]*
+         alphaKLLbar[fl99, MIF1] - alphacR6HvDTbar[fl99, MIF1]*
+         alphaKNRbar[MIF1, fl97])/2, deltaalphacR6le[fl95_, fl93_, fl99_, 
+       fl97_] -> (-(alphacR6le[fl95, fl93, MIF1, fl97]*alphaKER[fl99, 
+           MIF1]) - alphacR6le[fl95, fl93, fl99, MIF1]*alphaKER[MIF1, fl97] - 
+        alphacR6le[MIF1, fl93, fl99, fl97]*alphaKLL[fl95, MIF1] - 
+        alphacR6le[fl95, MIF1, fl99, fl97]*alphaKLL[MIF1, fl93])/2, 
+     deltaalphacR6lebar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6lebar[fl95, fl93, MIF1, fl97]*alphaKERbar[fl99, MIF1]) - 
+        alphacR6lebar[fl95, fl93, fl99, MIF1]*alphaKERbar[MIF1, fl97] - 
+        alphacR6lebar[MIF1, fl93, fl99, fl97]*alphaKLLbar[fl95, MIF1] - 
+        alphacR6lebar[fl95, MIF1, fl99, fl97]*alphaKLLbar[MIF1, fl93])/2, 
+     deltaalphacR6ledqT[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6ledqT[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphacR6ledqT[fl95, MIF1, fl99, fl93]*alphaKER[MIF1, fl97] - 
+        alphacR6ledqT[MIF1, fl97, fl99, fl93]*alphaKLL[fl95, MIF1] - 
+        alphacR6ledqT[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphacR6ledqTbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6ledqTbar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6ledqTbar[fl95, MIF1, fl99, fl93]*alphaKERbar[MIF1, fl97] - 
+        alphacR6ledqTbar[MIF1, fl97, fl99, fl93]*alphaKLLbar[fl95, MIF1] - 
+        alphacR6ledqTbar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphacR6leelS[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6leelS[fl95, fl97, MIF1, fl93]*alphaKER[fl99, MIF1]) - 
+        alphacR6leelS[fl95, MIF1, fl99, fl93]*alphaKER[MIF1, fl97] - 
+        alphacR6leelS[MIF1, fl97, fl99, fl93]*alphaKLL[fl95, MIF1] - 
+        alphacR6leelS[fl95, fl97, fl99, MIF1]*alphaKLL[MIF1, fl93])/2, 
+     deltaalphacR6leelSbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6leelSbar[fl95, fl97, MIF1, fl93]*alphaKERbar[fl99, MIF1]) - 
+        alphacR6leelSbar[fl95, MIF1, fl99, fl93]*alphaKERbar[MIF1, fl97] - 
+        alphacR6leelSbar[MIF1, fl97, fl99, fl93]*alphaKLLbar[fl95, MIF1] - 
+        alphacR6leelSbar[fl95, fl97, fl99, MIF1]*alphaKLLbar[MIF1, fl93])/2, 
+     deltaalphacR6leelT[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6leelT[fl95, fl97, MIF1, fl93]*alphaKER[fl99, MIF1]) - 
+        alphacR6leelT[fl95, MIF1, fl99, fl93]*alphaKER[MIF1, fl97] - 
+        alphacR6leelT[MIF1, fl97, fl99, fl93]*alphaKLL[fl95, MIF1] - 
+        alphacR6leelT[fl95, fl97, fl99, MIF1]*alphaKLL[MIF1, fl93])/2, 
+     deltaalphacR6leelTbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6leelTbar[fl95, fl97, MIF1, fl93]*alphaKERbar[fl99, MIF1]) - 
+        alphacR6leelTbar[fl95, MIF1, fl99, fl93]*alphaKERbar[MIF1, fl97] - 
+        alphacR6leelTbar[MIF1, fl97, fl99, fl93]*alphaKLLbar[fl95, MIF1] - 
+        alphacR6leelTbar[fl95, fl97, fl99, MIF1]*alphaKLLbar[MIF1, fl93])/2, 
+     deltaalphacR6ll3[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6ll3[MIF1, fl93, fl99, fl97]*alphaKLL[fl95, MIF1]) - 
+        alphacR6ll3[fl95, fl93, MIF1, fl97]*alphaKLL[fl99, MIF1] - 
+        alphacR6ll3[fl95, MIF1, fl99, fl97]*alphaKLL[MIF1, fl93] - 
+        alphacR6ll3[fl95, fl93, fl99, MIF1]*alphaKLL[MIF1, fl97])/2, 
+     deltaalphacR6ll3[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6ll3[MIF1, fl97, fl99, fl93]*alphaKLL[fl95, MIF1]) - 
+        alphacR6ll3[fl95, fl97, MIF1, fl93]*alphaKLL[fl99, MIF1] - 
+        alphacR6ll3[fl95, fl97, fl99, MIF1]*alphaKLL[MIF1, fl93] - 
+        alphacR6ll3[fl95, MIF1, fl99, fl93]*alphaKLL[MIF1, fl97])/2, 
+     deltaalphacR6ll3bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6ll3bar[MIF1, fl93, fl99, fl97]*alphaKLLbar[fl95, MIF1]) - 
+        alphacR6ll3bar[fl95, fl93, MIF1, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphacR6ll3bar[fl95, MIF1, fl99, fl97]*alphaKLLbar[MIF1, fl93] - 
+        alphacR6ll3bar[fl95, fl93, fl99, MIF1]*alphaKLLbar[MIF1, fl97])/2, 
+     deltaalphacR6ll3bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6ll3bar[MIF1, fl97, fl99, fl93]*alphaKLLbar[fl95, MIF1]) - 
+        alphacR6ll3bar[fl95, fl97, MIF1, fl93]*alphaKLLbar[fl99, MIF1] - 
+        alphacR6ll3bar[fl95, fl97, fl99, MIF1]*alphaKLLbar[MIF1, fl93] - 
+        alphacR6ll3bar[fl95, MIF1, fl99, fl93]*alphaKLLbar[MIF1, fl97])/2, 
+     deltaalphacR6lv[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphacR6lv[MIF1, fl97, fl95, fl93]*alphaKLL[fl99, MIF1]) - 
+        alphacR6lv[fl99, MIF1, fl95, fl93]*alphaKLL[MIF1, fl97] - 
+        alphacR6lv[fl99, fl97, MIF1, fl93]*alphaKNR[fl95, MIF1] - 
+        alphacR6lv[fl99, fl97, fl95, MIF1]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphacR6lvbar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphacR6lvbar[MIF1, fl97, fl95, fl93]*alphaKLLbar[fl99, MIF1]) - 
+        alphacR6lvbar[fl99, MIF1, fl95, fl93]*alphaKLLbar[MIF1, fl97] - 
+        alphacR6lvbar[fl99, fl97, MIF1, fl93]*alphaKNRbar[fl95, MIF1] - 
+        alphacR6lvbar[fl99, fl97, fl95, MIF1]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphacR6lvle[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6lvle[fl95, fl93, fl99, MIF1]*alphaKER[MIF1, fl97]) - 
+        alphacR6lvle[MIF1, fl93, fl99, fl97]*alphaKLL[fl95, MIF1] - 
+        alphacR6lvle[fl95, fl93, MIF1, fl97]*alphaKLL[fl99, MIF1] - 
+        alphacR6lvle[fl95, MIF1, fl99, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphacR6lvle[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvle[fl99, fl93, fl95, MIF1]*alphaKER[MIF1, fl97]) - 
+        alphacR6lvle[fl99, fl93, MIF1, fl97]*alphaKLL[fl95, MIF1] - 
+        alphacR6lvle[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1] - 
+        alphacR6lvle[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphacR6lvlebar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6lvlebar[fl95, fl93, fl99, MIF1]*alphaKERbar[MIF1, fl97]) - 
+        alphacR6lvlebar[MIF1, fl93, fl99, fl97]*alphaKLLbar[fl95, MIF1] - 
+        alphacR6lvlebar[fl95, fl93, MIF1, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphacR6lvlebar[fl95, MIF1, fl99, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphacR6lvlebar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvlebar[fl99, fl93, fl95, MIF1]*alphaKERbar[MIF1, fl97]) - 
+        alphacR6lvlebar[fl99, fl93, MIF1, fl97]*alphaKLLbar[fl95, MIF1] - 
+        alphacR6lvlebar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1] - 
+        alphacR6lvlebar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphacR6lvuqT[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvuqT[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1]) - 
+        alphacR6lvuqT[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93] - 
+        alphacR6lvuqT[fl99, fl93, fl95, MIF1]*alphaKQL[MIF1, fl97] - 
+        alphacR6lvuqT[fl99, fl93, MIF1, fl97]*alphaKUR[fl95, MIF1])/2, 
+     deltaalphacR6lvuqTbar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvuqTbar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1]) - 
+        alphacR6lvuqTbar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93] - 
+        alphacR6lvuqTbar[fl99, fl93, fl95, MIF1]*alphaKQLbar[MIF1, fl97] - 
+        alphacR6lvuqTbar[fl99, fl93, MIF1, fl97]*alphaKURbar[fl95, MIF1])/2, 
+     deltaalphacR6lvvlS[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvvlS[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1]) - 
+        alphacR6lvvlS[fl99, fl93, fl95, MIF1]*alphaKLL[MIF1, fl97] - 
+        alphacR6lvvlS[fl99, fl93, MIF1, fl97]*alphaKNR[fl95, MIF1] - 
+        alphacR6lvvlS[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphacR6lvvlSbar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvvlSbar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1]) - 
+        alphacR6lvvlSbar[fl99, fl93, fl95, MIF1]*alphaKLLbar[MIF1, fl97] - 
+        alphacR6lvvlSbar[fl99, fl93, MIF1, fl97]*alphaKNRbar[fl95, MIF1] - 
+        alphacR6lvvlSbar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphacR6lvvlT[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvvlT[MIF1, fl93, fl95, fl97]*alphaKLL[fl99, MIF1]) - 
+        alphacR6lvvlT[fl99, fl93, fl95, MIF1]*alphaKLL[MIF1, fl97] - 
+        alphacR6lvvlT[fl99, fl93, MIF1, fl97]*alphaKNR[fl95, MIF1] - 
+        alphacR6lvvlT[fl99, MIF1, fl95, fl97]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphacR6lvvlTbar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6lvvlTbar[MIF1, fl93, fl95, fl97]*alphaKLLbar[fl99, MIF1]) - 
+        alphacR6lvvlTbar[fl99, fl93, fl95, MIF1]*alphaKLLbar[MIF1, fl97] - 
+        alphacR6lvvlTbar[fl99, fl93, MIF1, fl97]*alphaKNRbar[fl95, MIF1] - 
+        alphacR6lvvlTbar[fl99, MIF1, fl95, fl97]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphacR6qd1[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6qd1[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphacR6qd1[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphacR6qd1[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphacR6qd1[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphacR6qd1bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6qd1bar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6qd1bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphacR6qd1bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6qd1bar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphacR6qd8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6qd8[fl95, fl93, MIF1, fl97]*alphaKDR[fl99, MIF1]) - 
+        alphacR6qd8[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97] - 
+        alphacR6qd8[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphacR6qd8[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphacR6qd8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6qd8bar[fl95, fl93, MIF1, fl97]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6qd8bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97] - 
+        alphacR6qd8bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6qd8bar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphacR6qddq8[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddq8[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphacR6qddq8[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97] - 
+        alphacR6qddq8[MIF1, fl97, fl99, fl93]*alphaKQL[fl95, MIF1] - 
+        alphacR6qddq8[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphacR6qddq8bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddq8bar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6qddq8bar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97] - 
+        alphacR6qddq8bar[MIF1, fl97, fl99, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6qddq8bar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphacR6qddqS[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddqS[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphacR6qddqS[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97] - 
+        alphacR6qddqS[MIF1, fl97, fl99, fl93]*alphaKQL[fl95, MIF1] - 
+        alphacR6qddqS[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphacR6qddqSbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddqSbar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6qddqSbar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97] - 
+        alphacR6qddqSbar[MIF1, fl97, fl99, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6qddqSbar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphacR6qddqT[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddqT[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphacR6qddqT[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97] - 
+        alphacR6qddqT[MIF1, fl97, fl99, fl93]*alphaKQL[fl95, MIF1] - 
+        alphacR6qddqT[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphacR6qddqT8[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddqT8[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphacR6qddqT8[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97] - 
+        alphacR6qddqT8[MIF1, fl97, fl99, fl93]*alphaKQL[fl95, MIF1] - 
+        alphacR6qddqT8[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93])/2, 
+     deltaalphacR6qddqT8bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddqT8bar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6qddqT8bar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97] - 
+        alphacR6qddqT8bar[MIF1, fl97, fl99, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6qddqT8bar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphacR6qddqTbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qddqTbar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6qddqTbar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97] - 
+        alphacR6qddqTbar[MIF1, fl97, fl99, fl93]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6qddqTbar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93])/2, 
+     deltaalphacR6qq8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6qq8[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1]) - 
+        alphacR6qq8[fl95, fl93, MIF1, fl97]*alphaKQL[fl99, MIF1] - 
+        alphacR6qq8[fl95, MIF1, fl99, fl97]*alphaKQL[MIF1, fl93] - 
+        alphacR6qq8[fl95, fl93, fl99, MIF1]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphacR6qq8[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qq8[MIF1, fl97, fl99, fl93]*alphaKQL[fl95, MIF1]) - 
+        alphacR6qq8[fl95, fl97, MIF1, fl93]*alphaKQL[fl99, MIF1] - 
+        alphacR6qq8[fl95, fl97, fl99, MIF1]*alphaKQL[MIF1, fl93] - 
+        alphacR6qq8[fl95, MIF1, fl99, fl93]*alphaKQL[MIF1, fl97])/2, 
+     deltaalphacR6qq8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6qq8bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1]) - 
+        alphacR6qq8bar[fl95, fl93, MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphacR6qq8bar[fl95, MIF1, fl99, fl97]*alphaKQLbar[MIF1, fl93] - 
+        alphacR6qq8bar[fl95, fl93, fl99, MIF1]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphacR6qq8bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6qq8bar[MIF1, fl97, fl99, fl93]*alphaKQLbar[fl95, MIF1]) - 
+        alphacR6qq8bar[fl95, fl97, MIF1, fl93]*alphaKQLbar[fl99, MIF1] - 
+        alphacR6qq8bar[fl95, fl97, fl99, MIF1]*alphaKQLbar[MIF1, fl93] - 
+        alphacR6qq8bar[fl95, MIF1, fl99, fl93]*alphaKQLbar[MIF1, fl97])/2, 
+     deltaalphacR6qu1[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphacR6qu1[MIF1, fl97, fl95, fl93]*alphaKQL[fl99, MIF1]) - 
+        alphacR6qu1[fl99, MIF1, fl95, fl93]*alphaKQL[MIF1, fl97] - 
+        alphacR6qu1[fl99, fl97, MIF1, fl93]*alphaKUR[fl95, MIF1] - 
+        alphacR6qu1[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6qu1bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphacR6qu1bar[MIF1, fl97, fl95, fl93]*alphaKQLbar[fl99, MIF1]) - 
+        alphacR6qu1bar[fl99, MIF1, fl95, fl93]*alphaKQLbar[MIF1, fl97] - 
+        alphacR6qu1bar[fl99, fl97, MIF1, fl93]*alphaKURbar[fl95, MIF1] - 
+        alphacR6qu1bar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6qu8[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphacR6qu8[MIF1, fl97, fl95, fl93]*alphaKQL[fl99, MIF1]) - 
+        alphacR6qu8[fl99, MIF1, fl95, fl93]*alphaKQL[MIF1, fl97] - 
+        alphacR6qu8[fl99, fl97, MIF1, fl93]*alphaKUR[fl95, MIF1] - 
+        alphacR6qu8[fl99, fl97, fl95, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6qu8bar[fl99_, fl97_, fl95_, fl93_] -> 
+      (-(alphacR6qu8bar[MIF1, fl97, fl95, fl93]*alphaKQLbar[fl99, MIF1]) - 
+        alphacR6qu8bar[fl99, MIF1, fl95, fl93]*alphaKQLbar[MIF1, fl97] - 
+        alphacR6qu8bar[fl99, fl97, MIF1, fl93]*alphaKURbar[fl95, MIF1] - 
+        alphacR6qu8bar[fl99, fl97, fl95, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quqd1[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6quqd1[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphacR6quqd1[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphacR6quqd1[fl95, fl93, MIF1, fl97]*alphaKQL[fl99, MIF1] - 
+        alphacR6quqd1[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quqd1[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quqd1[fl99, fl93, fl95, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphacR6quqd1[fl99, fl93, MIF1, fl97]*alphaKQL[fl95, MIF1] - 
+        alphacR6quqd1[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1] - 
+        alphacR6quqd1[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quqd1bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6quqd1bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphacR6quqd1bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6quqd1bar[fl95, fl93, MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphacR6quqd1bar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quqd1bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quqd1bar[fl99, fl93, fl95, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphacR6quqd1bar[fl99, fl93, MIF1, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6quqd1bar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphacR6quqd1bar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quqd8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6quqd8[fl95, fl93, fl99, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphacR6quqd8[MIF1, fl93, fl99, fl97]*alphaKQL[fl95, MIF1] - 
+        alphacR6quqd8[fl95, fl93, MIF1, fl97]*alphaKQL[fl99, MIF1] - 
+        alphacR6quqd8[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quqd8[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quqd8[fl99, fl93, fl95, MIF1]*alphaKDR[MIF1, fl97]) - 
+        alphacR6quqd8[fl99, fl93, MIF1, fl97]*alphaKQL[fl95, MIF1] - 
+        alphacR6quqd8[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1] - 
+        alphacR6quqd8[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quqd8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6quqd8bar[fl95, fl93, fl99, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphacR6quqd8bar[MIF1, fl93, fl99, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6quqd8bar[fl95, fl93, MIF1, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphacR6quqd8bar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quqd8bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quqd8bar[fl99, fl93, fl95, MIF1]*alphaKDRbar[MIF1, fl97]) - 
+        alphacR6quqd8bar[fl99, fl93, MIF1, fl97]*alphaKQLbar[fl95, MIF1] - 
+        alphacR6quqd8bar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1] - 
+        alphacR6quqd8bar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quuq8[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuq8[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1]) - 
+        alphacR6quuq8[fl99, fl93, fl95, MIF1]*alphaKQL[MIF1, fl97] - 
+        alphacR6quuq8[fl99, fl93, MIF1, fl97]*alphaKUR[fl95, MIF1] - 
+        alphacR6quuq8[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quuq8bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuq8bar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1]) - 
+        alphacR6quuq8bar[fl99, fl93, fl95, MIF1]*alphaKQLbar[MIF1, fl97] - 
+        alphacR6quuq8bar[fl99, fl93, MIF1, fl97]*alphaKURbar[fl95, MIF1] - 
+        alphacR6quuq8bar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quuqS[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuqS[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1]) - 
+        alphacR6quuqS[fl99, fl93, fl95, MIF1]*alphaKQL[MIF1, fl97] - 
+        alphacR6quuqS[fl99, fl93, MIF1, fl97]*alphaKUR[fl95, MIF1] - 
+        alphacR6quuqS[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quuqSbar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuqSbar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1]) - 
+        alphacR6quuqSbar[fl99, fl93, fl95, MIF1]*alphaKQLbar[MIF1, fl97] - 
+        alphacR6quuqSbar[fl99, fl93, MIF1, fl97]*alphaKURbar[fl95, MIF1] - 
+        alphacR6quuqSbar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quuqT[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuqT[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1]) - 
+        alphacR6quuqT[fl99, fl93, fl95, MIF1]*alphaKQL[MIF1, fl97] - 
+        alphacR6quuqT[fl99, fl93, MIF1, fl97]*alphaKUR[fl95, MIF1] - 
+        alphacR6quuqT[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quuqT8[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuqT8[MIF1, fl93, fl95, fl97]*alphaKQL[fl99, MIF1]) - 
+        alphacR6quuqT8[fl99, fl93, fl95, MIF1]*alphaKQL[MIF1, fl97] - 
+        alphacR6quuqT8[fl99, fl93, MIF1, fl97]*alphaKUR[fl95, MIF1] - 
+        alphacR6quuqT8[fl99, MIF1, fl95, fl97]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6quuqT8bar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuqT8bar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1]) - 
+        alphacR6quuqT8bar[fl99, fl93, fl95, MIF1]*alphaKQLbar[MIF1, fl97] - 
+        alphacR6quuqT8bar[fl99, fl93, MIF1, fl97]*alphaKURbar[fl95, MIF1] - 
+        alphacR6quuqT8bar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6quuqTbar[fl99_, fl93_, fl95_, fl97_] -> 
+      (-(alphacR6quuqTbar[MIF1, fl93, fl95, fl97]*alphaKQLbar[fl99, MIF1]) - 
+        alphacR6quuqTbar[fl99, fl93, fl95, MIF1]*alphaKQLbar[MIF1, fl97] - 
+        alphacR6quuqTbar[fl99, fl93, MIF1, fl97]*alphaKURbar[fl95, MIF1] - 
+        alphacR6quuqTbar[fl99, MIF1, fl95, fl97]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6ud[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6ud[fl95, fl97, MIF1, fl93]*alphaKDR[fl99, MIF1]) - 
+        alphacR6ud[fl95, MIF1, fl99, fl93]*alphaKDR[MIF1, fl97] - 
+        alphacR6ud[MIF1, fl97, fl99, fl93]*alphaKUR[fl95, MIF1] - 
+        alphacR6ud[fl95, fl97, fl99, MIF1]*alphaKUR[MIF1, fl93])/2, 
+     deltaalphacR6udbar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6udbar[fl95, fl97, MIF1, fl93]*alphaKDRbar[fl99, MIF1]) - 
+        alphacR6udbar[fl95, MIF1, fl99, fl93]*alphaKDRbar[MIF1, fl97] - 
+        alphacR6udbar[MIF1, fl97, fl99, fl93]*alphaKURbar[fl95, MIF1] - 
+        alphacR6udbar[fl95, fl97, fl99, MIF1]*alphaKURbar[MIF1, fl93])/2, 
+     deltaalphacR6uu8[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6uu8[MIF1, fl93, fl99, fl97]*alphaKUR[fl95, MIF1]) - 
+        alphacR6uu8[fl95, fl93, MIF1, fl97]*alphaKUR[fl99, MIF1] - 
+        alphacR6uu8[fl95, MIF1, fl99, fl97]*alphaKUR[MIF1, fl93] - 
+        alphacR6uu8[fl95, fl93, fl99, MIF1]*alphaKUR[MIF1, fl97])/2, 
+     deltaalphacR6uu8[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6uu8[MIF1, fl97, fl99, fl93]*alphaKUR[fl95, MIF1]) - 
+        alphacR6uu8[fl95, fl97, MIF1, fl93]*alphaKUR[fl99, MIF1] - 
+        alphacR6uu8[fl95, fl97, fl99, MIF1]*alphaKUR[MIF1, fl93] - 
+        alphacR6uu8[fl95, MIF1, fl99, fl93]*alphaKUR[MIF1, fl97])/2, 
+     deltaalphacR6uu8bar[fl95_, fl93_, fl99_, fl97_] -> 
+      (-(alphacR6uu8bar[MIF1, fl93, fl99, fl97]*alphaKURbar[fl95, MIF1]) - 
+        alphacR6uu8bar[fl95, fl93, MIF1, fl97]*alphaKURbar[fl99, MIF1] - 
+        alphacR6uu8bar[fl95, MIF1, fl99, fl97]*alphaKURbar[MIF1, fl93] - 
+        alphacR6uu8bar[fl95, fl93, fl99, MIF1]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphacR6uu8bar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6uu8bar[MIF1, fl97, fl99, fl93]*alphaKURbar[fl95, MIF1]) - 
+        alphacR6uu8bar[fl95, fl97, MIF1, fl93]*alphaKURbar[fl99, MIF1] - 
+        alphacR6uu8bar[fl95, fl97, fl99, MIF1]*alphaKURbar[MIF1, fl93] - 
+        alphacR6uu8bar[fl95, MIF1, fl99, fl93]*alphaKURbar[MIF1, fl97])/2, 
+     deltaalphacR6ve[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6ve[fl95, fl97, MIF1, fl93]*alphaKER[fl99, MIF1]) - 
+        alphacR6ve[fl95, MIF1, fl99, fl93]*alphaKER[MIF1, fl97] - 
+        alphacR6ve[MIF1, fl97, fl99, fl93]*alphaKNR[fl95, MIF1] - 
+        alphacR6ve[fl95, fl97, fl99, MIF1]*alphaKNR[MIF1, fl93])/2, 
+     deltaalphacR6vebar[fl95_, fl97_, fl99_, fl93_] -> 
+      (-(alphacR6vebar[fl95, fl97, MIF1, fl93]*alphaKERbar[fl99, MIF1]) - 
+        alphacR6vebar[fl95, MIF1, fl99, fl93]*alphaKERbar[MIF1, fl97] - 
+        alphacR6vebar[MIF1, fl97, fl99, fl93]*alphaKNRbar[fl95, MIF1] - 
+        alphacR6vebar[fl95, fl97, fl99, MIF1]*alphaKNRbar[MIF1, fl93])/2, 
+     deltaalphaKDR[fl99_, fl97_] -> -alphaKDR[fl99, fl97], 
+     deltaalphaKDRbar[fl99_, fl97_] -> -alphaKDRbar[fl99, fl97], 
+     deltaalphaKER[fl99_, fl97_] -> -alphaKER[fl99, fl97], 
+     deltaalphaKERbar[fl99_, fl97_] -> -alphaKERbar[fl99, fl97], 
+     deltaalphaKLL[fl99_, fl97_] -> -alphaKLL[fl99, fl97], 
+     deltaalphaKLLbar[fl99_, fl97_] -> -alphaKLLbar[fl99, fl97], 
+     deltaalphaKNR[fl99_, fl97_] -> -alphaKNR[fl99, fl97], 
+     deltaalphaKNRbar[fl99_, fl97_] -> -alphaKNRbar[fl99, fl97], 
+     deltaalphaKQL[fl99_, fl97_] -> -alphaKQL[fl99, fl97], 
+     deltaalphaKQLbar[fl99_, fl97_] -> -alphaKQLbar[fl99, fl97], 
+     deltaalphaKUR[fl99_, fl97_] -> -alphaKUR[fl99, fl97], 
+     deltaalphaKURbar[fl99_, fl97_] -> -alphaKURbar[fl99, fl97], 
+     deltaalphaYD1[fl99_, fl97_] -> (-(alphaKH1*alphaYD1[fl99, fl97]) - 
+        alphaKDR[MIF1, fl97]*alphaYD1[fl99, MIF1] - alphaKQL[fl99, MIF1]*
+         alphaYD1[MIF1, fl97])/2, deltaalphaYD1bar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphaYD1bar[fl99, fl97]) - alphaKDRbar[MIF1, fl97]*
+         alphaYD1bar[fl99, MIF1] - alphaKQLbar[fl99, MIF1]*
+         alphaYD1bar[MIF1, fl97])/2, deltaalphaYE1[fl99_, fl97_] -> 
+      (-(alphaKH1*alphaYE1[fl99, fl97]) - alphaKER[MIF1, fl97]*
+         alphaYE1[fl99, MIF1] - alphaKLL[fl99, MIF1]*alphaYE1[MIF1, fl97])/2, 
+     deltaalphaYE1bar[fl99_, fl97_] -> (-(alphaKH1*alphaYE1bar[fl99, fl97]) - 
+        alphaKERbar[MIF1, fl97]*alphaYE1bar[fl99, MIF1] - 
+        alphaKLLbar[fl99, MIF1]*alphaYE1bar[MIF1, fl97])/2, 
+     deltaalphaYU1[fl99_, fl97_] -> (-(alphaKH1*alphaYU1[fl99, fl97]) - 
+        alphaKUR[MIF1, fl97]*alphaYU1[fl99, MIF1] - alphaKQL[fl99, MIF1]*
+         alphaYU1[MIF1, fl97])/2, deltaalphaYU1bar[fl99_, fl97_] -> 
+      (-(alphaKH1*alphaYU1bar[fl99, fl97]) - alphaKURbar[MIF1, fl97]*
+         alphaYU1bar[fl99, MIF1] - alphaKQLbar[fl99, MIF1]*
+         alphaYU1bar[MIF1, fl97])/2, deltaalphaYv1[fl99_, fl97_] -> 
+      (-(alphaKH1*alphaYv1[fl99, fl97]) - alphaKNR[MIF1, fl97]*
+         alphaYv1[fl99, MIF1] - alphaKLL[fl99, MIF1]*alphaYv1[MIF1, fl97])/2, 
+     deltaalphaYv1bar[fl99_, fl97_] -> (-(alphaKH1*alphaYv1bar[fl99, fl97]) - 
+        alphaKNRbar[MIF1, fl97]*alphaYv1bar[fl99, MIF1] - 
+        alphaKLLbar[fl99, MIF1]*alphaYv1bar[MIF1, fl97])/2}

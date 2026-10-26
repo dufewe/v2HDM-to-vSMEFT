@@ -1,0 +1,5 @@
+    esfull(1)=G[(p3.p4)*(pol3.pol4)*sSS^2*FourPi^(-2)*I*g2^2*mH22^(-2)*lambda3
+    - (p3.pol4)*(p4.pol3)*sSS^2*FourPi^(-2)*I*g2^2*mH22^(-2)*lambda3];
+    esfull(2)=G[(p3.p4)*(pol3.pol4)*sSS^2*FourPi^(-2)*I*g2^2*mH22^(-2)*lambda4
+    - (p3.pol4)*(p4.pol3)*sSS^2*FourPi^(-2)*I*g2^2*mH22^(-2)*lambda4];
+
