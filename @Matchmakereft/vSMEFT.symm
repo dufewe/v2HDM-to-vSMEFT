@@ -1,0 +1,38 @@
+listareplacesymmetry = {
+    (********* Physical Operators *********)
+    (*----- dim-5 -----*)
+    alphac5vH[ff1_,ff2_] -> alphac5vH[ff2,ff1],
+    alphac5vB[ff1_,ff2_] -> - alphac5vB[ff2,ff1],
+    alphac5lH[ff1_,ff2_] -> alphac5lH[ff2,ff1],
+    alphac5vHbar[ff1_,ff2_] -> alphac5vHbar[ff2,ff1],
+    alphac5vBbar[ff1_,ff2_] -> - alphac5vBbar[ff2,ff1],
+    alphac5lHbar[ff1_,ff2_] -> alphac5lHbar[ff2,ff1],
+    (*----- dim-6: (LbarL)(LbarL) -----*)
+    alphac6ll[ff1_,ff2_,ff3_,ff4_] -> alphac6ll[ff3,ff4,ff1,ff2],
+    alphac6qq1[ff1_,ff2_,ff3_,ff4_] -> alphac6qq1[ff3,ff4,ff1,ff2],
+    alphac6qq3[ff1_,ff2_,ff3_,ff4_] -> alphac6qq3[ff3,ff4,ff1,ff2],
+    (*----- dim-6: (RbarR)(RbarR) -----*)
+    alphac6vv[ff1_,ff2_,ff3_,ff4_] -> alphac6vv[ff3,ff4,ff1,ff2],
+    alphac6ee[ff1_,ff2_,ff3_,ff4_] -> alphac6ee[ff3,ff4,ff1,ff2],
+    alphac6uu[ff1_,ff2_,ff3_,ff4_] -> alphac6uu[ff3,ff4,ff1,ff2],
+    alphac6dd[ff1_,ff2_,ff3_,ff4_] -> alphac6dd[ff3,ff4,ff1,ff2],
+    (*----- dim-6: BNV -----*)
+    alphac6vvvv[ff1_,ff2_,ff3_,ff4_] -> alphac6vvvv[ff2,ff1,ff3,ff4],
+    alphac6vvvv[ff1_,ff2_,ff3_,ff4_] -> alphac6vvvv[ff3,ff4,ff1,ff2],
+    alphac6vvvv[ff1_,ff2_,ff3_,ff4_] -> alphac6vvvv[ff1,ff2,ff4,ff3],
+    alphac6qqdv[ff1_,ff2_,ff3_,ff4_] -> alphac6qqdv[ff2,ff1,ff3,ff4],
+    alphac6qque[ff1_,ff2_,ff3_,ff4_] -> alphac6qque[ff2,ff1,ff3,ff4],
+    alphac6vvvvbar[ff1_,ff2_,ff3_,ff4_] -> alphac6vvvvbar[ff2,ff1,ff3,ff4],
+    alphac6vvvvbar[ff1_,ff2_,ff3_,ff4_] -> alphac6vvvvbar[ff3,ff4,ff1,ff2],
+    alphac6vvvvbar[ff1_,ff2_,ff3_,ff4_] -> alphac6vvvvbar[ff1,ff2,ff4,ff3],
+    alphac6qqdvbar[ff1_,ff2_,ff3_,ff4_] -> alphac6qqdvbar[ff2,ff1,ff3,ff4],
+    alphac6qquebar[ff1_,ff2_,ff3_,ff4_] -> alphac6qquebar[ff2,ff1,ff3,ff4],
+
+    (********* Redundant Operators *********)
+    (*----- dim-6: (LbarL)(LbarL) -----*)
+    alphacR6ll3[ff1_,ff2_,ff3_,ff4_] -> alphacR6ll3[ff3,ff4,ff1,ff2],
+    alphacR6qq8[ff1_,ff2_,ff3_,ff4_] -> alphacR6qq8[ff3,ff4,ff1,ff2],
+    (*----- dim-6: (RbarR)(RbarR) -----*)
+    alphacR6uu8[ff1_,ff2_,ff3_,ff4_] -> alphacR6uu8[ff3,ff4,ff1,ff2],
+    alphacR6dd8[ff1_,ff2_,ff3_,ff4_] -> alphacR6dd8[ff3,ff4,ff1,ff2]
+}

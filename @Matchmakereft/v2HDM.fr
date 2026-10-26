@@ -1,0 +1,128 @@
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+
+M$ModelName = "v2HDM";
+
+M$Information = {
+  Authors      -> {"Wen-Feng Duan"}, 
+  Version      -> "1.0",
+  Date         -> "08.2026",
+  Institutions -> {"Institute of Particle Physics, CCNU"},
+  Emails       -> {"dufewe@mails.ccnu.edu.cn"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* **** Particle classes **** *)
+(* ************************** *)
+
+M$ClassesDescription = {
+
+(* Higgs: physical scalars  *)
+
+  S[2] == {
+    ClassName        -> H2,
+    Indices          -> {Index[SU2D]},
+    SelfConjugate    -> False,
+    Mass             -> mH22,
+    FullName         -> "heavy",
+    QuantumNumbers   -> {Y -> 1/2}
+  },
+
+(* Higgs tilde: unphysical scalars  *)
+
+  S[20] == {
+    ClassName        -> H2Tilde,
+    Indices          -> {Index[SU2D]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    QuantumNumbers   -> {Y -> -1/2},
+    Unphysical       -> True,
+    Definitions      -> {H2Tilde[i_] :> Eps[i,j] H2bar[j]}
+  }
+};
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+
+M$Parameters = {
+
+  (* Internal Parameters *)
+
+  mH22 == {
+    ParameterType    -> Internal,
+    ComplexParameter -> False
+  },
+  mH12 == {
+    ParameterType    -> Internal,
+    ComplexParameter -> True
+  },
+
+  lambda2 == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> False
+  },
+  lambda3 == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> False
+  },
+  lambda4 == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> False
+  },
+  lambda5 == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> True
+  },
+  lambda6 == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> True
+  },
+  lambda7 == { 
+    ParameterType     -> Internal, 
+    ComplexParameter  -> True
+  },
+
+  YU2 == {
+    ParameterType     -> Internal,
+    Indices           -> {Index[Generation], Index[Generation]},
+    ComplexParameter  -> True
+  },
+  YD2 == {
+    ParameterType     -> Internal,
+    Indices           -> {Index[Generation], Index[Generation]},
+    ComplexParameter  -> True
+  },
+  Yv2 == {
+    ParameterType     -> Internal,
+    Indices           -> {Index[Generation], Index[Generation]},
+    ComplexParameter  -> True
+  },
+  YE2 == {
+    ParameterType     -> Internal,
+    Indices           -> {Index[Generation], Index[Generation]},
+    ComplexParameter  -> True
+  }
+};
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+BFM = {BT[mu_] -> BT[mu] + BTQuantum[mu], WT[mu_, ii_] -> WT[mu, ii] + WTQuantum[mu, ii], GT[mu_, aa_] -> GT[mu, aa] + GTQuantum[mu, aa]};
+
+LNPYukawa := Module[{sp1,ii,cc,ff1,ff2,yuk},
+  yuk = ExpandIndices[- YU2[ff1, ff2] QLbar[sp1, ii, ff1, cc].UR[sp1, ff2, cc] H2Tilde[ii] - YD2[ff1, ff2] QLbar[sp1, ii, ff1, cc].DR[sp1, ff2, cc] H2[ii] - Yv2[ff1, ff2] LLbar[sp1, ii, ff1].NR[sp1, ff2] H2Tilde[ii] - YE2[ff1, ff2] LLbar[sp1, ii, ff1].ER[sp1, ff2] H2[ii]];
+  yuk + HC[yuk]
+];
+
+LNPHiggs := Module[{ii, jj, mu, higgs1, higgs2},
+	higgs1 = ExpandIndices[DC[H2bar[ii],mu] DC[H2[ii],mu] - mH22^2 H2bar[ii] H2[ii] - (lambda2/2) H2bar[ii] H2[ii] H2bar[jj] H2[jj] - lambda3 H1bar[ii] H1[ii] H2bar[jj] H2[jj] - lambda4 H1bar[ii] H2[ii] H2bar[jj] H1[jj]];
+  higgs2 = ExpandIndices[+ mH12^2 H1bar[ii] H2[ii] - (lambda5/2) H1bar[ii] H2[ii] H1bar[jj] H2[jj] - lambda6 H1bar[ii] H1[ii] H1bar[jj] H2[jj] - lambda7 H2bar[ii] H2[ii] H1bar[jj] H2[jj]];
+  higgs1 + higgs2 + HC[higgs2]
+]/.BFM;
+
+Ltot := LvSM + LNPHiggs + LNPYukawa;

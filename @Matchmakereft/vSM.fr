@@ -1,0 +1,380 @@
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+
+M$ModelName = "vSM";
+
+M$Information = {
+  Authors      -> {"Wen-Feng Duan"}, 
+  Version      -> "1.0",
+  Date         -> "08. 2026",
+  Institutions -> {"Institute of Particle Physics, CCNU"},
+  Emails       -> {"dufewe@mails.ccnu.edu.cn"}
+};
+
+FeynmanGauge = True;
+
+(* ************************** *)
+(* *****  Gauge groups  ***** *)
+(* ************************** *)
+
+M$GaugeGroups = {
+  U1Y  == { 
+    Abelian          -> True,  
+    CouplingConstant -> g1, 
+    GaugeBoson       -> BT, 
+    Charge           -> Y
+  },
+  SU2L == { 
+    Abelian           -> False, 
+    CouplingConstant  -> g2, 
+    GaugeBoson        -> WT, 
+    StructureConstant -> fsu2, 
+    Representations   -> {{Ta,SU2D}}
+  },
+  SU3C == { 
+    Abelian           -> False, 
+    CouplingConstant  -> gs, 
+    GaugeBoson        -> GT,
+    StructureConstant -> fsu3, 
+    Representations   -> {{T,Colour}}
+  } 
+};
+
+(* ************************** *)
+(* *****    Indices     ***** *)
+(* ************************** *)
+
+IndexRange[Index[SU2W      ]] = Range[3]; 
+IndexRange[Index[SU2D      ]] = Range[2];
+IndexRange[Index[Gluon     ]] = Range[8];
+IndexRange[Index[Colour    ]] = Range[3]; 
+IndexRange[Index[Generation]] = Range[3];
+
+IndexStyle[SU2W,       n];
+IndexStyle[SU2D,       l];
+IndexStyle[Gluon,      a];
+IndexStyle[Colour,     m];
+IndexStyle[Generation, fl];
+
+(* ************************** *)
+(* **** Particle classes **** *)
+(* ************************** *)
+
+M$ClassesDescription = {
+
+(* Gauge bosons: physical vector fields *)
+  V[1] == {
+    ClassName        -> BT,
+    SelfConjugate    -> True,
+    Mass             -> 0,
+    FullName         -> "light",
+    Width            -> 0
+  },
+
+  V[2] == {
+    ClassName        -> WT,
+    SelfConjugate    -> True,
+    Indices          -> {Index[SU2W]},
+    Mass             -> 0,
+    FullName         -> "light",
+    Width            -> 0
+  },
+
+  V[3] == {
+    ClassName        -> GT,
+    SelfConjugate    -> True,
+    Indices          -> {Index[Gluon]},
+    Mass             -> 0,
+    FullName         -> "light",
+    Width            -> 0
+  },
+
+(* Gauge bosons: quantum fluctuations *)
+  V[10] == {
+    ClassName        -> BTQuantum,
+    SelfConjugate    -> True,
+    Mass             -> 0,
+    FullName         -> "light",
+    Width            -> 0
+  },
+
+  V[20] == {
+    ClassName        -> WTQuantum,
+    SelfConjugate    -> True,
+    Indices          -> {Index[SU2W]},
+    Mass             -> 0,
+    FullName         -> "light",
+    Width            -> 0
+  },
+
+  V[30] == {
+    ClassName        -> GTQuantum,
+    SelfConjugate    -> True,
+    Indices          -> {Index[Gluon]},
+    Mass             -> 0,
+    FullName         -> "light",
+    Width            -> 0
+  },
+
+(* Ghosts: related to physical gauge bosons *)
+  U[1] == {
+    ClassName        -> ghBT,
+    SelfConjugate    -> False,
+    Ghost            -> BT,
+    QuantumNumbers   ->{GhostNumber -> 1},
+    Mass             -> 0,
+    FullName         -> "light",
+    Width	           -> 0
+  },
+
+  U[2] == {
+    ClassName        -> ghWT,
+    SelfConjugate    -> False,
+    Indices          -> {Index[SU2W]},
+    Ghost            -> WT,
+    QuantumNumbers   -> {GhostNumber -> 1},
+    Mass             -> 0,
+    FullName         -> "light",
+    Width	           -> 0
+  },
+  
+  U[3] == {
+    ClassName        -> ghGT,
+    SelfConjugate    -> False,
+    Indices          -> {Index[Gluon]},
+    Ghost            -> GT,
+    QuantumNumbers   ->{GhostNumber -> 1},
+    Mass             -> 0,
+    FullName         -> "light",
+    Width	           -> 0
+  }, 
+
+(* Fermions: physical fields *)
+  F[1] == {
+    ClassName        -> qL,
+    Indices          -> {Index[SU2D], Index[Generation], Index[Colour]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    FullName         -> "light",
+    QuantumNumbers   -> {Y -> 1/6}
+  },
+
+  F[2] == {
+    ClassName        -> uR,
+    Indices          -> {Index[Generation], Index[Colour]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    FullName         -> "light",
+    QuantumNumbers   -> {Y -> 2/3}
+  },
+
+  F[3] == {
+    ClassName        -> dR,
+    Indices          -> {Index[Generation], Index[Colour]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    FullName         -> "light",
+    QuantumNumbers   -> {Y -> -1/3}
+  },
+
+  F[4] == {
+    ClassName        -> lL,
+    Indices          -> {Index[SU2D], Index[Generation]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    FullName         -> "light",
+    QuantumNumbers   -> {Y -> -1/2}
+  },
+
+  F[5] == {
+    ClassName        -> vR,
+    Indices          -> {Index[Generation]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    FullName         -> "light",
+    QuantumNumbers   -> {Y -> 0}
+  },
+
+  F[6] == {
+    ClassName        -> eR,
+    Indices          -> {Index[Generation]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    FullName         -> "light",
+    QuantumNumbers   -> {Y -> -1}
+  },
+
+(* Fermions: unphysical fields, we use them just to apply directly the chirality *)
+  F[10] == {
+    ClassName        -> QL,
+    Indices          -> {Index[SU2D], Index[Generation], Index[Colour]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    QuantumNumbers   -> {Y -> 1/6},
+    Unphysical       -> True,
+    Definitions      -> {QL[sp_,kk_,ff_,cc_] :> left[qL[sp,kk,ff,cc]]}
+  },
+
+  F[20] == {
+    ClassName        -> UR,
+    Indices          -> {Index[Generation], Index[Colour]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    QuantumNumbers   -> {Y -> 2/3},
+    Unphysical       -> True,
+    Definitions      -> {UR[sp_,ff_,cc_] :> right[uR[sp,ff,cc]]}
+  },
+
+  F[30] == {
+    ClassName        -> DR,
+    Indices          -> {Index[Generation], Index[Colour]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    QuantumNumbers   -> {Y -> -1/3},
+    Unphysical       -> True,
+    Definitions      -> {DR[sp_,ff_,cc_] :> right[dR[sp,ff,cc]]}
+  },
+
+  F[40] == {
+    ClassName        -> LL,
+    Indices          -> {Index[SU2D], Index[Generation]},
+    SelfConjugate    -> False,
+    QuantumNumbers   -> {Y -> -1/2},
+    Unphysical       -> True,
+    Definitions      -> {LL[sp_,kk_,ff_] :> left[lL[sp,kk,ff]]}
+  },
+
+  F[50] == {
+    ClassName        -> NR,
+    Indices          -> {Index[Generation]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    QuantumNumbers   -> {Y -> 0},
+    Unphysical       -> True,
+    Definitions      -> {NR[sp_,ff_] :> right[vR[sp,ff]]}
+  },
+
+  F[60] == {
+    ClassName        -> ER,
+    Indices          -> {Index[Generation]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    QuantumNumbers   -> {Y -> -1},
+    Unphysical       -> True,
+    Definitions      -> {ER[sp_,ff_] :> right[eR[sp,ff]]}
+  },
+
+(* Higgs: physical scalars  *)
+  S[1] == {
+    ClassName        -> H1,
+    Indices          -> {Index[SU2D]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    FullName         -> "light",
+    QuantumNumbers   -> {Y -> 1/2}
+  },
+
+(* Higgs tilde: unphysical scalars  *)
+  S[10] == {
+    ClassName        -> H1Tilde,
+    Indices          -> {Index[SU2D]},
+    SelfConjugate    -> False,
+    Mass             -> 0,
+    QuantumNumbers   -> {Y -> -1/2},
+    Unphysical       -> True,
+    Definitions      -> {H1Tilde[i_] :> Eps[i,j] H1bar[j]}
+  }
+};
+
+(* ************************** *)
+(* *****   Parameters   ***** *)
+(* ************************** *)
+
+M$Parameters = {
+
+  (* Internal Parameters *)
+  g1 == {
+    ParameterType    -> Internal,
+    ComplexParameter -> False
+  },
+  g2 == {
+    ParameterType    -> Internal,
+    ComplexParameter -> False
+  },
+  gs == {
+    ParameterType    -> Internal,
+    ComplexParameter -> False
+  },
+
+  lambda1 == {
+    ParameterType    -> Internal,
+    ComplexParameter -> False
+  },
+  mH11 == {
+    ParameterType    -> Internal,
+    ComplexParameter -> False
+  },
+
+  YU1 == {
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+  YD1 == {
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+  Yv1 == {
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  },
+  YE1 == {
+    ParameterType    -> Internal,
+    Indices          -> {Index[Generation], Index[Generation]},
+    ComplexParameter -> True
+  }
+};
+
+
+(* ************************** *)
+(* *****   Lagrangian   ***** *)
+(* ************************** *)
+
+BFM = {BT[mu_] -> BT[mu] + BTQuantum[mu], WT[mu_, ii_] -> WT[mu, ii] + WTQuantum[mu, ii], GT[mu_, aa_] -> GT[mu, aa] + GTQuantum[mu, aa]};
+
+LGauge := Block[{mu,nu,ii,aa}, 
+  -1/4 FS[BT,mu,nu] FS[BT,mu,nu] - 1/4 FS[WT,mu,nu,ii] FS[WT,mu,nu,ii] - 1/4 FS[GT,mu,nu,aa] FS[GT,mu,nu,aa]
+]/.BFM;
+
+LFermions := Block[{mu}, 
+  I*(QLbar.Ga[mu].DC[QL, mu] + URbar.Ga[mu].DC[UR, mu] + DRbar.Ga[mu].DC[DR, mu] + LLbar.Ga[mu].DC[LL, mu] + NRbar.Ga[mu].DC[NR, mu] + ERbar.Ga[mu].DC[ER, mu])
+]/.BFM;
+
+LHiggs := Block[{ii,mu},
+  DC[H1bar[ii],mu] DC[H1[ii],mu] - mH11^2 H1bar[ii] H1[ii] - lambda1 H1bar[ii] H1[ii] H1bar[jj] H1[jj] / 2
+]/.BFM; 
+
+LYukawa := Block[{sp1,ii,cc,ff1,ff2,yuk},
+  yuk = - YU1[ff1, ff2] QLbar[sp1, ii, ff1, cc].UR[sp1, ff2, cc] H1Tilde[ii] - YD1[ff1, ff2] QLbar[sp1, ii, ff1, cc].DR[sp1, ff2, cc] H1[ii] - Yv1[ff1, ff2] LLbar[sp1, ii, ff1].NR[sp1, ff2] H1Tilde[ii] - YE1[ff1, ff2] LLbar[sp1, ii, ff1].ER[sp1, ff2] H1[ii];
+  yuk + HC[yuk]
+];
+
+LGhost := Block[{aa,LGh1,LGh2,LGhs,mu},
+  (* Pure gauge piece *) 	
+  LGh1 = - ghBTbar.DC[(DC[ghBT,mu]/.BFM),mu];
+  LGh2 = - ghWTbar[aa].DC[(DC[ghWT[aa],mu]/.BFM),mu];
+  LGhs = - ghGTbar[aa].DC[(DC[ghGT[aa],mu]/.BFM),mu];
+  ExpandIndices[LGhs + LGh1 + LGh2, FlavorExpand -> SU2W]
+];
+
+LGaugeFixing := Block[{aa,LGFs,LGF2,LGF1,mu,nu},
+  LGF1 = - DC[BTQuantum[mu],mu] DC[BTQuantum[nu],nu] / 2;
+  LGF2 = - DC[WTQuantum[mu,aa],mu] DC[WTQuantum[nu,aa],nu] / 2;
+  LGFs = - DC[GTQuantum[mu,aa],mu] DC[GTQuantum[nu,aa],nu] / 2;
+  ExpandIndices[LGF1 + LGF2 + LGFs]
+];
+
+LvSM := LGauge + LFermions + LHiggs + LYukawa + LGhost + LGaugeFixing;
