@@ -1,4 +1,4 @@
-FORM 5.0.2 (Sep 16 2026, v5.0.2)                 Run: Mon Oct 26 21:11:10 2026
+FORM 5.0.2 (Sep 16 2026, v5.0.2)                 Run: Tue Oct 27 16:46:54 2026
     #-
 Warning: ignoring out-of-place setup command:
 generaldefs.h Line 2 ==> #: Parentheses 2000
@@ -10,4 +10,4 @@ generaldefs.h Line 3 ==> #: MaxTermSize 300000
       l1,l99]*Ta[n95,l97,l1]*esfull(2) - 1/6*Ta[n93,l97,l1]*Ta[n95,l1,l99]*
       esfull(2));
 
-  0.06 sec out of 0.07 sec
+  0.05 sec out of 0.05 sec

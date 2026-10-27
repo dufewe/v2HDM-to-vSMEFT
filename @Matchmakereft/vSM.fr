@@ -270,7 +270,7 @@ M$ClassesDescription = {
     ClassName        -> H1,
     Indices          -> {Index[SU2D]},
     SelfConjugate    -> False,
-    Mass             -> 0,
+    Mass             -> mH11,
     FullName         -> "light",
     QuantumNumbers   -> {Y -> 1/2}
   },
@@ -280,7 +280,7 @@ M$ClassesDescription = {
     ClassName        -> H1Tilde,
     Indices          -> {Index[SU2D]},
     SelfConjugate    -> False,
-    Mass             -> 0,
+    Mass             -> mH11,
     QuantumNumbers   -> {Y -> -1/2},
     Unphysical       -> True,
     Definitions      -> {H1Tilde[i_] :> Eps[i,j] H1bar[j]}

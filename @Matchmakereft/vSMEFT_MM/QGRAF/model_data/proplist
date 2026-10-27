@@ -13,4 +13,4 @@ dR dRbar I*(gam(yy1,pp1,yy2)+0*gam(yy1,yy2))*prop(pp1,0)*deltaF(flfl1,flfl2)*del
 lL lLbar I*(gam(yy1,pp1,yy2)+0*gam(yy1,yy2))*prop(pp1,0)*deltaF(ll1,ll2)*deltaF(flfl1,flfl2)
 vR vRbar I*(gam(yy1,pp1,yy2)+0*gam(yy1,yy2))*prop(pp1,0)*deltaF(flfl1,flfl2)
 eR eRbar I*(gam(yy1,pp1,yy2)+0*gam(yy1,yy2))*prop(pp1,0)*deltaF(flfl1,flfl2)
-H1 H1bar I*prop(pp1,0)*deltaF(ll1,ll2)
+H1 H1bar I*prop(pp1,mH11)*deltaF(ll1,ll2)

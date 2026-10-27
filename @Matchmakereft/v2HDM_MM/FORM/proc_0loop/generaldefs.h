@@ -33,7 +33,7 @@ set flFunc:`flFunc';
 set flmassFunc:`flmassFunc';
 set gFunc:`gFunc';
 
-set setlightmasses: dummylightmassneverused, ;
+set setlightmasses: dummylightmassneverused, mH11;
 set setheavymasses: mH22;
 
 *** define variable isnotEFT

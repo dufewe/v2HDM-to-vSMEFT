@@ -342,13 +342,16 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             lambda6bar)/(8*Pi^2) - (3*lambda6bar*lambda7)/(16*Pi^2) - 
           (3*invepsilonbar*lambda6bar*lambda7)/(16*Pi^2) - 
           (3*lambda6*lambda7bar)/(16*Pi^2) - (3*invepsilonbar*lambda6*
-            lambda7bar)/(16*Pi^2) - (lambda3^2*Log[mH22^2/\[Mu]^2])/
-           (16*Pi^2) - (lambda3*lambda4*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
+            lambda7bar)/(16*Pi^2) + (3*lambda6*lambda6bar*mH11^2)/
+           (8*mH22^2*Pi^2) + (3*invepsilonbar*lambda6*lambda6bar*mH11^2)/
+           (8*mH22^2*Pi^2) - (lambda3^2*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
+          (lambda3*lambda4*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
           (lambda4^2*Log[mH22^2/\[Mu]^2])/(32*Pi^2) - 
           (lambda5*lambda5bar*Log[mH22^2/\[Mu]^2])/(32*Pi^2) - 
           (3*lambda6*lambda6bar*Log[mH22^2/\[Mu]^2])/(8*Pi^2) + 
           (3*lambda6bar*lambda7*Log[mH22^2/\[Mu]^2])/(16*Pi^2) + 
-          (3*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2])/(16*Pi^2), 
+          (3*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
+          (3*lambda6*lambda6bar*mH11^2*Log[mH22^2/\[Mu]^2])/(8*mH22^2*Pi^2), 
         alphamH11 -> (lambda3*mH22^2)/(8*Pi^2) + 
           (invepsilonbar*lambda3*mH22^2)/(8*Pi^2) + (lambda4*mH22^2)/
            (16*Pi^2) + (invepsilonbar*lambda4*mH22^2)/(16*Pi^2) - 
@@ -4195,13 +4198,16 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             lambda6bar)/(8*Pi^2) - (3*lambda6bar*lambda7)/(16*Pi^2) - 
           (3*invepsilonbar*lambda6bar*lambda7)/(16*Pi^2) - 
           (3*lambda6*lambda7bar)/(16*Pi^2) - (3*invepsilonbar*lambda6*
-            lambda7bar)/(16*Pi^2) - (lambda3^2*Log[mH22^2/\[Mu]^2])/
-           (16*Pi^2) - (lambda3*lambda4*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
+            lambda7bar)/(16*Pi^2) + (3*lambda6*lambda6bar*mH11^2)/
+           (8*mH22^2*Pi^2) + (3*invepsilonbar*lambda6*lambda6bar*mH11^2)/
+           (8*mH22^2*Pi^2) - (lambda3^2*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
+          (lambda3*lambda4*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
           (lambda4^2*Log[mH22^2/\[Mu]^2])/(32*Pi^2) - 
           (lambda5*lambda5bar*Log[mH22^2/\[Mu]^2])/(32*Pi^2) - 
           (3*lambda6*lambda6bar*Log[mH22^2/\[Mu]^2])/(8*Pi^2) + 
           (3*lambda6bar*lambda7*Log[mH22^2/\[Mu]^2])/(16*Pi^2) + 
-          (3*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2])/(16*Pi^2), 
+          (3*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2])/(16*Pi^2) - 
+          (3*lambda6*lambda6bar*mH11^2*Log[mH22^2/\[Mu]^2])/(8*mH22^2*Pi^2), 
         alphamH11 -> (lambda3*mH22^2)/(8*Pi^2) + 
           (invepsilonbar*lambda3*mH22^2)/(8*Pi^2) + (lambda4*mH22^2)/
            (16*Pi^2) + (invepsilonbar*lambda4*mH22^2)/(16*Pi^2) - 
@@ -8297,16 +8303,21 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
               360*invepsilonbar*lambda6*lambda7bar - 360*lambda6bar*lambda7*
                Log[mH22^2/\[Mu]^2] - 360*lambda6*lambda7bar*Log[
                 mH22^2/\[Mu]^2]))/(mH22^2*Pi^2) + 
-          (2*invepsilonbar*lambda3^2 + 2*invepsilonbar*lambda3*lambda4 + 
-            invepsilonbar*lambda4^2 + invepsilonbar*lambda5*lambda5bar + 
-            12*lambda6*lambda6bar + 12*invepsilonbar*lambda6*lambda6bar - 
-            6*lambda6bar*lambda7 - 6*invepsilonbar*lambda6bar*lambda7 - 
-            6*lambda6*lambda7bar - 6*invepsilonbar*lambda6*lambda7bar - 
-            2*lambda3^2*Log[mH22^2/\[Mu]^2] - 2*lambda3*lambda4*
-             Log[mH22^2/\[Mu]^2] - lambda4^2*Log[mH22^2/\[Mu]^2] - 
-            lambda5*lambda5bar*Log[mH22^2/\[Mu]^2] - 12*lambda6*lambda6bar*
-             Log[mH22^2/\[Mu]^2] + 6*lambda6bar*lambda7*Log[mH22^2/\[Mu]^2] + 
-            6*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2])/(32*Pi^2)), 
+          (12*lambda6*lambda6bar*mH11^2 + 12*invepsilonbar*lambda6*lambda6bar*
+             mH11^2 + 2*invepsilonbar*lambda3^2*mH22^2 + 2*invepsilonbar*
+             lambda3*lambda4*mH22^2 + invepsilonbar*lambda4^2*mH22^2 + 
+            invepsilonbar*lambda5*lambda5bar*mH22^2 + 12*lambda6*lambda6bar*
+             mH22^2 + 12*invepsilonbar*lambda6*lambda6bar*mH22^2 - 
+            6*lambda6bar*lambda7*mH22^2 - 6*invepsilonbar*lambda6bar*lambda7*
+             mH22^2 - 6*lambda6*lambda7bar*mH22^2 - 6*invepsilonbar*lambda6*
+             lambda7bar*mH22^2 - 12*lambda6*lambda6bar*mH11^2*
+             Log[mH22^2/\[Mu]^2] - 2*lambda3^2*mH22^2*Log[mH22^2/\[Mu]^2] - 
+            2*lambda3*lambda4*mH22^2*Log[mH22^2/\[Mu]^2] - lambda4^2*mH22^2*
+             Log[mH22^2/\[Mu]^2] - lambda5*lambda5bar*mH22^2*
+             Log[mH22^2/\[Mu]^2] - 12*lambda6*lambda6bar*mH22^2*
+             Log[mH22^2/\[Mu]^2] + 6*lambda6bar*lambda7*mH22^2*
+             Log[mH22^2/\[Mu]^2] + 6*lambda6*lambda7bar*mH22^2*
+             Log[mH22^2/\[Mu]^2])/(32*mH22^2*Pi^2)), 
       alphaYE1[ff1_, ff2_] -> -YE1[ff1, ff2] + onelooporder*
          ((mH11^2*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*Yv2[ff1, fl2])/
            (32*mH22^2*Pi^2) - (mH11^2*(12*lambda7bar*YE2[ff1, ff2] + 
