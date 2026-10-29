@@ -1,1 +1,0 @@
-{amplH1H1H1H1barH1barH1bar -> (6*dd[2,l89,l95]*dd[2,l91,l97]*dd[2,l93,l99]*esfull[1] + 6*dd[2,l89,l95]*dd[2,l91,l99]*dd[2,l93,l97]*esfull[1] + 6*dd[2,l89,l97]*dd[2,l91,l95]*dd[2,l93,l99]*esfull[1] + 6*dd[2,l89,l97]*dd[2,l91,l99]*dd[2,l93,l95]*esfull[1] + 6*dd[2,l89,l99]*dd[2,l91,l95]*dd[2,l93,l97]*esfull[1] + 6*dd[2,l89,l99]*dd[2,l91,l97]*dd[2,l93,l95]*esfull[1])}

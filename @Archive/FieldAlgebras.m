@@ -69,8 +69,8 @@ FieldRep = {
 	Unit3[gauge1_,gauge2_]GaugeT1_[args1___,gauge2_,args2___][args3__]/;IndexBool[{gauge2}]:>GaugeT1[args1,gauge1,args2][args3],
 	Unit8[gauge1_,gauge2_]GaugeT1_[args1___,gauge2_,args2___][args3__]/;IndexBool[{gauge2}]:>GaugeT1[args1,gauge1,args2][args3],
 	gT[lorentz1_,lorentz2_]FT_[args1___][args2___,lorentz2_,args3___]/;IndexBool[{lorentz2}]:>FT[args1][args2,lorentz1,args3],
-	PL[spin1_,spin2_]field1_[args1___,spin2_,args2___]/;IndexBool[{spin2}]:>If[field1===QL||field1===LL,field1[args1,spin1,args2],0],
-	PR[spin1_,spin2_]field1_[args1___,spin2_,args2___]/;IndexBool[{spin2}]:>If[field1===QL||field1===LL,0,field1[args1,spin1,args2]]
+	PL[spin1_,spin2_]field1_[args1___,spin2_,args2___]/;And[IndexBool[{spin2}],MemberQ[{QL,LL},field1]]:>field1[args1,spin1,args2],
+	PR[spin1_,spin2_]field1_[args1___,spin2_,args2___]/;And[IndexBool[{spin2}],MemberQ[{UR,DR,vR,ER},field1]]:>field1[args1,spin1,args2]
 };
 
 

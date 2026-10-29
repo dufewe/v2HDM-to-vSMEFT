@@ -396,20 +396,20 @@ X["BT",F1_,lorentz1_,gauge1_][isospin1_,isospin2_][flavor1_][spin1_][color1_] :=
 
 X[F2_,"WT",lorentz1_,gauge1_][isospin1_,isospin2_][flavor1_][spin1_][color1_] := Module[{Xisospin1,Xspin1},If[F2==="QL"||F2==="LL",
 	g2{{-\[Gamma][lorentz1][spin1,Xspin1]S[gauge1][isospin1,Xisospin1]Fer[ToExpression[F2]][Xisospin1,flavor1,Xspin1,color1]},{\[Gamma][lorentz1][spin1,Xspin1]Conjugate[S[gauge1][isospin1,Xisospin1]]Ferc[ToExpression[F2]][Xisospin1,flavor1,Xspin1,color1]}}
-,0]];
+,{{0},{0}}]];
 (*-----------------------------------------------------*)
 X["WT",F2_,lorentz1_,gauge1_][isospin1_,isospin2_][flavor1_][spin1_][color1_] := Module[{Xisospin1,Xspin1},If[F2==="QL"||F2==="LL",
 	g2{{-FerBar[ToExpression[F2]][Xisospin1,flavor1,Xspin1,color1]S[gauge1][Xisospin1,isospin2]\[Gamma][lorentz1][Xspin1,spin1],FerBarc[ToExpression[F2]][Xisospin1,flavor1,Xspin1,color1]Conjugate[S[gauge1][Xisospin1,isospin2]]\[Gamma][lorentz1][Xspin1,spin1]}}
-,0]];
+,{{0,0}}]];
 
 
 X[F3_,"GT",lorentz1_,gauge1_][isospin1_,isospin2_][flavor1_][spin1_][color1_] := Module[{Xspin1,Xcolor1},If[F3==="QL"||F3==="UR"||F3==="DR",
 	gs{{-\[Gamma][lorentz1][spin1,Xspin1]T[gauge1][color1,Xcolor1]Fer[ToExpression[F3]][isospin1,flavor1,Xspin1,Xcolor1]},{\[Gamma][lorentz1][spin1,Xspin1]Conjugate[T[gauge1][color1,Xcolor1]]Ferc[ToExpression[F3]][isospin1,flavor1,Xspin1,Xcolor1]}}
-,0]];
+,{{0},{0}}]];
 (*-----------------------------------------------------*)
 X["GT",F3_,lorentz1_,gauge1_][isospin1_,isospin2_][flavor1_][spin1_][color1_] := Module[{Xspin1,Xcolor1},If[F3==="QL"||F3==="UR"||F3==="DR",
 	gs{{-FerBar[ToExpression[F3]][isospin2,flavor1,Xspin1,Xcolor1]T[gauge1][Xcolor1,color1]\[Gamma][lorentz1][Xspin1,spin1],FerBarc[ToExpression[F3]][isospin2,flavor1,Xspin1,Xcolor1]Conjugate[T[gauge1][Xcolor1,color1]]\[Gamma][lorentz1][Xspin1,spin1]}}
-,0]];
+,{{0,0}}]];
 
 
 (* ::Section:: *)

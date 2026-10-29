@@ -1,5 +1,0 @@
-    esfull(1)=G[FourPi^(-2)*I*mH22^2*lambda4 + 2*FourPi^(-2)*I*mH22^2*lambda3
-    + FourPi^(-2)*I*invepsilonbar*mH22^2*lambda4 + 2*FourPi^(-2)*I*
-   invepsilonbar*mH22^2*lambda3 - Log[mH22^2]*FourPi^(-2)*I*mH22^2*lambda4 - 2
-   *Log[mH22^2]*FourPi^(-2)*I*mH22^2*lambda3];
-

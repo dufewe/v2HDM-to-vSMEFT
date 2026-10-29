@@ -1,9 +1,0 @@
-    eseft(1)=alphac6lq1[fl99,fl97,fl95,fl93];
-    eseft(2)=alphac6lq3[fl99,fl97,fl95,fl93];
-    eseft(3)=G[gam[y95,FIVE,mu1,y93]*gam[y99,FIVE,mu1,y97]*I*eseft(1) + gam[
-   y95,FIVE,mu1,y93]*gam[y99,mu1,y97]*I*eseft(1) + gam[y95,mu1,y93]*gam[y99,
-   FIVE,mu1,y97]*I*eseft(1) + gam[y95,mu1,y93]*gam[y99,mu1,y97]*I*eseft(1)];
-    eseft(4)=G[gam[y95,FIVE,mu1,y93]*gam[y99,FIVE,mu1,y97]*I*eseft(2) + gam[
-   y95,FIVE,mu1,y93]*gam[y99,mu1,y97]*I*eseft(2) + gam[y95,mu1,y93]*gam[y99,
-   FIVE,mu1,y97]*I*eseft(2) + gam[y95,mu1,y93]*gam[y99,mu1,y97]*I*eseft(2)];
-

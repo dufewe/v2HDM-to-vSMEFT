@@ -1,8 +1,0 @@
-diags:=[
-
-(+1)*
- cpol(H1(-1,p1))*
- cpol(H1bar(-3,p2))*
-
- v2(H1(-1,p1),H1bar(-3,p2)),
-NULL]:

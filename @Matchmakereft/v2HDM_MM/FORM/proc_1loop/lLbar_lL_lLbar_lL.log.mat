@@ -1,1 +1,0 @@
-{ampllLbarlLlLbarlL -> (- 1/32*dd[2,l93,l95]*dd[2,l97,l99]*esfull[25] + 1/32*dd[2,l93,l99]*dd[2,l95,l97]*esfull[26] - 1/32*ee2[l1,l93]*ee2[l1,l95]*ee2[l2,l97]*ee2[l2,l99]*esfull[27] + 1/32*ee2[l1,l95]*ee2[l1,l97]*ee2[l2,l93]*ee2[l2,l99]*esfull[28] - 1/32*ee2[l93,l97]*ee2[l95,l99]*esfull[29])}

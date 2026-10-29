@@ -1,9 +1,0 @@
-diags:=[
- 
-(+1)*
- cpol(GT(-1,p1))*
- cpol(GT(-3,p2))*
- cpol(GT(-5,p3))*
-
- v3(GT(-1,p1),GT(-3,p2),GT(-5,p3)),
-NULL]:

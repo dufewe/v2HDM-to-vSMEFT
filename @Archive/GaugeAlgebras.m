@@ -60,6 +60,8 @@ DiracRep = {
 
 
 CConjRep = {
+	CConj[spin1_,spin2_]Unit4[spin2_,spin3_]/;IndexBool[{spin2}]:>CConj[spin1,spin3],
+	CConj[spin1_,spin2_]Unit4[spin1_,spin3_]/;IndexBool[{spin1}]:>CConj[spin3,spin2],
 	CConj[spin1_,spin2_]CConj[spin2_,spin3_]/;IndexBool[{spin2}]:>-Unit4[spin1,spin3],
 	CConj[spin1_,spin2_]\[Gamma][lorentz1_][spin2_,spin3_]CConj[spin3_,spin4_]/;IndexBool[{spin2,spin3}]:>\[Gamma][lorentz1][spin4,spin1],
 	CConj[spin1_,spin2_]\[Gamma][lorentz1_][spin2_,spin3_]\[Gamma][lorentz2_][spin3_,spin4_]CConj[spin4_,spin5_]/;IndexBool[{spin2,spin3,spin4}]
@@ -232,8 +234,10 @@ LeviCivita[args__]/;!DuplicateFreeQ[{args}]:=0;
 
 
 ProjTrans = {
-	PL[spin1_,spin2_]\[Gamma][lorentz1_][spin2_,spin3_]:>\[Gamma][lorentz1][spin1,spin2]PR[spin2,spin3],
-	PR[spin1_,spin2_]\[Gamma][lorentz1_][spin2_,spin3_]:>\[Gamma][lorentz1][spin1,spin2]PL[spin2,spin3]
+	PL[spin1_,spin2_]\[Gamma][lorentz1_][spin2_,spin3_]/;IndexBool[{spin2}]:>\[Gamma][lorentz1][spin1,spin2]PR[spin2,spin3],
+	PR[spin1_,spin2_]\[Gamma][lorentz1_][spin2_,spin3_]/;IndexBool[{spin2}]:>\[Gamma][lorentz1][spin1,spin2]PL[spin2,spin3],
+	PL[spin1_,spin2_]CConj[spin2_,spin3_]/;IndexBool[{spin2}]:>CConj[spin1,spin2]PL[spin2,spin3],
+	PR[spin1_,spin2_]CConj[spin2_,spin3_]/;IndexBool[{spin2}]:>CConj[spin1,spin2]PR[spin2,spin3]
 };
 
 
