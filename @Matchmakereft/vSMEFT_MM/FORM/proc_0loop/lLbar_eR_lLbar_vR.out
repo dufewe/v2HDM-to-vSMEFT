@@ -1,0 +1,17 @@
+    eseft(1)=alphacR6lvle[fl95,fl93,fl99,fl97];
+    eseft(2)=alphacR6lvle[fl99,fl93,fl95,fl97];
+    eseft(3)=alphac6lvle[fl95,fl93,fl99,fl97];
+    eseft(4)=alphac6lvle[fl99,fl93,fl95,fl97];
+    eseft(5)=G[gam[y95,FIVE,mu1,mu2,y93]*gam[y99,FIVE,mu1,mu2,y97]*I*eseft(1)
+    + gam[y95,FIVE,mu1,mu2,y93]*gam[y99,mu1,mu2,y97]*I*eseft(1) + gam[y95,FIVE
+   ,mu1,mu2,y97]*gam[y99,FIVE,mu1,mu2,y93]*I*eseft(2) + gam[y95,FIVE,mu1,mu2,
+   y97]*gam[y99,mu1,mu2,y93]*I*eseft(2) + gam[y95,FIVE,y93]*gam[y99,FIVE,y97]*
+   I*eseft(3) + gam[y95,FIVE,y93]*gam[y99,y97]*I*eseft(3) + gam[y95,FIVE,y97]*
+   gam[y99,FIVE,y93]*I*eseft(4) + gam[y95,FIVE,y97]*gam[y99,y93]*I*eseft(4) + 
+   gam[y95,mu1,mu2,y93]*gam[y99,FIVE,mu1,mu2,y97]*I*eseft(1) + gam[y95,mu1,mu2
+   ,y93]*gam[y99,mu1,mu2,y97]*I*eseft(1) + gam[y95,mu1,mu2,y97]*gam[y99,FIVE,
+   mu1,mu2,y93]*I*eseft(2) + gam[y95,mu1,mu2,y97]*gam[y99,mu1,mu2,y93]*I*
+   eseft(2) + gam[y95,y93]*gam[y99,FIVE,y97]*I*eseft(3) + gam[y95,y93]*gam[y99
+   ,y97]*I*eseft(3) + gam[y95,y97]*gam[y99,FIVE,y93]*I*eseft(4) + gam[y95,y97]
+   *gam[y99,y93]*I*eseft(4)];
+

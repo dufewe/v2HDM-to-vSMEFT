@@ -1,0 +1,20 @@
+FORM 5.0.2 (Sep 16 2026, v5.0.2)                 Run: Fri Oct 30 00:31:46 2026
+    #-
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 2 ==> #: Parentheses 2000
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 3 ==> #: MaxTermSize 300000
+
+   amplqLbardRqLbaruR = (
+       - 1/4*dd[3,m93,m95]*dd[3,m97,m99]*Ta[n1,l95,l1]*Ta[n1,l99,l2]*ee2[l1,l2
+      ]*esfull(7) - 1/32*dd[3,m93,m95]*dd[3,m97,m99]*Ta[n1,l95,l1]*Ta[n1,l99,
+      l2]*ee2[l2,l1]*esfull(8) + 1/4*dd[3,m93,m95]*dd[3,m97,m99]*ee2[l1,l99]*
+      ee2[l2,l1]*ee2[l2,l95]*esfull(9) - 1/1152*dd[3,m93,m95]*dd[3,m97,m99]*
+      ee2[l95,l99]*esfull(10) - 1/32*dd[3,m93,m99]*dd[3,m95,m97]*Ta[n1,l95,l1]
+      *Ta[n1,l99,l2]*ee2[l2,l1]*esfull(11) - 1/4*dd[3,m93,m99]*dd[3,m95,m97]*
+      ee2[l1,l95]*ee2[l2,l1]*ee2[l2,l99]*esfull(12) - 1/1152*dd[3,m93,m99]*dd[
+      3,m95,m97]*ee2[l95,l99]*esfull(13) + 1/8*T[a1,m95,m93]*T[a1,m99,m97]*
+      ee2[l95,l99]*esfull(14) + 1/8*T[a1,m95,m97]*T[a1,m99,m93]*ee2[l95,l99]*
+      esfull(15));
+
+  0.31 sec out of 0.32 sec

@@ -1,0 +1,7 @@
+    eseft(1)=G[4*(p2.p4)*(pol1.pol4)*sSS^2*I*alphac6HWB - 4*(p2.pol4)*(
+   p4.pol1)*sSS^2*I*alphac6HWB + 4*(p3.p4)*(pol1.pol4)*sSS^2*I*alphac6HWB - 4*
+   (p3.pol4)*(p4.pol1)*sSS^2*I*alphac6HWB + 4*(p4.p4)*(pol1.pol4)*sSS^2*I*
+   alphac6HWB - 4*(p4.pol1)*(p4.pol4)*sSS^2*I*alphac6HWB + (pol1.pol4)*I*g1*g2
+   *alphaKH1 + 4*e_[p2,p4,pol1,pol4]*sSS^2*alphac6HWtB + 4*e_[p3,p4,pol1,pol4]
+   *sSS^2*alphac6HWtB];
+

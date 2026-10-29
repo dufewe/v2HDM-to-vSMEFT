@@ -1,0 +1,11 @@
+FORM 5.0.2 (Sep 16 2026, v5.0.2)                 Run: Fri Oct 30 00:31:47 2026
+    #-
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 2 ==> #: Parentheses 2000
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 3 ==> #: MaxTermSize 300000
+
+   amplqLbaruRBTH1bar = (
+      1/48*dd[3,m97,m99]*ee2[l93,l99]*esfull(3));
+
+  0.03 sec out of 0.03 sec

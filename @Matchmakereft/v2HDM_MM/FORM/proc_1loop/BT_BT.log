@@ -1,0 +1,11 @@
+FORM 5.0.2 (Sep 16 2026, v5.0.2)                 Run: Fri Oct 30 00:31:43 2026
+    #-
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 2 ==> #: Parentheses 2000
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 3 ==> #: MaxTermSize 300000
+
+   amplBTBT = (
+      1/60*esfull(1));
+
+  0.05 sec out of 0.05 sec

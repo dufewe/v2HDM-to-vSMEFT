@@ -1,0 +1,8 @@
+diags:=[
+
+(+1)*
+ cpol(GT(-1,p1))*
+ cpol(GT(-3,p2))*
+
+ v2(GT(-1,p1),GT(-3,p2)),
+NULL]:

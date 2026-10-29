@@ -1,0 +1,10 @@
+    eseft(1)=alphacR6Hu[fl99,fl97];
+    eseft(2)=alphacR6Hubar[fl97,fl99];
+    eseft(3)=alphac6Hu[fl99,fl97];
+    eseft(4)=G[gam[y99,FIVE,p2,y97]*sSS*eseft(1) - gam[y99,FIVE,p2,y97]*sSS*
+   eseft(2) - gam[y99,FIVE,p3,y97]*sSS*eseft(2) + gam[y99,FIVE,p3,y97]*sSS*I*
+   eseft(3) - gam[y99,FIVE,p4,y97]*sSS*eseft(2) - gam[y99,FIVE,p4,y97]*sSS*I*
+   eseft(3) - gam[y99,p2,y97]*sSS*eseft(1) + gam[y99,p2,y97]*sSS*eseft(2) + 
+   gam[y99,p3,y97]*sSS*eseft(2) - gam[y99,p3,y97]*sSS*I*eseft(3) + gam[y99,p4,
+   y97]*sSS*eseft(2) + gam[y99,p4,y97]*sSS*I*eseft(3)];
+

@@ -1,0 +1,4 @@
+    esfull(1)=YE2bar[fl97,fl99];
+    esfull(2)=G[gam[y99,FIVE,y97]*I*mH22^(-2)*lambda6*esfull(1) - gam[y99,y97]
+   *I*mH22^(-2)*lambda6*esfull(1)];
+

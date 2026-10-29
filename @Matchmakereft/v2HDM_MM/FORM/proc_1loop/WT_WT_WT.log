@@ -1,0 +1,12 @@
+FORM 5.0.2 (Sep 16 2026, v5.0.2)                 Run: Fri Oct 30 00:31:45 2026
+    #-
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 2 ==> #: Parentheses 2000
+Warning: ignoring out-of-place setup command:
+generaldefs.h Line 3 ==> #: MaxTermSize 300000
+
+   amplWTWTWT = (
+      1/30*Ta[n95,l1,l2]*Ta[n97,l2,l3]*Ta[n99,l3,l1]*esfull(1) - 1/30*Ta[n95,
+      l1,l2]*Ta[n97,l3,l1]*Ta[n99,l2,l3]*esfull(1));
+
+  0.68 sec out of 0.68 sec

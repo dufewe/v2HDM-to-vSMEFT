@@ -1,0 +1,10 @@
+diags:=[
+ 
+(+1)*
+ cpol(H1(-1,p1))*
+ cpol(H1(-3,p2))*
+ cpol(H1bar(-5,p3))*
+ cpol(H1bar(-7,p4))*
+
+ v4(H1(-1,p1),H1(-3,p2),H1bar(-5,p3),H1bar(-7,p4)),
+NULL]:
