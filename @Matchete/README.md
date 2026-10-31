@@ -4,7 +4,7 @@ This folder contains the v2HDM-to-vSMEFT matching results using the functional t
 - [main.nb](main.nb): Mathematica Notebook to generate the one-loop matching results
 
 ### Workflow
-1. run `main.nb` on Mathematica interface to obtain the one-loop matching results in [OneLoop@Warsaw.wl](OneLoop@Warsaw.wl)
+1. run [main.nb](main.nb) on Mathematica interface to obtain the one-loop matching results
 
 ### Results
 The overall results are shown in [OneLoop@Warsaw.wl](OneLoop@Warsaw.wl).
