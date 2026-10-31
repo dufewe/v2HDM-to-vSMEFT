@@ -247,8 +247,9 @@
    (Dim^2*Log[Mu^2/m22^2]*ConjugateTranspose[YD1][ff3, ff4]*
      ConjugateTranspose[Yv1][r, p]*\[ScriptCapitalQ]C["(6)", "lvqd", "(1)"][
       s, t, ff3, ff4])/24, \[ScriptCapitalE]["(6)", "leel"][p_, r_, s_, 
-   t_] -> -1/12*(Log[Mu^2/m22^2]*YE1[ff1, s]*Yv1[t, ff2]*
-     \[ScriptCapitalE]["(6)", "lvle"][ff1, ff2, p, r]) + 
+   t_] -> -1/2*(g1^2*YER*YLL*Log[Mu^2/m22^2]*\[ScriptCapitalE]["(6)", "le"][
+      p, t, s, r]) - (Log[Mu^2/m22^2]*YE1[ff1, s]*Yv1[t, ff2]*
+     \[ScriptCapitalE]["(6)", "lvle"][ff1, ff2, p, r])/12 + 
    (Log[Mu^2/m22^2]*YE1[ff3, s]*Yv1[t, ff2]*\[ScriptCapitalE]["(6)", "lvle"][
       p, ff2, ff3, r])/6 - (Log[Mu^2/m22^2]*Yv1[t, ff4]*
      ConjugateTranspose[Yv1][ff1, p]*\[ScriptCapitalE]["(6)", "ve"][ff1, r, 
@@ -382,20 +383,23 @@
       t, s, r])/4 - (aev*Dim*g1^2*YER^2*Log[Mu^2/m22^2]*
      \[ScriptCapitalQ]["(6)", "le"][p, t, s, r])/4 + 
    (Dim^2*g1^2*YER^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, s, 
-      r])/8 + 2*aev*g1^2*YER*YLL*Log[Mu^2/m22^2]*
-    \[ScriptCapitalQ]["(6)", "le"][p, t, s, r] + 
-   (3*Dim*g1^2*YER*YLL*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, 
-      s, r])/2 - (aev*Dim*g1^2*YER*YLL*Log[Mu^2/m22^2]*
-     \[ScriptCapitalQ]["(6)", "le"][p, t, s, r])/2 - 
-   (Dim^2*g1^2*YER*YLL*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, 
-      s, r])/4 + g1^2*YLL^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, 
-     t, s, r] + aev*g1^2*YLL^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][
-     p, t, s, r] - (3*Dim*g1^2*YLL^2*Log[Mu^2/m22^2]*
-     \[ScriptCapitalQ]["(6)", "le"][p, t, s, r])/4 - 
-   (aev*Dim*g1^2*YLL^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, 
-      s, r])/4 + (Dim^2*g1^2*YLL^2*Log[Mu^2/m22^2]*
-     \[ScriptCapitalQ]["(6)", "le"][p, t, s, r])/8 - 
-   (Log[Mu^2/m22^2]*YE1[t, s]*ConjugateTranspose[YD1][ff3, ff4]*
+      r])/8 - 2*g1^2*YER*YLL*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][
+     p, t, s, r] + 2*aev*g1^2*YER*YLL*Log[Mu^2/m22^2]*
+    \[ScriptCapitalQ]["(6)", "le"][p, t, s, r] - 
+   4*cev*g1^2*YER*YLL*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, s, 
+     r] + (3*Dim*g1^2*YER*YLL*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][
+      p, t, s, r])/2 - (aev*Dim*g1^2*YER*YLL*Log[Mu^2/m22^2]*
+     \[ScriptCapitalQ]["(6)", "le"][p, t, s, r])/2 + 
+   cev*Dim*g1^2*YER*YLL*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, 
+     s, r] - (Dim^2*g1^2*YER*YLL*Log[Mu^2/m22^2]*
+     \[ScriptCapitalQ]["(6)", "le"][p, t, s, r])/4 + 
+   g1^2*YLL^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, s, r] + 
+   aev*g1^2*YLL^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, s, 
+     r] - (3*Dim*g1^2*YLL^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, 
+      t, s, r])/4 - (aev*Dim*g1^2*YLL^2*Log[Mu^2/m22^2]*
+     \[ScriptCapitalQ]["(6)", "le"][p, t, s, r])/4 + 
+   (Dim^2*g1^2*YLL^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "le"][p, t, s, 
+      r])/8 - (Log[Mu^2/m22^2]*YE1[t, s]*ConjugateTranspose[YD1][ff3, ff4]*
      \[ScriptCapitalQ]["(6)", "ledq"][p, r, ff3, ff4])/3 - 
    (Dim*Log[Mu^2/m22^2]*YE1[t, s]*ConjugateTranspose[YD1][ff3, ff4]*
      \[ScriptCapitalQ]["(6)", "ledq"][p, r, ff3, ff4])/12 + 
@@ -849,8 +853,9 @@
    (Log[Mu^2/m22^2]*YD1[t, ff4]*ConjugateTranspose[YD1][ff3, p]*
      \[ScriptCapitalE]["(6)", "dd", "(8)"][s, r, ff3, ff4])/2 + 
    (Dim*Log[Mu^2/m22^2]*YD1[t, ff4]*ConjugateTranspose[YD1][ff3, p]*
-     \[ScriptCapitalE]["(6)", "dd", "(8)"][s, r, ff3, ff4])/4 + 
-   (Log[Mu^2/m22^2]*YD1[ff1, s]*ConjugateTranspose[YD1][ff3, p]*
+     \[ScriptCapitalE]["(6)", "dd", "(8)"][s, r, ff3, ff4])/4 - 
+   (gs^2*Log[Mu^2/m22^2]*\[ScriptCapitalE]["(6)", "qd", "(1)"][p, t, s, r])/
+    8 + (Log[Mu^2/m22^2]*YD1[ff1, s]*ConjugateTranspose[YD1][ff3, p]*
      \[ScriptCapitalE]["(6)", "qddq", "(8)"][ff1, r, ff3, t])/2 + 
    aev*Log[Mu^2/m22^2]*YD1[ff1, s]*ConjugateTranspose[YD1][ff3, p]*
     \[ScriptCapitalE]["(6)", "qddq", "(8)"][ff1, r, ff3, t] - 
@@ -1004,10 +1009,13 @@
    (aev*Dim*g2^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, 
       s, r])/16 + (Dim^2*g2^2*Log[Mu^2/m22^2]*
      \[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, r])/32 + 
-   (8*gs^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, r])/
-    9 + (16*aev*gs^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "qd", "(1)"][p, 
-      t, s, r])/9 - (4*aev*Dim*gs^2*Log[Mu^2/m22^2]*
-     \[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, r])/9 + 
+   (7*gs^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, r])/
+    18 + (16*aev*gs^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "qd", "(1)"][
+      p, t, s, r])/9 - cev*gs^2*Log[Mu^2/m22^2]*
+    \[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, r] - 
+   (4*aev*Dim*gs^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "qd", "(1)"][p, 
+      t, s, r])/9 + (cev*Dim*gs^2*Log[Mu^2/m22^2]*
+     \[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, r])/4 + 
    (g1^2*YDR^2*Log[Mu^2/m22^2]*\[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, 
       r])/3 + (aev*g1^2*YDR^2*Log[Mu^2/m22^2]*
      \[ScriptCapitalQ]["(6)", "qd", "(1)"][p, t, s, r])/3 - 

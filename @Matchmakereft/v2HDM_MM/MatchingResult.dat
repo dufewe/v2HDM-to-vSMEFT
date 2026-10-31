@@ -8573,28 +8573,28 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Yv1[ff1, ff2] - 720*lambda6*lambda7bar*Yv1[ff1, ff2] - 
            720*invepsilonbar*lambda6*lambda7bar*Yv1[ff1, ff2] + 
            720*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2]*Yv1[ff1, ff2] + 
-           180*lambda6bar*YE1bar[ff2$6070, fl1]*YE2[ff1, fl1]*
-            Yv1[ff2$6070, ff2] + 120*invepsilonbar*lambda6bar*
-            YE1bar[ff2$6070, fl1]*YE2[ff1, fl1]*Yv1[ff2$6070, ff2] - 
-           120*lambda6bar*Log[mH22^2/\[Mu]^2]*YE1bar[ff2$6070, fl1]*
-            YE2[ff1, fl1]*Yv1[ff2$6070, ff2] - 120*lambda6*YE1[ff1, fl1]*
-            YE2bar[ff2$6070, fl1]*Yv1[ff2$6070, ff2] - 
-           60*lambda3*YE2[ff1, fl1]*YE2bar[ff2$6070, fl1]*Yv1[ff2$6070, 
+           180*lambda6bar*YE1bar[ff2$8463, fl1]*YE2[ff1, fl1]*
+            Yv1[ff2$8463, ff2] + 120*invepsilonbar*lambda6bar*
+            YE1bar[ff2$8463, fl1]*YE2[ff1, fl1]*Yv1[ff2$8463, ff2] - 
+           120*lambda6bar*Log[mH22^2/\[Mu]^2]*YE1bar[ff2$8463, fl1]*
+            YE2[ff1, fl1]*Yv1[ff2$8463, ff2] - 120*lambda6*YE1[ff1, fl1]*
+            YE2bar[ff2$8463, fl1]*Yv1[ff2$8463, ff2] - 
+           60*lambda3*YE2[ff1, fl1]*YE2bar[ff2$8463, fl1]*Yv1[ff2$8463, 
              ff2] - 60*YE1[fl1, fl2]*YE1bar[fl1, fl3]*YE2[ff1, fl3]*
-            YE2bar[ff2$6070, fl2]*Yv1[ff2$6070, ff2] - 240*lambda6bar*
+            YE2bar[ff2$8463, fl2]*Yv1[ff2$8463, ff2] - 240*lambda6bar*
             YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[fl1, ff2] - 
            240*invepsilonbar*lambda6bar*YE1bar[fl1, fl2]*YE2[ff1, fl2]*
             Yv1[fl1, ff2] + 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
             YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[fl1, ff2] + 
-           10*YE2[ff1$6071, fl1]*YE2bar[ff2$6071, fl1]*
-            Yv1[ff1, Xflavor1$6129]*Yv1[ff2$6071, ff2]*Yv1bar[ff1$6071, 
-             Xflavor1$6129] + 10*YE2[ff1$6071, fl1]*YE2bar[ff2$6071, fl1]*
-            Yv1[ff1, Xflavor1$6327]*Yv1[ff2$6071, ff2]*Yv1bar[ff1$6071, 
-             Xflavor1$6327] - 10*YE2[ff1, fl1]*YE2bar[ff2$6071, fl1]*
-            Yv1[ff2$6071, Xflavor1$6131]*Yv1[Xflavor1$6325, ff2]*
-            Yv1bar[Xflavor1$6325, Xflavor1$6131] + 10*YE2[ff1, fl1]*
-            YE2bar[ff2$6071, fl1]*Yv1[ff2$6071, Xflavor1$6131]*
-            Yv1[Xflavor1$6372, ff2]*Yv1bar[Xflavor1$6372, Xflavor1$6131] + 
+           10*YE2[ff1$8464, fl1]*YE2bar[ff2$8464, fl1]*
+            Yv1[ff1, Xflavor1$6127]*Yv1[ff2$8464, ff2]*Yv1bar[ff1$8464, 
+             Xflavor1$6127] + 10*YE2[ff1$8464, fl1]*YE2bar[ff2$8464, fl1]*
+            Yv1[ff1, Xflavor1$6325]*Yv1[ff2$8464, ff2]*Yv1bar[ff1$8464, 
+             Xflavor1$6325] - 10*YE2[ff1, fl1]*YE2bar[ff2$8464, fl1]*
+            Yv1[ff2$8464, Xflavor1$6129]*Yv1[Xflavor1$6323, ff2]*
+            Yv1bar[Xflavor1$6323, Xflavor1$6129] + 10*YE2[ff1, fl1]*
+            YE2bar[ff2$8464, fl1]*Yv1[ff2$8464, Xflavor1$6129]*
+            Yv1[Xflavor1$6370, ff2]*Yv1bar[Xflavor1$6370, Xflavor1$6129] + 
            720*lambda2*lambda6*Yv2[ff1, ff2] + 720*invepsilonbar*lambda2*
             lambda6*Yv2[ff1, ff2] - 720*lambda3*lambda6*Yv2[ff1, ff2] - 
            720*invepsilonbar*lambda3*lambda6*Yv2[ff1, ff2] - 
@@ -8613,10 +8613,10 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            720*lambda1*lambda7*Log[mH22^2/\[Mu]^2]*Yv2[ff1, ff2] - 
            240*lambda4*lambda7*Log[mH22^2/\[Mu]^2]*Yv2[ff1, ff2] - 
            480*lambda5*lambda7bar*Log[mH22^2/\[Mu]^2]*Yv2[ff1, ff2] + 
-           360*lambda6*Yv1[ff2$6070, ff2]*Yv1bar[ff2$6070, fl1]*
-            Yv2[ff1, fl1] + 240*invepsilonbar*lambda6*Yv1[ff2$6070, ff2]*
-            Yv1bar[ff2$6070, fl1]*Yv2[ff1, fl1] - 240*lambda6*
-            Log[mH22^2/\[Mu]^2]*Yv1[ff2$6070, ff2]*Yv1bar[ff2$6070, fl1]*
+           360*lambda6*Yv1[ff2$8463, ff2]*Yv1bar[ff2$8463, fl1]*
+            Yv2[ff1, fl1] + 240*invepsilonbar*lambda6*Yv1[ff2$8463, ff2]*
+            Yv1bar[ff2$8463, fl1]*Yv2[ff1, fl1] - 240*lambda6*
+            Log[mH22^2/\[Mu]^2]*Yv1[ff2$8463, ff2]*Yv1bar[ff2$8463, fl1]*
             Yv2[ff1, fl1] + 240*lambda6*Yv1[fl1, ff2]*Yv1bar[fl1, fl2]*
             Yv2[ff1, fl2] + 240*invepsilonbar*lambda6*Yv1[fl1, ff2]*
             Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 240*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -8626,19 +8626,19 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Yv2[fl1, ff2] + 240*lambda3*YE1bar[fl1, fl2]*YE2[ff1, fl2]*
             Yv2[fl1, ff2] - 120*lambda1*Log[mH22^2/\[Mu]^2]*YE1bar[fl1, fl2]*
             YE2[ff1, fl2]*Yv2[fl1, ff2] - 60*YE1bar[fl1, fl2]*
-            YE2[ff1$6072, fl2]*Yv1[ff1, Xflavor1$6327]*Yv1bar[ff1$6072, 
-             Xflavor1$6327]*Yv2[fl1, ff2] + 540*lambda6*Yv1[ff1, ff1$6070]*
-            Yv1bar[fl1, ff1$6070]*Yv2[fl1, ff2] + 360*invepsilonbar*lambda6*
-            Yv1[ff1, ff1$6070]*Yv1bar[fl1, ff1$6070]*Yv2[fl1, ff2] - 
-           360*lambda6*Log[mH22^2/\[Mu]^2]*Yv1[ff1, ff1$6070]*
-            Yv1bar[fl1, ff1$6070]*Yv2[fl1, ff2] - 240*lambda5*
+            YE2[ff1$8465, fl2]*Yv1[ff1, Xflavor1$6325]*Yv1bar[ff1$8465, 
+             Xflavor1$6325]*Yv2[fl1, ff2] + 540*lambda6*Yv1[ff1, ff1$8463]*
+            Yv1bar[fl1, ff1$8463]*Yv2[fl1, ff2] + 360*invepsilonbar*lambda6*
+            Yv1[ff1, ff1$8463]*Yv1bar[fl1, ff1$8463]*Yv2[fl1, ff2] - 
+           360*lambda6*Log[mH22^2/\[Mu]^2]*Yv1[ff1, ff1$8463]*
+            Yv1bar[fl1, ff1$8463]*Yv2[fl1, ff2] - 240*lambda5*
             Yv1bar[fl1, fl2]*Yv2[ff1, fl2]*Yv2[fl1, ff2] - 
-           60*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[Xflavor1$6254, ff2]*
-            Yv1bar[Xflavor1$6254, ff2$6072]*Yv2[fl1, ff2$6072] + 
-           60*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[Xflavor1$6325, ff2]*
-            Yv1bar[Xflavor1$6325, ff2$6072]*Yv2[fl1, ff2$6072] - 
-           60*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[Xflavor1$6372, ff2]*
-            Yv1bar[Xflavor1$6372, ff2$6072]*Yv2[fl1, ff2$6072] - 
+           60*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[Xflavor1$6252, ff2]*
+            Yv1bar[Xflavor1$6252, ff2$8465]*Yv2[fl1, ff2$8465] + 
+           60*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[Xflavor1$6323, ff2]*
+            Yv1bar[Xflavor1$6323, ff2$8465]*Yv2[fl1, ff2$8465] - 
+           60*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1[Xflavor1$6370, ff2]*
+            Yv1bar[Xflavor1$6370, ff2$8465]*Yv2[fl1, ff2$8465] - 
            240*lambda6*YE1[ff1, fl1]*YE1bar[fl2, fl1]*Yv2[fl2, ff2] - 
            240*invepsilonbar*lambda6*YE1[ff1, fl1]*YE1bar[fl2, fl1]*
             Yv2[fl2, ff2] + 240*lambda6*Log[mH22^2/\[Mu]^2]*YE1[ff1, fl1]*
@@ -8659,32 +8659,32 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            60*invepsilonbar*lambda6*YE2[ff1, fl1]*YE2bar[MIF1, fl1]*
             Yv2[MIF1, ff2] + 60*lambda6*Log[mH22^2/\[Mu]^2]*YE2[ff1, fl1]*
             YE2bar[MIF1, fl1]*Yv2[MIF1, ff2] - 240*lambda6bar*Yv1[ff1, fl1]*
-            Yv1[ff2$6070, ff2]*Yv2bar[ff2$6070, fl1] - 
-           60*lambda3*Yv1[ff2$6070, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$6070, 
-             fl1] - 60*lambda4*Yv1[ff2$6070, ff2]*Yv2[ff1, fl1]*
-            Yv2bar[ff2$6070, fl1] - 60*Yv1[ff2$6070, ff2]*Yv1[fl1, fl2]*
-            Yv1bar[fl1, fl3]*Yv2[ff1, fl3]*Yv2bar[ff2$6070, fl2] - 
-           10*Yv1[ff2$6071, Xflavor1$6131]*Yv1[Xflavor1$6325, ff2]*
-            Yv1bar[Xflavor1$6325, Xflavor1$6131]*Yv2[ff1, fl1]*
-            Yv2bar[ff2$6071, fl1] + 10*Yv1[ff2$6071, Xflavor1$6131]*
-            Yv1[Xflavor1$6372, ff2]*Yv1bar[Xflavor1$6372, Xflavor1$6131]*
-            Yv2[ff1, fl1]*Yv2bar[ff2$6071, fl1] + 10*Yv1[ff1, Xflavor1$6129]*
-            Yv1[ff2$6071, ff2]*Yv1bar[ff1$6071, Xflavor1$6129]*
-            Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, fl1] + 
-           10*Yv1[ff1, Xflavor1$6327]*Yv1[ff2$6071, ff2]*Yv1bar[ff1$6071, 
-             Xflavor1$6327]*Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, fl1] - 
-           360*lambda6bar*Yv1[ff1, ff1$6070]*Yv1[fl1, ff2]*
-            Yv2bar[fl1, ff1$6070] - 120*lambda3*Yv1[ff1, ff1$6070]*
-            Yv2[fl1, ff2]*Yv2bar[fl1, ff1$6070] - 60*lambda4*
-            Yv1[ff1, ff1$6070]*Yv2[fl1, ff2]*Yv2bar[fl1, ff1$6070] - 
-           60*YE1[fl1, fl2]*YE1bar[fl3, fl2]*Yv1[ff1, ff1$6070]*Yv2[fl3, ff2]*
-            Yv2bar[fl1, ff1$6070] - 60*Yv1[ff1, ff1$6070]*Yv1[fl1, fl2]*
-            Yv1bar[fl3, fl2]*Yv2[fl3, ff2]*Yv2bar[fl1, ff1$6070] + 
-           20*Yv1[ff1, ff1$6071]*Yv1[Xflavor1$6145, ff2]*
-            Yv1bar[Xflavor1$6145, ff2$6071]*Yv2[fl1, ff2$6071]*
-            Yv2bar[fl1, ff1$6071] + 20*Yv1[ff1, ff1$6071]*Yv1[Xflavor1$6372, 
-             ff2]*Yv1bar[Xflavor1$6372, ff2$6071]*Yv2[fl1, ff2$6071]*
-            Yv2bar[fl1, ff1$6071] - 60*lambda6*Yv2[ff1, MIF1]*Yv2[fl1, ff2]*
+            Yv1[ff2$8463, ff2]*Yv2bar[ff2$8463, fl1] - 
+           60*lambda3*Yv1[ff2$8463, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$8463, 
+             fl1] - 60*lambda4*Yv1[ff2$8463, ff2]*Yv2[ff1, fl1]*
+            Yv2bar[ff2$8463, fl1] - 60*Yv1[ff2$8463, ff2]*Yv1[fl1, fl2]*
+            Yv1bar[fl1, fl3]*Yv2[ff1, fl3]*Yv2bar[ff2$8463, fl2] - 
+           10*Yv1[ff2$8464, Xflavor1$6129]*Yv1[Xflavor1$6323, ff2]*
+            Yv1bar[Xflavor1$6323, Xflavor1$6129]*Yv2[ff1, fl1]*
+            Yv2bar[ff2$8464, fl1] + 10*Yv1[ff2$8464, Xflavor1$6129]*
+            Yv1[Xflavor1$6370, ff2]*Yv1bar[Xflavor1$6370, Xflavor1$6129]*
+            Yv2[ff1, fl1]*Yv2bar[ff2$8464, fl1] + 10*Yv1[ff1, Xflavor1$6127]*
+            Yv1[ff2$8464, ff2]*Yv1bar[ff1$8464, Xflavor1$6127]*
+            Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, fl1] + 
+           10*Yv1[ff1, Xflavor1$6325]*Yv1[ff2$8464, ff2]*Yv1bar[ff1$8464, 
+             Xflavor1$6325]*Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, fl1] - 
+           360*lambda6bar*Yv1[ff1, ff1$8463]*Yv1[fl1, ff2]*
+            Yv2bar[fl1, ff1$8463] - 120*lambda3*Yv1[ff1, ff1$8463]*
+            Yv2[fl1, ff2]*Yv2bar[fl1, ff1$8463] - 60*lambda4*
+            Yv1[ff1, ff1$8463]*Yv2[fl1, ff2]*Yv2bar[fl1, ff1$8463] - 
+           60*YE1[fl1, fl2]*YE1bar[fl3, fl2]*Yv1[ff1, ff1$8463]*Yv2[fl3, ff2]*
+            Yv2bar[fl1, ff1$8463] - 60*Yv1[ff1, ff1$8463]*Yv1[fl1, fl2]*
+            Yv1bar[fl3, fl2]*Yv2[fl3, ff2]*Yv2bar[fl1, ff1$8463] + 
+           20*Yv1[ff1, ff1$8464]*Yv1[Xflavor1$6143, ff2]*
+            Yv1bar[Xflavor1$6143, ff2$8464]*Yv2[fl1, ff2$8464]*
+            Yv2bar[fl1, ff1$8464] + 20*Yv1[ff1, ff1$8464]*Yv1[Xflavor1$6370, 
+             ff2]*Yv1bar[Xflavor1$6370, ff2$8464]*Yv2[fl1, ff2$8464]*
+            Yv2bar[fl1, ff1$8464] - 60*lambda6*Yv2[ff1, MIF1]*Yv2[fl1, ff2]*
             Yv2bar[fl1, MIF1] - 120*invepsilonbar*lambda6*Yv2[ff1, MIF1]*
             Yv2[fl1, ff2]*Yv2bar[fl1, MIF1] + 120*lambda6*Log[mH22^2/\[Mu]^2]*
             Yv2[ff1, MIF1]*Yv2[fl1, ff2]*Yv2bar[fl1, MIF1] - 
@@ -8717,48 +8717,48 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Log[mH22^2/\[Mu]^2]*YE2[ff1, ff2] + 720*lambda1*lambda7bar*
             Log[mH22^2/\[Mu]^2]*YE2[ff1, ff2] - 240*lambda4*lambda7bar*
             Log[mH22^2/\[Mu]^2]*YE2[ff1, ff2] + 360*lambda6bar*
-            YE1[ff2$6070, ff2]*YE1bar[ff2$6070, fl1]*YE2[ff1, fl1] + 
-           240*invepsilonbar*lambda6bar*YE1[ff2$6070, ff2]*YE1bar[ff2$6070, 
+            YE1[ff2$8463, ff2]*YE1bar[ff2$8463, fl1]*YE2[ff1, fl1] + 
+           240*invepsilonbar*lambda6bar*YE1[ff2$8463, ff2]*YE1bar[ff2$8463, 
              fl1]*YE2[ff1, fl1] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
-            YE1[ff2$6070, ff2]*YE1bar[ff2$6070, fl1]*YE2[ff1, fl1] + 
+            YE1[ff2$8463, ff2]*YE1bar[ff2$8463, fl1]*YE2[ff1, fl1] + 
            240*lambda6bar*YE1[fl1, ff2]*YE1bar[fl1, fl2]*YE2[ff1, fl2] + 
            240*invepsilonbar*lambda6bar*YE1[fl1, ff2]*YE1bar[fl1, fl2]*
             YE2[ff1, fl2] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*YE1[fl1, ff2]*
             YE1bar[fl1, fl2]*YE2[ff1, fl2] + 540*lambda6bar*
-            YE1[ff1, ff1$6070]*YE1bar[fl1, ff1$6070]*YE2[fl1, ff2] + 
-           360*invepsilonbar*lambda6bar*YE1[ff1, ff1$6070]*
-            YE1bar[fl1, ff1$6070]*YE2[fl1, ff2] - 360*lambda6bar*
-            Log[mH22^2/\[Mu]^2]*YE1[ff1, ff1$6070]*YE1bar[fl1, ff1$6070]*
+            YE1[ff1, ff1$8463]*YE1bar[fl1, ff1$8463]*YE2[fl1, ff2] + 
+           360*invepsilonbar*lambda6bar*YE1[ff1, ff1$8463]*
+            YE1bar[fl1, ff1$8463]*YE2[fl1, ff2] - 360*lambda6bar*
+            Log[mH22^2/\[Mu]^2]*YE1[ff1, ff1$8463]*YE1bar[fl1, ff1$8463]*
             YE2[fl1, ff2] - 240*lambda5bar*YE1bar[fl1, fl2]*YE2[ff1, fl2]*
             YE2[fl1, ff2] + 240*lambda6bar*YE1[ff1, fl1]*YE1bar[fl2, fl1]*
             YE2[fl2, ff2] + 240*invepsilonbar*lambda6bar*YE1[ff1, fl1]*
             YE1bar[fl2, fl1]*YE2[fl2, ff2] - 240*lambda6bar*
             Log[mH22^2/\[Mu]^2]*YE1[ff1, fl1]*YE1bar[fl2, fl1]*
-            YE2[fl2, ff2] - 240*lambda6*YE1[ff1, fl1]*YE1[ff2$6070, ff2]*
-            YE2bar[ff2$6070, fl1] - 60*lambda3*YE1[ff2$6070, ff2]*
-            YE2[ff1, fl1]*YE2bar[ff2$6070, fl1] - 60*lambda4*
-            YE1[ff2$6070, ff2]*YE2[ff1, fl1]*YE2bar[ff2$6070, fl1] - 
-           60*YE1[ff2$6070, ff2]*YE1[fl1, fl2]*YE1bar[fl1, fl3]*YE2[ff1, fl3]*
-            YE2bar[ff2$6070, fl2] - 10*YE1[ff2$6071, Xflavor1$6131]*
-            YE1[Xflavor1$6347, ff2]*YE1bar[Xflavor1$6347, Xflavor1$6131]*
-            YE2[ff1, fl1]*YE2bar[ff2$6071, fl1] + 
-           10*YE1[ff2$6071, Xflavor1$6131]*YE1[Xflavor1$6375, ff2]*
-            YE1bar[Xflavor1$6375, Xflavor1$6131]*YE2[ff1, fl1]*
-            YE2bar[ff2$6071, fl1] + 10*YE1[ff1, Xflavor1$6129]*
-            YE1[ff2$6071, ff2]*YE1bar[ff1$6071, Xflavor1$6129]*
-            YE2[ff1$6071, fl1]*YE2bar[ff2$6071, fl1] + 
-           10*YE1[ff1, Xflavor1$6348]*YE1[ff2$6071, ff2]*YE1bar[ff1$6071, 
-             Xflavor1$6348]*YE2[ff1$6071, fl1]*YE2bar[ff2$6071, fl1] - 
-           360*lambda6*YE1[ff1, ff1$6070]*YE1[fl1, ff2]*YE2bar[fl1, 
-             ff1$6070] - 120*lambda3*YE1[ff1, ff1$6070]*YE2[fl1, ff2]*
-            YE2bar[fl1, ff1$6070] - 60*lambda4*YE1[ff1, ff1$6070]*
-            YE2[fl1, ff2]*YE2bar[fl1, ff1$6070] - 60*YE1[ff1, ff1$6070]*
+            YE2[fl2, ff2] - 240*lambda6*YE1[ff1, fl1]*YE1[ff2$8463, ff2]*
+            YE2bar[ff2$8463, fl1] - 60*lambda3*YE1[ff2$8463, ff2]*
+            YE2[ff1, fl1]*YE2bar[ff2$8463, fl1] - 60*lambda4*
+            YE1[ff2$8463, ff2]*YE2[ff1, fl1]*YE2bar[ff2$8463, fl1] - 
+           60*YE1[ff2$8463, ff2]*YE1[fl1, fl2]*YE1bar[fl1, fl3]*YE2[ff1, fl3]*
+            YE2bar[ff2$8463, fl2] - 10*YE1[ff2$8464, Xflavor1$6129]*
+            YE1[Xflavor1$6345, ff2]*YE1bar[Xflavor1$6345, Xflavor1$6129]*
+            YE2[ff1, fl1]*YE2bar[ff2$8464, fl1] + 
+           10*YE1[ff2$8464, Xflavor1$6129]*YE1[Xflavor1$6373, ff2]*
+            YE1bar[Xflavor1$6373, Xflavor1$6129]*YE2[ff1, fl1]*
+            YE2bar[ff2$8464, fl1] + 10*YE1[ff1, Xflavor1$6127]*
+            YE1[ff2$8464, ff2]*YE1bar[ff1$8464, Xflavor1$6127]*
+            YE2[ff1$8464, fl1]*YE2bar[ff2$8464, fl1] + 
+           10*YE1[ff1, Xflavor1$6346]*YE1[ff2$8464, ff2]*YE1bar[ff1$8464, 
+             Xflavor1$6346]*YE2[ff1$8464, fl1]*YE2bar[ff2$8464, fl1] - 
+           360*lambda6*YE1[ff1, ff1$8463]*YE1[fl1, ff2]*YE2bar[fl1, 
+             ff1$8463] - 120*lambda3*YE1[ff1, ff1$8463]*YE2[fl1, ff2]*
+            YE2bar[fl1, ff1$8463] - 60*lambda4*YE1[ff1, ff1$8463]*
+            YE2[fl1, ff2]*YE2bar[fl1, ff1$8463] - 60*YE1[ff1, ff1$8463]*
             YE1[fl1, fl2]*YE1bar[fl3, fl2]*YE2[fl3, ff2]*YE2bar[fl1, 
-             ff1$6070] + 20*YE1[ff1, ff1$6071]*YE1[Xflavor1$6158, ff2]*
-            YE1bar[Xflavor1$6158, ff2$6071]*YE2[fl1, ff2$6071]*
-            YE2bar[fl1, ff1$6071] + 20*YE1[ff1, ff1$6071]*YE1[Xflavor1$6375, 
-             ff2]*YE1bar[Xflavor1$6375, ff2$6071]*YE2[fl1, ff2$6071]*
-            YE2bar[fl1, ff1$6071] - 60*lambda6bar*YE2[ff1, MIF1]*
+             ff1$8463] + 20*YE1[ff1, ff1$8464]*YE1[Xflavor1$6156, ff2]*
+            YE1bar[Xflavor1$6156, ff2$8464]*YE2[fl1, ff2$8464]*
+            YE2bar[fl1, ff1$8464] + 20*YE1[ff1, ff1$8464]*YE1[Xflavor1$6373, 
+             ff2]*YE1bar[Xflavor1$6373, ff2$8464]*YE2[fl1, ff2$8464]*
+            YE2bar[fl1, ff1$8464] - 60*lambda6bar*YE2[ff1, MIF1]*
             YE2[fl1, ff2]*YE2bar[fl1, MIF1] - 120*invepsilonbar*lambda6bar*
             YE2[ff1, MIF1]*YE2[fl1, ff2]*YE2bar[fl1, MIF1] + 
            120*lambda6bar*Log[mH22^2/\[Mu]^2]*YE2[ff1, MIF1]*YE2[fl1, ff2]*
@@ -8770,12 +8770,12 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Yv1bar[fl1, fl2] - 240*invepsilonbar*lambda6bar*YE2[fl1, ff2]*
             Yv1[ff1, fl2]*Yv1bar[fl1, fl2] + 240*lambda6bar*
             Log[mH22^2/\[Mu]^2]*YE2[fl1, ff2]*Yv1[ff1, fl2]*
-            Yv1bar[fl1, fl2] - 60*YE1[ff1, ff1$6070]*YE2[fl1, ff2]*
-            YE2bar[fl2, ff1$6070]*Yv1[fl2, fl3]*Yv1bar[fl1, fl3] + 
-           180*lambda6*YE1[ff2$6070, ff2]*Yv1bar[ff2$6070, fl1]*
-            Yv2[ff1, fl1] + 120*invepsilonbar*lambda6*YE1[ff2$6070, ff2]*
-            Yv1bar[ff2$6070, fl1]*Yv2[ff1, fl1] - 120*lambda6*
-            Log[mH22^2/\[Mu]^2]*YE1[ff2$6070, ff2]*Yv1bar[ff2$6070, fl1]*
+            Yv1bar[fl1, fl2] - 60*YE1[ff1, ff1$8463]*YE2[fl1, ff2]*
+            YE2bar[fl2, ff1$8463]*Yv1[fl2, fl3]*Yv1bar[fl1, fl3] + 
+           180*lambda6*YE1[ff2$8463, ff2]*Yv1bar[ff2$8463, fl1]*
+            Yv2[ff1, fl1] + 120*invepsilonbar*lambda6*YE1[ff2$8463, ff2]*
+            Yv1bar[ff2$8463, fl1]*Yv2[ff1, fl1] - 120*lambda6*
+            Log[mH22^2/\[Mu]^2]*YE1[ff2$8463, ff2]*Yv1bar[ff2$8463, fl1]*
             Yv2[ff1, fl1] - 240*lambda6*YE1[fl1, ff2]*Yv1bar[fl1, fl2]*
             Yv2[ff1, fl2] - 240*invepsilonbar*lambda6*YE1[fl1, ff2]*
             Yv1bar[fl1, fl2]*Yv2[ff1, fl2] + 240*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -8784,33 +8784,33 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            120*invepsilonbar*lambda1*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
             Yv2[ff1, fl2] + 240*lambda3*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
             Yv2[ff1, fl2] - 120*lambda1*Log[mH22^2/\[Mu]^2]*YE2[fl1, ff2]*
-            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 60*YE1[Xflavor1$6268, ff2]*
-            YE1bar[Xflavor1$6268, ff2$6072]*YE2[fl1, ff2$6072]*
-            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] + 60*YE1[Xflavor1$6347, ff2]*
-            YE1bar[Xflavor1$6347, ff2$6072]*YE2[fl1, ff2$6072]*
-            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 60*YE1[Xflavor1$6375, ff2]*
-            YE1bar[Xflavor1$6375, ff2$6072]*YE2[fl1, ff2$6072]*
+            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 60*YE1[Xflavor1$6266, ff2]*
+            YE1bar[Xflavor1$6266, ff2$8465]*YE2[fl1, ff2$8465]*
+            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] + 60*YE1[Xflavor1$6345, ff2]*
+            YE1bar[Xflavor1$6345, ff2$8465]*YE2[fl1, ff2$8465]*
+            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 60*YE1[Xflavor1$6373, ff2]*
+            YE1bar[Xflavor1$6373, ff2$8465]*YE2[fl1, ff2$8465]*
             Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 240*YE2[fl1, ff2]*Yv1[fl2, fl3]*
             Yv1bar[fl1, fl3]*Yv1bar[fl2, fl4]*Yv2[ff1, fl4] - 
            240*invepsilonbar*YE2[fl1, ff2]*Yv1[fl2, fl3]*Yv1bar[fl1, fl3]*
             Yv1bar[fl2, fl4]*Yv2[ff1, fl4] + 240*Log[mH22^2/\[Mu]^2]*
             YE2[fl1, ff2]*Yv1[fl2, fl3]*Yv1bar[fl1, fl3]*Yv1bar[fl2, fl4]*
-            Yv2[ff1, fl4] - 60*YE1[ff1, Xflavor1$6348]*YE1bar[ff1$6072, 
-             Xflavor1$6348]*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
-            Yv2[ff1$6072, fl2] - 120*lambda6bar*YE1[ff2$6070, ff2]*
-            Yv1[ff1, fl1]*Yv2bar[ff2$6070, fl1] - 60*lambda3*
-            YE1[ff2$6070, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$6070, fl1] - 
-           60*YE1[ff2$6070, ff2]*Yv1[fl1, fl2]*Yv1bar[fl1, fl3]*Yv2[ff1, fl3]*
-            Yv2bar[ff2$6070, fl2] - 10*YE1[ff2$6071, Xflavor1$6131]*
-            YE1[Xflavor1$6347, ff2]*YE1bar[Xflavor1$6347, Xflavor1$6131]*
-            Yv2[ff1, fl1]*Yv2bar[ff2$6071, fl1] + 
-           10*YE1[ff2$6071, Xflavor1$6131]*YE1[Xflavor1$6375, ff2]*
-            YE1bar[Xflavor1$6375, Xflavor1$6131]*Yv2[ff1, fl1]*
-            Yv2bar[ff2$6071, fl1] + 10*YE1[ff1, Xflavor1$6129]*
-            YE1[ff2$6071, ff2]*YE1bar[ff1$6071, Xflavor1$6129]*
-            Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, fl1] + 
-           10*YE1[ff1, Xflavor1$6348]*YE1[ff2$6071, ff2]*YE1bar[ff1$6071, 
-             Xflavor1$6348]*Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, fl1] + 
+            Yv2[ff1, fl4] - 60*YE1[ff1, Xflavor1$6346]*YE1bar[ff1$8465, 
+             Xflavor1$6346]*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
+            Yv2[ff1$8465, fl2] - 120*lambda6bar*YE1[ff2$8463, ff2]*
+            Yv1[ff1, fl1]*Yv2bar[ff2$8463, fl1] - 60*lambda3*
+            YE1[ff2$8463, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$8463, fl1] - 
+           60*YE1[ff2$8463, ff2]*Yv1[fl1, fl2]*Yv1bar[fl1, fl3]*Yv2[ff1, fl3]*
+            Yv2bar[ff2$8463, fl2] - 10*YE1[ff2$8464, Xflavor1$6129]*
+            YE1[Xflavor1$6345, ff2]*YE1bar[Xflavor1$6345, Xflavor1$6129]*
+            Yv2[ff1, fl1]*Yv2bar[ff2$8464, fl1] + 
+           10*YE1[ff2$8464, Xflavor1$6129]*YE1[Xflavor1$6373, ff2]*
+            YE1bar[Xflavor1$6373, Xflavor1$6129]*Yv2[ff1, fl1]*
+            Yv2bar[ff2$8464, fl1] + 10*YE1[ff1, Xflavor1$6127]*
+            YE1[ff2$8464, ff2]*YE1bar[ff1$8464, Xflavor1$6127]*
+            Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, fl1] + 
+           10*YE1[ff1, Xflavor1$6346]*YE1[ff2$8464, ff2]*YE1bar[ff1$8464, 
+             Xflavor1$6346]*Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, fl1] + 
            240*lambda6bar*YE2[fl1, ff2]*Yv2[ff1, fl2]*Yv2bar[fl1, fl2] + 
            240*invepsilonbar*lambda6bar*YE2[fl1, ff2]*Yv2[ff1, fl2]*
             Yv2bar[fl1, fl2] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
@@ -8826,28 +8826,28 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YU1[ff1, ff2] - 720*lambda6*lambda7bar*YU1[ff1, ff2] - 
            720*invepsilonbar*lambda6*lambda7bar*YU1[ff1, ff2] + 
            720*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2]*YU1[ff1, ff2] + 
-           180*lambda6bar*YD1bar[ff2$6070, fl1]*YD2[ff1, fl1]*
-            YU1[ff2$6070, ff2] + 120*invepsilonbar*lambda6bar*
-            YD1bar[ff2$6070, fl1]*YD2[ff1, fl1]*YU1[ff2$6070, ff2] - 
-           120*lambda6bar*Log[mH22^2/\[Mu]^2]*YD1bar[ff2$6070, fl1]*
-            YD2[ff1, fl1]*YU1[ff2$6070, ff2] - 120*lambda6*YD1[ff1, fl1]*
-            YD2bar[ff2$6070, fl1]*YU1[ff2$6070, ff2] - 
-           60*lambda3*YD2[ff1, fl1]*YD2bar[ff2$6070, fl1]*YU1[ff2$6070, 
+           180*lambda6bar*YD1bar[ff2$8463, fl1]*YD2[ff1, fl1]*
+            YU1[ff2$8463, ff2] + 120*invepsilonbar*lambda6bar*
+            YD1bar[ff2$8463, fl1]*YD2[ff1, fl1]*YU1[ff2$8463, ff2] - 
+           120*lambda6bar*Log[mH22^2/\[Mu]^2]*YD1bar[ff2$8463, fl1]*
+            YD2[ff1, fl1]*YU1[ff2$8463, ff2] - 120*lambda6*YD1[ff1, fl1]*
+            YD2bar[ff2$8463, fl1]*YU1[ff2$8463, ff2] - 
+           60*lambda3*YD2[ff1, fl1]*YD2bar[ff2$8463, fl1]*YU1[ff2$8463, 
              ff2] - 60*YD1[fl1, fl2]*YD1bar[fl1, fl3]*YD2[ff1, fl3]*
-            YD2bar[ff2$6070, fl2]*YU1[ff2$6070, ff2] - 240*lambda6bar*
+            YD2bar[ff2$8463, fl2]*YU1[ff2$8463, ff2] - 240*lambda6bar*
             YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[fl1, ff2] - 
            240*invepsilonbar*lambda6bar*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
             YU1[fl1, ff2] + 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
             YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[fl1, ff2] + 
-           10*YD2[ff1$6071, fl1]*YD2bar[ff2$6071, fl1]*
-            YU1[ff1, Xflavor1$6089]*YU1[ff2$6071, ff2]*YU1bar[ff1$6071, 
-             Xflavor1$6089] + 10*YD2[ff1$6071, fl1]*YD2bar[ff2$6071, fl1]*
-            YU1[ff1, Xflavor1$6284]*YU1[ff2$6071, ff2]*YU1bar[ff1$6071, 
-             Xflavor1$6284] - 10*YD2[ff1, fl1]*YD2bar[ff2$6071, fl1]*
-            YU1[ff2$6071, Xflavor1$6091]*YU1[Xflavor1$6282, ff2]*
-            YU1bar[Xflavor1$6282, Xflavor1$6091] + 10*YD2[ff1, fl1]*
-            YD2bar[ff2$6071, fl1]*YU1[ff2$6071, Xflavor1$6091]*
-            YU1[Xflavor1$6366, ff2]*YU1bar[Xflavor1$6366, Xflavor1$6091] + 
+           10*YD2[ff1$8464, fl1]*YD2bar[ff2$8464, fl1]*
+            YU1[ff1, Xflavor1$6087]*YU1[ff2$8464, ff2]*YU1bar[ff1$8464, 
+             Xflavor1$6087] + 10*YD2[ff1$8464, fl1]*YD2bar[ff2$8464, fl1]*
+            YU1[ff1, Xflavor1$6282]*YU1[ff2$8464, ff2]*YU1bar[ff1$8464, 
+             Xflavor1$6282] - 10*YD2[ff1, fl1]*YD2bar[ff2$8464, fl1]*
+            YU1[ff2$8464, Xflavor1$6089]*YU1[Xflavor1$6280, ff2]*
+            YU1bar[Xflavor1$6280, Xflavor1$6089] + 10*YD2[ff1, fl1]*
+            YD2bar[ff2$8464, fl1]*YU1[ff2$8464, Xflavor1$6089]*
+            YU1[Xflavor1$6364, ff2]*YU1bar[Xflavor1$6364, Xflavor1$6089] + 
            720*lambda2*lambda6*YU2[ff1, ff2] + 720*invepsilonbar*lambda2*
             lambda6*YU2[ff1, ff2] - 720*lambda3*lambda6*YU2[ff1, ff2] - 
            720*invepsilonbar*lambda3*lambda6*YU2[ff1, ff2] - 
@@ -8866,10 +8866,10 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            720*lambda1*lambda7*Log[mH22^2/\[Mu]^2]*YU2[ff1, ff2] - 
            240*lambda4*lambda7*Log[mH22^2/\[Mu]^2]*YU2[ff1, ff2] - 
            480*lambda5*lambda7bar*Log[mH22^2/\[Mu]^2]*YU2[ff1, ff2] + 
-           360*lambda6*YU1[ff2$6070, ff2]*YU1bar[ff2$6070, fl1]*
-            YU2[ff1, fl1] + 240*invepsilonbar*lambda6*YU1[ff2$6070, ff2]*
-            YU1bar[ff2$6070, fl1]*YU2[ff1, fl1] - 240*lambda6*
-            Log[mH22^2/\[Mu]^2]*YU1[ff2$6070, ff2]*YU1bar[ff2$6070, fl1]*
+           360*lambda6*YU1[ff2$8463, ff2]*YU1bar[ff2$8463, fl1]*
+            YU2[ff1, fl1] + 240*invepsilonbar*lambda6*YU1[ff2$8463, ff2]*
+            YU1bar[ff2$8463, fl1]*YU2[ff1, fl1] - 240*lambda6*
+            Log[mH22^2/\[Mu]^2]*YU1[ff2$8463, ff2]*YU1bar[ff2$8463, fl1]*
             YU2[ff1, fl1] + 240*lambda6*YU1[fl1, ff2]*YU1bar[fl1, fl2]*
             YU2[ff1, fl2] + 240*invepsilonbar*lambda6*YU1[fl1, ff2]*
             YU1bar[fl1, fl2]*YU2[ff1, fl2] - 240*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -8879,19 +8879,19 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YU2[fl1, ff2] + 240*lambda3*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
             YU2[fl1, ff2] - 120*lambda1*Log[mH22^2/\[Mu]^2]*YD1bar[fl1, fl2]*
             YD2[ff1, fl2]*YU2[fl1, ff2] - 60*YD1bar[fl1, fl2]*
-            YD2[ff1$6072, fl2]*YU1[ff1, Xflavor1$6284]*YU1bar[ff1$6072, 
-             Xflavor1$6284]*YU2[fl1, ff2] + 540*lambda6*YU1[ff1, ff1$6070]*
-            YU1bar[fl1, ff1$6070]*YU2[fl1, ff2] + 360*invepsilonbar*lambda6*
-            YU1[ff1, ff1$6070]*YU1bar[fl1, ff1$6070]*YU2[fl1, ff2] - 
-           360*lambda6*Log[mH22^2/\[Mu]^2]*YU1[ff1, ff1$6070]*
-            YU1bar[fl1, ff1$6070]*YU2[fl1, ff2] - 240*lambda5*
+            YD2[ff1$8465, fl2]*YU1[ff1, Xflavor1$6282]*YU1bar[ff1$8465, 
+             Xflavor1$6282]*YU2[fl1, ff2] + 540*lambda6*YU1[ff1, ff1$8463]*
+            YU1bar[fl1, ff1$8463]*YU2[fl1, ff2] + 360*invepsilonbar*lambda6*
+            YU1[ff1, ff1$8463]*YU1bar[fl1, ff1$8463]*YU2[fl1, ff2] - 
+           360*lambda6*Log[mH22^2/\[Mu]^2]*YU1[ff1, ff1$8463]*
+            YU1bar[fl1, ff1$8463]*YU2[fl1, ff2] - 240*lambda5*
             YU1bar[fl1, fl2]*YU2[ff1, fl2]*YU2[fl1, ff2] - 
-           60*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[Xflavor1$6228, ff2]*
-            YU1bar[Xflavor1$6228, ff2$6072]*YU2[fl1, ff2$6072] + 
-           60*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[Xflavor1$6282, ff2]*
-            YU1bar[Xflavor1$6282, ff2$6072]*YU2[fl1, ff2$6072] - 
-           60*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[Xflavor1$6366, ff2]*
-            YU1bar[Xflavor1$6366, ff2$6072]*YU2[fl1, ff2$6072] - 
+           60*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[Xflavor1$6226, ff2]*
+            YU1bar[Xflavor1$6226, ff2$8465]*YU2[fl1, ff2$8465] + 
+           60*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[Xflavor1$6280, ff2]*
+            YU1bar[Xflavor1$6280, ff2$8465]*YU2[fl1, ff2$8465] - 
+           60*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1[Xflavor1$6364, ff2]*
+            YU1bar[Xflavor1$6364, ff2$8465]*YU2[fl1, ff2$8465] - 
            240*lambda6*YD1[ff1, fl1]*YD1bar[fl2, fl1]*YU2[fl2, ff2] - 
            240*invepsilonbar*lambda6*YD1[ff1, fl1]*YD1bar[fl2, fl1]*
             YU2[fl2, ff2] + 240*lambda6*Log[mH22^2/\[Mu]^2]*YD1[ff1, fl1]*
@@ -8912,32 +8912,32 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            60*invepsilonbar*lambda6*YD2[ff1, fl1]*YD2bar[MIF1, fl1]*
             YU2[MIF1, ff2] + 60*lambda6*Log[mH22^2/\[Mu]^2]*YD2[ff1, fl1]*
             YD2bar[MIF1, fl1]*YU2[MIF1, ff2] - 240*lambda6bar*YU1[ff1, fl1]*
-            YU1[ff2$6070, ff2]*YU2bar[ff2$6070, fl1] - 
-           60*lambda3*YU1[ff2$6070, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6070, 
-             fl1] - 60*lambda4*YU1[ff2$6070, ff2]*YU2[ff1, fl1]*
-            YU2bar[ff2$6070, fl1] - 60*YU1[ff2$6070, ff2]*YU1[fl1, fl2]*
-            YU1bar[fl1, fl3]*YU2[ff1, fl3]*YU2bar[ff2$6070, fl2] - 
-           10*YU1[ff2$6071, Xflavor1$6091]*YU1[Xflavor1$6282, ff2]*
-            YU1bar[Xflavor1$6282, Xflavor1$6091]*YU2[ff1, fl1]*
-            YU2bar[ff2$6071, fl1] + 10*YU1[ff2$6071, Xflavor1$6091]*
-            YU1[Xflavor1$6366, ff2]*YU1bar[Xflavor1$6366, Xflavor1$6091]*
-            YU2[ff1, fl1]*YU2bar[ff2$6071, fl1] + 10*YU1[ff1, Xflavor1$6089]*
-            YU1[ff2$6071, ff2]*YU1bar[ff1$6071, Xflavor1$6089]*
-            YU2[ff1$6071, fl1]*YU2bar[ff2$6071, fl1] + 
-           10*YU1[ff1, Xflavor1$6284]*YU1[ff2$6071, ff2]*YU1bar[ff1$6071, 
-             Xflavor1$6284]*YU2[ff1$6071, fl1]*YU2bar[ff2$6071, fl1] - 
-           360*lambda6bar*YU1[ff1, ff1$6070]*YU1[fl1, ff2]*
-            YU2bar[fl1, ff1$6070] - 120*lambda3*YU1[ff1, ff1$6070]*
-            YU2[fl1, ff2]*YU2bar[fl1, ff1$6070] - 60*lambda4*
-            YU1[ff1, ff1$6070]*YU2[fl1, ff2]*YU2bar[fl1, ff1$6070] - 
-           60*YD1[fl1, fl2]*YD1bar[fl3, fl2]*YU1[ff1, ff1$6070]*YU2[fl3, ff2]*
-            YU2bar[fl1, ff1$6070] - 60*YU1[ff1, ff1$6070]*YU1[fl1, fl2]*
-            YU1bar[fl3, fl2]*YU2[fl3, ff2]*YU2bar[fl1, ff1$6070] + 
-           20*YU1[ff1, ff1$6071]*YU1[Xflavor1$6105, ff2]*
-            YU1bar[Xflavor1$6105, ff2$6071]*YU2[fl1, ff2$6071]*
-            YU2bar[fl1, ff1$6071] + 20*YU1[ff1, ff1$6071]*YU1[Xflavor1$6366, 
-             ff2]*YU1bar[Xflavor1$6366, ff2$6071]*YU2[fl1, ff2$6071]*
-            YU2bar[fl1, ff1$6071] - 60*lambda6*YU2[ff1, MIF1]*YU2[fl1, ff2]*
+            YU1[ff2$8463, ff2]*YU2bar[ff2$8463, fl1] - 
+           60*lambda3*YU1[ff2$8463, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8463, 
+             fl1] - 60*lambda4*YU1[ff2$8463, ff2]*YU2[ff1, fl1]*
+            YU2bar[ff2$8463, fl1] - 60*YU1[ff2$8463, ff2]*YU1[fl1, fl2]*
+            YU1bar[fl1, fl3]*YU2[ff1, fl3]*YU2bar[ff2$8463, fl2] - 
+           10*YU1[ff2$8464, Xflavor1$6089]*YU1[Xflavor1$6280, ff2]*
+            YU1bar[Xflavor1$6280, Xflavor1$6089]*YU2[ff1, fl1]*
+            YU2bar[ff2$8464, fl1] + 10*YU1[ff2$8464, Xflavor1$6089]*
+            YU1[Xflavor1$6364, ff2]*YU1bar[Xflavor1$6364, Xflavor1$6089]*
+            YU2[ff1, fl1]*YU2bar[ff2$8464, fl1] + 10*YU1[ff1, Xflavor1$6087]*
+            YU1[ff2$8464, ff2]*YU1bar[ff1$8464, Xflavor1$6087]*
+            YU2[ff1$8464, fl1]*YU2bar[ff2$8464, fl1] + 
+           10*YU1[ff1, Xflavor1$6282]*YU1[ff2$8464, ff2]*YU1bar[ff1$8464, 
+             Xflavor1$6282]*YU2[ff1$8464, fl1]*YU2bar[ff2$8464, fl1] - 
+           360*lambda6bar*YU1[ff1, ff1$8463]*YU1[fl1, ff2]*
+            YU2bar[fl1, ff1$8463] - 120*lambda3*YU1[ff1, ff1$8463]*
+            YU2[fl1, ff2]*YU2bar[fl1, ff1$8463] - 60*lambda4*
+            YU1[ff1, ff1$8463]*YU2[fl1, ff2]*YU2bar[fl1, ff1$8463] - 
+           60*YD1[fl1, fl2]*YD1bar[fl3, fl2]*YU1[ff1, ff1$8463]*YU2[fl3, ff2]*
+            YU2bar[fl1, ff1$8463] - 60*YU1[ff1, ff1$8463]*YU1[fl1, fl2]*
+            YU1bar[fl3, fl2]*YU2[fl3, ff2]*YU2bar[fl1, ff1$8463] + 
+           20*YU1[ff1, ff1$8464]*YU1[Xflavor1$6103, ff2]*
+            YU1bar[Xflavor1$6103, ff2$8464]*YU2[fl1, ff2$8464]*
+            YU2bar[fl1, ff1$8464] + 20*YU1[ff1, ff1$8464]*YU1[Xflavor1$6364, 
+             ff2]*YU1bar[Xflavor1$6364, ff2$8464]*YU2[fl1, ff2$8464]*
+            YU2bar[fl1, ff1$8464] - 60*lambda6*YU2[ff1, MIF1]*YU2[fl1, ff2]*
             YU2bar[fl1, MIF1] - 120*invepsilonbar*lambda6*YU2[ff1, MIF1]*
             YU2[fl1, ff2]*YU2bar[fl1, MIF1] + 120*lambda6*Log[mH22^2/\[Mu]^2]*
             YU2[ff1, MIF1]*YU2[fl1, ff2]*YU2bar[fl1, MIF1] - 
@@ -8970,48 +8970,48 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Log[mH22^2/\[Mu]^2]*YD2[ff1, ff2] + 720*lambda1*lambda7bar*
             Log[mH22^2/\[Mu]^2]*YD2[ff1, ff2] - 240*lambda4*lambda7bar*
             Log[mH22^2/\[Mu]^2]*YD2[ff1, ff2] + 360*lambda6bar*
-            YD1[ff2$6070, ff2]*YD1bar[ff2$6070, fl1]*YD2[ff1, fl1] + 
-           240*invepsilonbar*lambda6bar*YD1[ff2$6070, ff2]*YD1bar[ff2$6070, 
+            YD1[ff2$8463, ff2]*YD1bar[ff2$8463, fl1]*YD2[ff1, fl1] + 
+           240*invepsilonbar*lambda6bar*YD1[ff2$8463, ff2]*YD1bar[ff2$8463, 
              fl1]*YD2[ff1, fl1] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
-            YD1[ff2$6070, ff2]*YD1bar[ff2$6070, fl1]*YD2[ff1, fl1] + 
+            YD1[ff2$8463, ff2]*YD1bar[ff2$8463, fl1]*YD2[ff1, fl1] + 
            240*lambda6bar*YD1[fl1, ff2]*YD1bar[fl1, fl2]*YD2[ff1, fl2] + 
            240*invepsilonbar*lambda6bar*YD1[fl1, ff2]*YD1bar[fl1, fl2]*
             YD2[ff1, fl2] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*YD1[fl1, ff2]*
             YD1bar[fl1, fl2]*YD2[ff1, fl2] + 540*lambda6bar*
-            YD1[ff1, ff1$6070]*YD1bar[fl1, ff1$6070]*YD2[fl1, ff2] + 
-           360*invepsilonbar*lambda6bar*YD1[ff1, ff1$6070]*
-            YD1bar[fl1, ff1$6070]*YD2[fl1, ff2] - 360*lambda6bar*
-            Log[mH22^2/\[Mu]^2]*YD1[ff1, ff1$6070]*YD1bar[fl1, ff1$6070]*
+            YD1[ff1, ff1$8463]*YD1bar[fl1, ff1$8463]*YD2[fl1, ff2] + 
+           360*invepsilonbar*lambda6bar*YD1[ff1, ff1$8463]*
+            YD1bar[fl1, ff1$8463]*YD2[fl1, ff2] - 360*lambda6bar*
+            Log[mH22^2/\[Mu]^2]*YD1[ff1, ff1$8463]*YD1bar[fl1, ff1$8463]*
             YD2[fl1, ff2] - 240*lambda5bar*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
             YD2[fl1, ff2] + 240*lambda6bar*YD1[ff1, fl1]*YD1bar[fl2, fl1]*
             YD2[fl2, ff2] + 240*invepsilonbar*lambda6bar*YD1[ff1, fl1]*
             YD1bar[fl2, fl1]*YD2[fl2, ff2] - 240*lambda6bar*
             Log[mH22^2/\[Mu]^2]*YD1[ff1, fl1]*YD1bar[fl2, fl1]*
-            YD2[fl2, ff2] - 240*lambda6*YD1[ff1, fl1]*YD1[ff2$6070, ff2]*
-            YD2bar[ff2$6070, fl1] - 60*lambda3*YD1[ff2$6070, ff2]*
-            YD2[ff1, fl1]*YD2bar[ff2$6070, fl1] - 60*lambda4*
-            YD1[ff2$6070, ff2]*YD2[ff1, fl1]*YD2bar[ff2$6070, fl1] - 
-           60*YD1[ff2$6070, ff2]*YD1[fl1, fl2]*YD1bar[fl1, fl3]*YD2[ff1, fl3]*
-            YD2bar[ff2$6070, fl2] - 10*YD1[ff2$6071, Xflavor1$6091]*
-            YD1[Xflavor1$6304, ff2]*YD1bar[Xflavor1$6304, Xflavor1$6091]*
-            YD2[ff1, fl1]*YD2bar[ff2$6071, fl1] + 
-           10*YD1[ff2$6071, Xflavor1$6091]*YD1[Xflavor1$6369, ff2]*
-            YD1bar[Xflavor1$6369, Xflavor1$6091]*YD2[ff1, fl1]*
-            YD2bar[ff2$6071, fl1] + 10*YD1[ff1, Xflavor1$6089]*
-            YD1[ff2$6071, ff2]*YD1bar[ff1$6071, Xflavor1$6089]*
-            YD2[ff1$6071, fl1]*YD2bar[ff2$6071, fl1] + 
-           10*YD1[ff1, Xflavor1$6305]*YD1[ff2$6071, ff2]*YD1bar[ff1$6071, 
-             Xflavor1$6305]*YD2[ff1$6071, fl1]*YD2bar[ff2$6071, fl1] - 
-           360*lambda6*YD1[ff1, ff1$6070]*YD1[fl1, ff2]*YD2bar[fl1, 
-             ff1$6070] - 120*lambda3*YD1[ff1, ff1$6070]*YD2[fl1, ff2]*
-            YD2bar[fl1, ff1$6070] - 60*lambda4*YD1[ff1, ff1$6070]*
-            YD2[fl1, ff2]*YD2bar[fl1, ff1$6070] - 60*YD1[ff1, ff1$6070]*
+            YD2[fl2, ff2] - 240*lambda6*YD1[ff1, fl1]*YD1[ff2$8463, ff2]*
+            YD2bar[ff2$8463, fl1] - 60*lambda3*YD1[ff2$8463, ff2]*
+            YD2[ff1, fl1]*YD2bar[ff2$8463, fl1] - 60*lambda4*
+            YD1[ff2$8463, ff2]*YD2[ff1, fl1]*YD2bar[ff2$8463, fl1] - 
+           60*YD1[ff2$8463, ff2]*YD1[fl1, fl2]*YD1bar[fl1, fl3]*YD2[ff1, fl3]*
+            YD2bar[ff2$8463, fl2] - 10*YD1[ff2$8464, Xflavor1$6089]*
+            YD1[Xflavor1$6302, ff2]*YD1bar[Xflavor1$6302, Xflavor1$6089]*
+            YD2[ff1, fl1]*YD2bar[ff2$8464, fl1] + 
+           10*YD1[ff2$8464, Xflavor1$6089]*YD1[Xflavor1$6367, ff2]*
+            YD1bar[Xflavor1$6367, Xflavor1$6089]*YD2[ff1, fl1]*
+            YD2bar[ff2$8464, fl1] + 10*YD1[ff1, Xflavor1$6087]*
+            YD1[ff2$8464, ff2]*YD1bar[ff1$8464, Xflavor1$6087]*
+            YD2[ff1$8464, fl1]*YD2bar[ff2$8464, fl1] + 
+           10*YD1[ff1, Xflavor1$6303]*YD1[ff2$8464, ff2]*YD1bar[ff1$8464, 
+             Xflavor1$6303]*YD2[ff1$8464, fl1]*YD2bar[ff2$8464, fl1] - 
+           360*lambda6*YD1[ff1, ff1$8463]*YD1[fl1, ff2]*YD2bar[fl1, 
+             ff1$8463] - 120*lambda3*YD1[ff1, ff1$8463]*YD2[fl1, ff2]*
+            YD2bar[fl1, ff1$8463] - 60*lambda4*YD1[ff1, ff1$8463]*
+            YD2[fl1, ff2]*YD2bar[fl1, ff1$8463] - 60*YD1[ff1, ff1$8463]*
             YD1[fl1, fl2]*YD1bar[fl3, fl2]*YD2[fl3, ff2]*YD2bar[fl1, 
-             ff1$6070] + 20*YD1[ff1, ff1$6071]*YD1[Xflavor1$6118, ff2]*
-            YD1bar[Xflavor1$6118, ff2$6071]*YD2[fl1, ff2$6071]*
-            YD2bar[fl1, ff1$6071] + 20*YD1[ff1, ff1$6071]*YD1[Xflavor1$6369, 
-             ff2]*YD1bar[Xflavor1$6369, ff2$6071]*YD2[fl1, ff2$6071]*
-            YD2bar[fl1, ff1$6071] - 60*lambda6bar*YD2[ff1, MIF1]*
+             ff1$8463] + 20*YD1[ff1, ff1$8464]*YD1[Xflavor1$6116, ff2]*
+            YD1bar[Xflavor1$6116, ff2$8464]*YD2[fl1, ff2$8464]*
+            YD2bar[fl1, ff1$8464] + 20*YD1[ff1, ff1$8464]*YD1[Xflavor1$6367, 
+             ff2]*YD1bar[Xflavor1$6367, ff2$8464]*YD2[fl1, ff2$8464]*
+            YD2bar[fl1, ff1$8464] - 60*lambda6bar*YD2[ff1, MIF1]*
             YD2[fl1, ff2]*YD2bar[fl1, MIF1] - 120*invepsilonbar*lambda6bar*
             YD2[ff1, MIF1]*YD2[fl1, ff2]*YD2bar[fl1, MIF1] + 
            120*lambda6bar*Log[mH22^2/\[Mu]^2]*YD2[ff1, MIF1]*YD2[fl1, ff2]*
@@ -9023,12 +9023,12 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YU1bar[fl1, fl2] - 240*invepsilonbar*lambda6bar*YD2[fl1, ff2]*
             YU1[ff1, fl2]*YU1bar[fl1, fl2] + 240*lambda6bar*
             Log[mH22^2/\[Mu]^2]*YD2[fl1, ff2]*YU1[ff1, fl2]*
-            YU1bar[fl1, fl2] - 60*YD1[ff1, ff1$6070]*YD2[fl1, ff2]*
-            YD2bar[fl2, ff1$6070]*YU1[fl2, fl3]*YU1bar[fl1, fl3] + 
-           180*lambda6*YD1[ff2$6070, ff2]*YU1bar[ff2$6070, fl1]*
-            YU2[ff1, fl1] + 120*invepsilonbar*lambda6*YD1[ff2$6070, ff2]*
-            YU1bar[ff2$6070, fl1]*YU2[ff1, fl1] - 120*lambda6*
-            Log[mH22^2/\[Mu]^2]*YD1[ff2$6070, ff2]*YU1bar[ff2$6070, fl1]*
+            YU1bar[fl1, fl2] - 60*YD1[ff1, ff1$8463]*YD2[fl1, ff2]*
+            YD2bar[fl2, ff1$8463]*YU1[fl2, fl3]*YU1bar[fl1, fl3] + 
+           180*lambda6*YD1[ff2$8463, ff2]*YU1bar[ff2$8463, fl1]*
+            YU2[ff1, fl1] + 120*invepsilonbar*lambda6*YD1[ff2$8463, ff2]*
+            YU1bar[ff2$8463, fl1]*YU2[ff1, fl1] - 120*lambda6*
+            Log[mH22^2/\[Mu]^2]*YD1[ff2$8463, ff2]*YU1bar[ff2$8463, fl1]*
             YU2[ff1, fl1] - 240*lambda6*YD1[fl1, ff2]*YU1bar[fl1, fl2]*
             YU2[ff1, fl2] - 240*invepsilonbar*lambda6*YD1[fl1, ff2]*
             YU1bar[fl1, fl2]*YU2[ff1, fl2] + 240*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -9037,33 +9037,33 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            120*invepsilonbar*lambda1*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
             YU2[ff1, fl2] + 240*lambda3*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
             YU2[ff1, fl2] - 120*lambda1*Log[mH22^2/\[Mu]^2]*YD2[fl1, ff2]*
-            YU1bar[fl1, fl2]*YU2[ff1, fl2] - 60*YD1[Xflavor1$6242, ff2]*
-            YD1bar[Xflavor1$6242, ff2$6072]*YD2[fl1, ff2$6072]*
-            YU1bar[fl1, fl2]*YU2[ff1, fl2] + 60*YD1[Xflavor1$6304, ff2]*
-            YD1bar[Xflavor1$6304, ff2$6072]*YD2[fl1, ff2$6072]*
-            YU1bar[fl1, fl2]*YU2[ff1, fl2] - 60*YD1[Xflavor1$6369, ff2]*
-            YD1bar[Xflavor1$6369, ff2$6072]*YD2[fl1, ff2$6072]*
+            YU1bar[fl1, fl2]*YU2[ff1, fl2] - 60*YD1[Xflavor1$6240, ff2]*
+            YD1bar[Xflavor1$6240, ff2$8465]*YD2[fl1, ff2$8465]*
+            YU1bar[fl1, fl2]*YU2[ff1, fl2] + 60*YD1[Xflavor1$6302, ff2]*
+            YD1bar[Xflavor1$6302, ff2$8465]*YD2[fl1, ff2$8465]*
+            YU1bar[fl1, fl2]*YU2[ff1, fl2] - 60*YD1[Xflavor1$6367, ff2]*
+            YD1bar[Xflavor1$6367, ff2$8465]*YD2[fl1, ff2$8465]*
             YU1bar[fl1, fl2]*YU2[ff1, fl2] - 240*YD2[fl1, ff2]*YU1[fl2, fl3]*
             YU1bar[fl1, fl3]*YU1bar[fl2, fl4]*YU2[ff1, fl4] - 
            240*invepsilonbar*YD2[fl1, ff2]*YU1[fl2, fl3]*YU1bar[fl1, fl3]*
             YU1bar[fl2, fl4]*YU2[ff1, fl4] + 240*Log[mH22^2/\[Mu]^2]*
             YD2[fl1, ff2]*YU1[fl2, fl3]*YU1bar[fl1, fl3]*YU1bar[fl2, fl4]*
-            YU2[ff1, fl4] - 60*YD1[ff1, Xflavor1$6305]*YD1bar[ff1$6072, 
-             Xflavor1$6305]*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
-            YU2[ff1$6072, fl2] - 120*lambda6bar*YD1[ff2$6070, ff2]*
-            YU1[ff1, fl1]*YU2bar[ff2$6070, fl1] - 60*lambda3*
-            YD1[ff2$6070, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6070, fl1] - 
-           60*YD1[ff2$6070, ff2]*YU1[fl1, fl2]*YU1bar[fl1, fl3]*YU2[ff1, fl3]*
-            YU2bar[ff2$6070, fl2] - 10*YD1[ff2$6071, Xflavor1$6091]*
-            YD1[Xflavor1$6304, ff2]*YD1bar[Xflavor1$6304, Xflavor1$6091]*
-            YU2[ff1, fl1]*YU2bar[ff2$6071, fl1] + 
-           10*YD1[ff2$6071, Xflavor1$6091]*YD1[Xflavor1$6369, ff2]*
-            YD1bar[Xflavor1$6369, Xflavor1$6091]*YU2[ff1, fl1]*
-            YU2bar[ff2$6071, fl1] + 10*YD1[ff1, Xflavor1$6089]*
-            YD1[ff2$6071, ff2]*YD1bar[ff1$6071, Xflavor1$6089]*
-            YU2[ff1$6071, fl1]*YU2bar[ff2$6071, fl1] + 
-           10*YD1[ff1, Xflavor1$6305]*YD1[ff2$6071, ff2]*YD1bar[ff1$6071, 
-             Xflavor1$6305]*YU2[ff1$6071, fl1]*YU2bar[ff2$6071, fl1] + 
+            YU2[ff1, fl4] - 60*YD1[ff1, Xflavor1$6303]*YD1bar[ff1$8465, 
+             Xflavor1$6303]*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
+            YU2[ff1$8465, fl2] - 120*lambda6bar*YD1[ff2$8463, ff2]*
+            YU1[ff1, fl1]*YU2bar[ff2$8463, fl1] - 60*lambda3*
+            YD1[ff2$8463, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8463, fl1] - 
+           60*YD1[ff2$8463, ff2]*YU1[fl1, fl2]*YU1bar[fl1, fl3]*YU2[ff1, fl3]*
+            YU2bar[ff2$8463, fl2] - 10*YD1[ff2$8464, Xflavor1$6089]*
+            YD1[Xflavor1$6302, ff2]*YD1bar[Xflavor1$6302, Xflavor1$6089]*
+            YU2[ff1, fl1]*YU2bar[ff2$8464, fl1] + 
+           10*YD1[ff2$8464, Xflavor1$6089]*YD1[Xflavor1$6367, ff2]*
+            YD1bar[Xflavor1$6367, Xflavor1$6089]*YU2[ff1, fl1]*
+            YU2bar[ff2$8464, fl1] + 10*YD1[ff1, Xflavor1$6087]*
+            YD1[ff2$8464, ff2]*YD1bar[ff1$8464, Xflavor1$6087]*
+            YU2[ff1$8464, fl1]*YU2bar[ff2$8464, fl1] + 
+           10*YD1[ff1, Xflavor1$6303]*YD1[ff2$8464, ff2]*YD1bar[ff1$8464, 
+             Xflavor1$6303]*YU2[ff1$8464, fl1]*YU2bar[ff2$8464, fl1] + 
            240*lambda6bar*YD2[fl1, ff2]*YU2[ff1, fl2]*YU2bar[fl1, fl2] + 
            240*invepsilonbar*lambda6bar*YD2[fl1, ff2]*YU2[ff1, fl2]*
             YU2bar[fl1, fl2] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
@@ -9074,36 +9074,36 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YD2[MIF1, ff2]*YU2[ff1, fl1]*YU2bar[MIF1, fl1]))/
          (3840*mH22^2*Pi^2), alphac6vHbar[ff2_, ff1_] -> 
        (lambda6bar*Yv2bar[ff2, ff1])/mH22^2 + 
-        (onelooporder*(-120*lambda6bar*YE1bar[ff2, fl1]*YE2[ff1$6070, fl1]*
-            Yv1bar[ff1$6070, ff1] + 180*lambda6*YE1[ff1$6070, fl1]*
-            YE2bar[ff2, fl1]*Yv1bar[ff1$6070, ff1] + 120*invepsilonbar*
-            lambda6*YE1[ff1$6070, fl1]*YE2bar[ff2, fl1]*Yv1bar[ff1$6070, 
-             ff1] - 120*lambda6*Log[mH22^2/\[Mu]^2]*YE1[ff1$6070, fl1]*
-            YE2bar[ff2, fl1]*Yv1bar[ff1$6070, ff1] - 60*lambda3*
-            YE2[ff1$6070, fl1]*YE2bar[ff2, fl1]*Yv1bar[ff1$6070, ff1] - 
-           60*YE1[fl1, fl2]*YE1bar[fl1, fl3]*YE2[ff1$6070, fl3]*
-            YE2bar[ff2, fl2]*Yv1bar[ff1$6070, ff1] - g2^4*Yv1bar[ff2, ff1] + 
+        (onelooporder*(-120*lambda6bar*YE1bar[ff2, fl1]*YE2[ff1$8463, fl1]*
+            Yv1bar[ff1$8463, ff1] + 180*lambda6*YE1[ff1$8463, fl1]*
+            YE2bar[ff2, fl1]*Yv1bar[ff1$8463, ff1] + 120*invepsilonbar*
+            lambda6*YE1[ff1$8463, fl1]*YE2bar[ff2, fl1]*Yv1bar[ff1$8463, 
+             ff1] - 120*lambda6*Log[mH22^2/\[Mu]^2]*YE1[ff1$8463, fl1]*
+            YE2bar[ff2, fl1]*Yv1bar[ff1$8463, ff1] - 60*lambda3*
+            YE2[ff1$8463, fl1]*YE2bar[ff2, fl1]*Yv1bar[ff1$8463, ff1] - 
+           60*YE1[fl1, fl2]*YE1bar[fl1, fl3]*YE2[ff1$8463, fl3]*
+            YE2bar[ff2, fl2]*Yv1bar[ff1$8463, ff1] - g2^4*Yv1bar[ff2, ff1] + 
            20*lambda4^2*Yv1bar[ff2, ff1] + 20*lambda5*lambda5bar*
             Yv1bar[ff2, ff1] + 240*lambda6*lambda6bar*Yv1bar[ff2, ff1] - 
            720*lambda6bar*lambda7*Yv1bar[ff2, ff1] - 720*invepsilonbar*
             lambda6bar*lambda7*Yv1bar[ff2, ff1] + 720*lambda6bar*lambda7*
-            Log[mH22^2/\[Mu]^2]*Yv1bar[ff2, ff1] + 10*YE2[ff1$6071, fl1]*
-            YE2bar[ff2$6071, fl1]*Yv1[ff2$6071, Xflavor1$6131]*
-            Yv1bar[ff1$6071, ff1]*Yv1bar[ff2, Xflavor1$6131] + 
-           10*YE2[ff1$6071, fl1]*YE2bar[ff2$6071, fl1]*Yv1[ff2$6071, 
-             Xflavor1$6535]*Yv1bar[ff1$6071, ff1]*Yv1bar[ff2, 
-             Xflavor1$6535] - 240*lambda6*YE1[fl1, fl2]*YE2bar[ff2, fl2]*
+            Log[mH22^2/\[Mu]^2]*Yv1bar[ff2, ff1] + 10*YE2[ff1$8464, fl1]*
+            YE2bar[ff2$8464, fl1]*Yv1[ff2$8464, Xflavor1$6129]*
+            Yv1bar[ff1$8464, ff1]*Yv1bar[ff2, Xflavor1$6129] + 
+           10*YE2[ff1$8464, fl1]*YE2bar[ff2$8464, fl1]*Yv1[ff2$8464, 
+             Xflavor1$6533]*Yv1bar[ff1$8464, ff1]*Yv1bar[ff2, 
+             Xflavor1$6533] - 240*lambda6*YE1[fl1, fl2]*YE2bar[ff2, fl2]*
             Yv1bar[fl1, ff1] - 240*invepsilonbar*lambda6*YE1[fl1, fl2]*
             YE2bar[ff2, fl2]*Yv1bar[fl1, ff1] + 240*lambda6*
             Log[mH22^2/\[Mu]^2]*YE1[fl1, fl2]*YE2bar[ff2, fl2]*
-            Yv1bar[fl1, ff1] - 10*YE2[ff1$6071, fl1]*YE2bar[ff2, fl1]*
-            Yv1[Xflavor1$6533, Xflavor1$6129]*Yv1bar[ff1$6071, Xflavor1$6129]*
-            Yv1bar[Xflavor1$6533, ff1] + 10*YE2[ff1$6071, fl1]*
-            YE2bar[ff2, fl1]*Yv1[Xflavor1$6580, Xflavor1$6129]*
-            Yv1bar[ff1$6071, Xflavor1$6129]*Yv1bar[Xflavor1$6580, ff1] - 
-           240*lambda6*Yv1bar[ff1$6070, ff1]*Yv1bar[ff2, fl1]*
-            Yv2[ff1$6070, fl1] - 360*lambda6*Yv1bar[ff2, ff2$6070]*
-            Yv1bar[fl1, ff1]*Yv2[fl1, ff2$6070] - 1200*lambda5bar*lambda6*
+            Yv1bar[fl1, ff1] - 10*YE2[ff1$8464, fl1]*YE2bar[ff2, fl1]*
+            Yv1[Xflavor1$6531, Xflavor1$6127]*Yv1bar[ff1$8464, Xflavor1$6127]*
+            Yv1bar[Xflavor1$6531, ff1] + 10*YE2[ff1$8464, fl1]*
+            YE2bar[ff2, fl1]*Yv1[Xflavor1$6578, Xflavor1$6127]*
+            Yv1bar[ff1$8464, Xflavor1$6127]*Yv1bar[Xflavor1$6578, ff1] - 
+           240*lambda6*Yv1bar[ff1$8463, ff1]*Yv1bar[ff2, fl1]*
+            Yv2[ff1$8463, fl1] - 360*lambda6*Yv1bar[ff2, ff2$8463]*
+            Yv1bar[fl1, ff1]*Yv2[fl1, ff2$8463] - 1200*lambda5bar*lambda6*
             Yv2bar[ff2, ff1] - 1200*invepsilonbar*lambda5bar*lambda6*
             Yv2bar[ff2, ff1] + 720*lambda2*lambda6bar*Yv2bar[ff2, ff1] + 
            720*invepsilonbar*lambda2*lambda6bar*Yv2bar[ff2, ff1] - 
@@ -9123,28 +9123,28 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            480*lambda5bar*lambda7*Log[mH22^2/\[Mu]^2]*Yv2bar[ff2, ff1] + 
            720*lambda1*lambda7bar*Log[mH22^2/\[Mu]^2]*Yv2bar[ff2, ff1] - 
            240*lambda4*lambda7bar*Log[mH22^2/\[Mu]^2]*Yv2bar[ff2, ff1] + 
-           360*lambda6bar*Yv1[ff1$6070, fl1]*Yv1bar[ff1$6070, ff1]*
+           360*lambda6bar*Yv1[ff1$8463, fl1]*Yv1bar[ff1$8463, ff1]*
             Yv2bar[ff2, fl1] + 240*invepsilonbar*lambda6bar*
-            Yv1[ff1$6070, fl1]*Yv1bar[ff1$6070, ff1]*Yv2bar[ff2, fl1] - 
-           240*lambda6bar*Log[mH22^2/\[Mu]^2]*Yv1[ff1$6070, fl1]*
-            Yv1bar[ff1$6070, ff1]*Yv2bar[ff2, fl1] - 60*lambda3*
-            Yv1bar[ff1$6070, ff1]*Yv2[ff1$6070, fl1]*Yv2bar[ff2, fl1] - 
-           60*lambda4*Yv1bar[ff1$6070, ff1]*Yv2[ff1$6070, fl1]*
-            Yv2bar[ff2, fl1] - 10*Yv1[Xflavor1$6533, Xflavor1$6129]*
-            Yv1bar[ff1$6071, Xflavor1$6129]*Yv1bar[Xflavor1$6533, ff1]*
-            Yv2[ff1$6071, fl1]*Yv2bar[ff2, fl1] + 10*Yv1[Xflavor1$6580, 
-             Xflavor1$6129]*Yv1bar[ff1$6071, Xflavor1$6129]*
-            Yv1bar[Xflavor1$6580, ff1]*Yv2[ff1$6071, fl1]*Yv2bar[ff2, fl1] + 
+            Yv1[ff1$8463, fl1]*Yv1bar[ff1$8463, ff1]*Yv2bar[ff2, fl1] - 
+           240*lambda6bar*Log[mH22^2/\[Mu]^2]*Yv1[ff1$8463, fl1]*
+            Yv1bar[ff1$8463, ff1]*Yv2bar[ff2, fl1] - 60*lambda3*
+            Yv1bar[ff1$8463, ff1]*Yv2[ff1$8463, fl1]*Yv2bar[ff2, fl1] - 
+           60*lambda4*Yv1bar[ff1$8463, ff1]*Yv2[ff1$8463, fl1]*
+            Yv2bar[ff2, fl1] - 10*Yv1[Xflavor1$6531, Xflavor1$6127]*
+            Yv1bar[ff1$8464, Xflavor1$6127]*Yv1bar[Xflavor1$6531, ff1]*
+            Yv2[ff1$8464, fl1]*Yv2bar[ff2, fl1] + 10*Yv1[Xflavor1$6578, 
+             Xflavor1$6127]*Yv1bar[ff1$8464, Xflavor1$6127]*
+            Yv1bar[Xflavor1$6578, ff1]*Yv2[ff1$8464, fl1]*Yv2bar[ff2, fl1] + 
            240*lambda6bar*Yv1[fl1, fl2]*Yv1bar[fl1, ff1]*Yv2bar[ff2, fl2] + 
            240*invepsilonbar*lambda6bar*Yv1[fl1, fl2]*Yv1bar[fl1, ff1]*
             Yv2bar[ff2, fl2] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
             Yv1[fl1, fl2]*Yv1bar[fl1, ff1]*Yv2bar[ff2, fl2] - 
-           60*Yv1[fl1, fl2]*Yv1bar[ff1$6070, ff1]*Yv1bar[fl1, fl3]*
-            Yv2[ff1$6070, fl3]*Yv2bar[ff2, fl2] + 
-           10*Yv1[ff2$6071, Xflavor1$6131]*Yv1bar[ff1$6071, ff1]*
-            Yv1bar[ff2, Xflavor1$6131]*Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, 
-             fl1] + 10*Yv1[ff2$6071, Xflavor1$6535]*Yv1bar[ff1$6071, ff1]*
-            Yv1bar[ff2, Xflavor1$6535]*Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, 
+           60*Yv1[fl1, fl2]*Yv1bar[ff1$8463, ff1]*Yv1bar[fl1, fl3]*
+            Yv2[ff1$8463, fl3]*Yv2bar[ff2, fl2] + 
+           10*Yv1[ff2$8464, Xflavor1$6129]*Yv1bar[ff1$8464, ff1]*
+            Yv1bar[ff2, Xflavor1$6129]*Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, 
+             fl1] + 10*Yv1[ff2$8464, Xflavor1$6533]*Yv1bar[ff1$8464, ff1]*
+            Yv1bar[ff2, Xflavor1$6533]*Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, 
              fl1] - 240*lambda6bar*YE1[fl1, fl2]*YE1bar[ff2, fl2]*
             Yv2bar[fl1, ff1] - 240*invepsilonbar*lambda6bar*YE1[fl1, fl2]*
             YE1bar[ff2, fl2]*Yv2bar[fl1, ff1] + 240*lambda6bar*
@@ -9158,39 +9158,39 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Yv2bar[fl1, ff1] + 240*invepsilonbar*lambda6bar*YE2[fl1, fl2]*
             YE2bar[ff2, fl2]*Yv2bar[fl1, ff1] - 240*lambda6bar*
             Log[mH22^2/\[Mu]^2]*YE2[fl1, fl2]*YE2bar[ff2, fl2]*
-            Yv2bar[fl1, ff1] + 540*lambda6bar*Yv1[fl1, ff2$6070]*
-            Yv1bar[ff2, ff2$6070]*Yv2bar[fl1, ff1] + 360*invepsilonbar*
-            lambda6bar*Yv1[fl1, ff2$6070]*Yv1bar[ff2, ff2$6070]*
+            Yv2bar[fl1, ff1] + 540*lambda6bar*Yv1[fl1, ff2$8463]*
+            Yv1bar[ff2, ff2$8463]*Yv2bar[fl1, ff1] + 360*invepsilonbar*
+            lambda6bar*Yv1[fl1, ff2$8463]*Yv1bar[ff2, ff2$8463]*
             Yv2bar[fl1, ff1] - 360*lambda6bar*Log[mH22^2/\[Mu]^2]*
-            Yv1[fl1, ff2$6070]*Yv1bar[ff2, ff2$6070]*Yv2bar[fl1, ff1] + 
+            Yv1[fl1, ff2$8463]*Yv1bar[ff2, ff2$8463]*Yv2bar[fl1, ff1] + 
            240*lambda6bar*Yv1[fl1, fl2]*Yv1bar[ff2, fl2]*Yv2bar[fl1, ff1] + 
            240*invepsilonbar*lambda6bar*Yv1[fl1, fl2]*Yv1bar[ff2, fl2]*
             Yv2bar[fl1, ff1] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
             Yv1[fl1, fl2]*Yv1bar[ff2, fl2]*Yv2bar[fl1, ff1] - 
-           60*YE1[fl1, fl2]*YE2bar[ff2$6072, fl2]*Yv1[ff2$6072, 
-             Xflavor1$6535]*Yv1bar[ff2, Xflavor1$6535]*Yv2bar[fl1, ff1] - 
-           120*lambda3*Yv1bar[ff2, ff2$6070]*Yv2[fl1, ff2$6070]*
-            Yv2bar[fl1, ff1] - 60*lambda4*Yv1bar[ff2, ff2$6070]*
-            Yv2[fl1, ff2$6070]*Yv2bar[fl1, ff1] - 60*YE1[fl1, fl2]*
-            YE1bar[fl3, fl2]*Yv1bar[ff2, ff2$6070]*Yv2[fl3, ff2$6070]*
-            Yv2bar[fl1, ff1] - 60*Yv1[fl1, fl2]*Yv1bar[ff2, ff2$6070]*
-            Yv1bar[fl3, fl2]*Yv2[fl3, ff2$6070]*Yv2bar[fl1, ff1] - 
+           60*YE1[fl1, fl2]*YE2bar[ff2$8465, fl2]*Yv1[ff2$8465, 
+             Xflavor1$6533]*Yv1bar[ff2, Xflavor1$6533]*Yv2bar[fl1, ff1] - 
+           120*lambda3*Yv1bar[ff2, ff2$8463]*Yv2[fl1, ff2$8463]*
+            Yv2bar[fl1, ff1] - 60*lambda4*Yv1bar[ff2, ff2$8463]*
+            Yv2[fl1, ff2$8463]*Yv2bar[fl1, ff1] - 60*YE1[fl1, fl2]*
+            YE1bar[fl3, fl2]*Yv1bar[ff2, ff2$8463]*Yv2[fl3, ff2$8463]*
+            Yv2bar[fl1, ff1] - 60*Yv1[fl1, fl2]*Yv1bar[ff2, ff2$8463]*
+            Yv1bar[fl3, fl2]*Yv2[fl3, ff2$8463]*Yv2bar[fl1, ff1] - 
            240*lambda5bar*Yv1[fl1, fl2]*Yv2bar[ff2, fl2]*Yv2bar[fl1, ff1] - 
            60*lambda6bar*Yv2[fl1, MIF1]*Yv2bar[ff2, MIF1]*Yv2bar[fl1, ff1] - 
            120*invepsilonbar*lambda6bar*Yv2[fl1, MIF1]*Yv2bar[ff2, MIF1]*
             Yv2bar[fl1, ff1] + 120*lambda6bar*Log[mH22^2/\[Mu]^2]*
             Yv2[fl1, MIF1]*Yv2bar[ff2, MIF1]*Yv2bar[fl1, ff1] + 
-           20*Yv1[Xflavor1$6143, ff1$6071]*Yv1bar[ff2, ff2$6071]*
-            Yv1bar[Xflavor1$6143, ff1]*Yv2[fl1, ff2$6071]*
-            Yv2bar[fl1, ff1$6071] + 20*Yv1[Xflavor1$6580, ff1$6071]*
-            Yv1bar[ff2, ff2$6071]*Yv1bar[Xflavor1$6580, ff1]*
-            Yv2[fl1, ff2$6071]*Yv2bar[fl1, ff1$6071] - 60*YE1[fl1, fl2]*
-            YE2bar[ff2, fl2]*Yv1[Xflavor1$6462, ff1$6072]*
-            Yv1bar[Xflavor1$6462, ff1]*Yv2bar[fl1, ff1$6072] + 
-           60*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[Xflavor1$6533, ff1$6072]*
-            Yv1bar[Xflavor1$6533, ff1]*Yv2bar[fl1, ff1$6072] - 
-           60*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[Xflavor1$6580, ff1$6072]*
-            Yv1bar[Xflavor1$6580, ff1]*Yv2bar[fl1, ff1$6072] - 
+           20*Yv1[Xflavor1$6141, ff1$8464]*Yv1bar[ff2, ff2$8464]*
+            Yv1bar[Xflavor1$6141, ff1]*Yv2[fl1, ff2$8464]*
+            Yv2bar[fl1, ff1$8464] + 20*Yv1[Xflavor1$6578, ff1$8464]*
+            Yv1bar[ff2, ff2$8464]*Yv1bar[Xflavor1$6578, ff1]*
+            Yv2[fl1, ff2$8464]*Yv2bar[fl1, ff1$8464] - 60*YE1[fl1, fl2]*
+            YE2bar[ff2, fl2]*Yv1[Xflavor1$6460, ff1$8465]*
+            Yv1bar[Xflavor1$6460, ff1]*Yv2bar[fl1, ff1$8465] + 
+           60*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[Xflavor1$6531, ff1$8465]*
+            Yv1bar[Xflavor1$6531, ff1]*Yv2bar[fl1, ff1$8465] - 
+           60*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[Xflavor1$6578, ff1$8465]*
+            Yv1bar[Xflavor1$6578, ff1]*Yv2bar[fl1, ff1$8465] - 
            240*YE1[fl1, fl2]*YE1[fl3, fl4]*YE1bar[fl1, fl4]*YE2bar[ff2, fl2]*
             Yv2bar[fl3, ff1] - 240*invepsilonbar*YE1[fl1, fl2]*YE1[fl3, fl4]*
             YE1bar[fl1, fl4]*YE2bar[ff2, fl2]*Yv2bar[fl3, ff1] + 
@@ -9211,9 +9211,9 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            240*lambda6*lambda6bar*YE1bar[ff2, ff1] - 720*lambda6*lambda7bar*
             YE1bar[ff2, ff1] - 720*invepsilonbar*lambda6*lambda7bar*
             YE1bar[ff2, ff1] + 720*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2]*
-            YE1bar[ff2, ff1] - 240*lambda6bar*YE1bar[ff1$6070, ff1]*
-            YE1bar[ff2, fl1]*YE2[ff1$6070, fl1] - 360*lambda6bar*
-            YE1bar[ff2, ff2$6070]*YE1bar[fl1, ff1]*YE2[fl1, ff2$6070] + 
+            YE1bar[ff2, ff1] - 240*lambda6bar*YE1bar[ff1$8463, ff1]*
+            YE1bar[ff2, fl1]*YE2[ff1$8463, fl1] - 360*lambda6bar*
+            YE1bar[ff2, ff2$8463]*YE1bar[fl1, ff1]*YE2[fl1, ff2$8463] + 
            720*lambda2*lambda6*YE2bar[ff2, ff1] + 720*invepsilonbar*lambda2*
             lambda6*YE2bar[ff2, ff1] - 720*lambda3*lambda6*YE2bar[ff2, ff1] - 
            720*invepsilonbar*lambda3*lambda6*YE2bar[ff2, ff1] - 
@@ -9233,50 +9233,50 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            720*lambda1*lambda7*Log[mH22^2/\[Mu]^2]*YE2bar[ff2, ff1] - 
            240*lambda4*lambda7*Log[mH22^2/\[Mu]^2]*YE2bar[ff2, ff1] - 
            480*lambda5*lambda7bar*Log[mH22^2/\[Mu]^2]*YE2bar[ff2, ff1] + 
-           360*lambda6*YE1[ff1$6070, fl1]*YE1bar[ff1$6070, ff1]*
-            YE2bar[ff2, fl1] + 240*invepsilonbar*lambda6*YE1[ff1$6070, fl1]*
-            YE1bar[ff1$6070, ff1]*YE2bar[ff2, fl1] - 240*lambda6*
-            Log[mH22^2/\[Mu]^2]*YE1[ff1$6070, fl1]*YE1bar[ff1$6070, ff1]*
-            YE2bar[ff2, fl1] - 60*lambda3*YE1bar[ff1$6070, ff1]*
-            YE2[ff1$6070, fl1]*YE2bar[ff2, fl1] - 60*lambda4*
-            YE1bar[ff1$6070, ff1]*YE2[ff1$6070, fl1]*YE2bar[ff2, fl1] - 
-           10*YE1[Xflavor1$6555, Xflavor1$6129]*YE1bar[ff1$6071, 
-             Xflavor1$6129]*YE1bar[Xflavor1$6555, ff1]*YE2[ff1$6071, fl1]*
-            YE2bar[ff2, fl1] + 10*YE1[Xflavor1$6583, Xflavor1$6129]*
-            YE1bar[ff1$6071, Xflavor1$6129]*YE1bar[Xflavor1$6583, ff1]*
-            YE2[ff1$6071, fl1]*YE2bar[ff2, fl1] + 240*lambda6*YE1[fl1, fl2]*
+           360*lambda6*YE1[ff1$8463, fl1]*YE1bar[ff1$8463, ff1]*
+            YE2bar[ff2, fl1] + 240*invepsilonbar*lambda6*YE1[ff1$8463, fl1]*
+            YE1bar[ff1$8463, ff1]*YE2bar[ff2, fl1] - 240*lambda6*
+            Log[mH22^2/\[Mu]^2]*YE1[ff1$8463, fl1]*YE1bar[ff1$8463, ff1]*
+            YE2bar[ff2, fl1] - 60*lambda3*YE1bar[ff1$8463, ff1]*
+            YE2[ff1$8463, fl1]*YE2bar[ff2, fl1] - 60*lambda4*
+            YE1bar[ff1$8463, ff1]*YE2[ff1$8463, fl1]*YE2bar[ff2, fl1] - 
+           10*YE1[Xflavor1$6553, Xflavor1$6127]*YE1bar[ff1$8464, 
+             Xflavor1$6127]*YE1bar[Xflavor1$6553, ff1]*YE2[ff1$8464, fl1]*
+            YE2bar[ff2, fl1] + 10*YE1[Xflavor1$6581, Xflavor1$6127]*
+            YE1bar[ff1$8464, Xflavor1$6127]*YE1bar[Xflavor1$6581, ff1]*
+            YE2[ff1$8464, fl1]*YE2bar[ff2, fl1] + 240*lambda6*YE1[fl1, fl2]*
             YE1bar[fl1, ff1]*YE2bar[ff2, fl2] + 240*invepsilonbar*lambda6*
             YE1[fl1, fl2]*YE1bar[fl1, ff1]*YE2bar[ff2, fl2] - 
            240*lambda6*Log[mH22^2/\[Mu]^2]*YE1[fl1, fl2]*YE1bar[fl1, ff1]*
-            YE2bar[ff2, fl2] - 60*YE1[fl1, fl2]*YE1bar[ff1$6070, ff1]*
-            YE1bar[fl1, fl3]*YE2[ff1$6070, fl3]*YE2bar[ff2, fl2] + 
-           10*YE1[ff2$6071, Xflavor1$6131]*YE1bar[ff1$6071, ff1]*
-            YE1bar[ff2, Xflavor1$6131]*YE2[ff1$6071, fl1]*YE2bar[ff2$6071, 
-             fl1] + 10*YE1[ff2$6071, Xflavor1$6556]*YE1bar[ff1$6071, ff1]*
-            YE1bar[ff2, Xflavor1$6556]*YE2[ff1$6071, fl1]*YE2bar[ff2$6071, 
-             fl1] + 540*lambda6*YE1[fl1, ff2$6070]*YE1bar[ff2, ff2$6070]*
-            YE2bar[fl1, ff1] + 360*invepsilonbar*lambda6*YE1[fl1, ff2$6070]*
-            YE1bar[ff2, ff2$6070]*YE2bar[fl1, ff1] - 360*lambda6*
-            Log[mH22^2/\[Mu]^2]*YE1[fl1, ff2$6070]*YE1bar[ff2, ff2$6070]*
+            YE2bar[ff2, fl2] - 60*YE1[fl1, fl2]*YE1bar[ff1$8463, ff1]*
+            YE1bar[fl1, fl3]*YE2[ff1$8463, fl3]*YE2bar[ff2, fl2] + 
+           10*YE1[ff2$8464, Xflavor1$6129]*YE1bar[ff1$8464, ff1]*
+            YE1bar[ff2, Xflavor1$6129]*YE2[ff1$8464, fl1]*YE2bar[ff2$8464, 
+             fl1] + 10*YE1[ff2$8464, Xflavor1$6554]*YE1bar[ff1$8464, ff1]*
+            YE1bar[ff2, Xflavor1$6554]*YE2[ff1$8464, fl1]*YE2bar[ff2$8464, 
+             fl1] + 540*lambda6*YE1[fl1, ff2$8463]*YE1bar[ff2, ff2$8463]*
+            YE2bar[fl1, ff1] + 360*invepsilonbar*lambda6*YE1[fl1, ff2$8463]*
+            YE1bar[ff2, ff2$8463]*YE2bar[fl1, ff1] - 360*lambda6*
+            Log[mH22^2/\[Mu]^2]*YE1[fl1, ff2$8463]*YE1bar[ff2, ff2$8463]*
             YE2bar[fl1, ff1] + 240*lambda6*YE1[fl1, fl2]*YE1bar[ff2, fl2]*
             YE2bar[fl1, ff1] + 240*invepsilonbar*lambda6*YE1[fl1, fl2]*
             YE1bar[ff2, fl2]*YE2bar[fl1, ff1] - 240*lambda6*
             Log[mH22^2/\[Mu]^2]*YE1[fl1, fl2]*YE1bar[ff2, fl2]*
-            YE2bar[fl1, ff1] - 120*lambda3*YE1bar[ff2, ff2$6070]*
-            YE2[fl1, ff2$6070]*YE2bar[fl1, ff1] - 60*lambda4*
-            YE1bar[ff2, ff2$6070]*YE2[fl1, ff2$6070]*YE2bar[fl1, ff1] - 
-           60*YE1[fl1, fl2]*YE1bar[ff2, ff2$6070]*YE1bar[fl3, fl2]*
-            YE2[fl3, ff2$6070]*YE2bar[fl1, ff1] - 240*lambda5*YE1[fl1, fl2]*
+            YE2bar[fl1, ff1] - 120*lambda3*YE1bar[ff2, ff2$8463]*
+            YE2[fl1, ff2$8463]*YE2bar[fl1, ff1] - 60*lambda4*
+            YE1bar[ff2, ff2$8463]*YE2[fl1, ff2$8463]*YE2bar[fl1, ff1] - 
+           60*YE1[fl1, fl2]*YE1bar[ff2, ff2$8463]*YE1bar[fl3, fl2]*
+            YE2[fl3, ff2$8463]*YE2bar[fl1, ff1] - 240*lambda5*YE1[fl1, fl2]*
             YE2bar[ff2, fl2]*YE2bar[fl1, ff1] - 60*lambda6*YE2[fl1, MIF1]*
             YE2bar[ff2, MIF1]*YE2bar[fl1, ff1] - 120*invepsilonbar*lambda6*
             YE2[fl1, MIF1]*YE2bar[ff2, MIF1]*YE2bar[fl1, ff1] + 
            120*lambda6*Log[mH22^2/\[Mu]^2]*YE2[fl1, MIF1]*YE2bar[ff2, MIF1]*
-            YE2bar[fl1, ff1] + 20*YE1[Xflavor1$6157, ff1$6071]*
-            YE1bar[ff2, ff2$6071]*YE1bar[Xflavor1$6157, ff1]*
-            YE2[fl1, ff2$6071]*YE2bar[fl1, ff1$6071] + 
-           20*YE1[Xflavor1$6583, ff1$6071]*YE1bar[ff2, ff2$6071]*
-            YE1bar[Xflavor1$6583, ff1]*YE2[fl1, ff2$6071]*
-            YE2bar[fl1, ff1$6071] - 30*lambda6*YE2[MIF1, fl1]*
+            YE2bar[fl1, ff1] + 20*YE1[Xflavor1$6155, ff1$8464]*
+            YE1bar[ff2, ff2$8464]*YE1bar[Xflavor1$6155, ff1]*
+            YE2[fl1, ff2$8464]*YE2bar[fl1, ff1$8464] + 
+           20*YE1[Xflavor1$6581, ff1$8464]*YE1bar[ff2, ff2$8464]*
+            YE1bar[Xflavor1$6581, ff1]*YE2[fl1, ff2$8464]*
+            YE2bar[fl1, ff1$8464] - 30*lambda6*YE2[MIF1, fl1]*
             YE2bar[ff2, fl1]*YE2bar[MIF1, ff1] - 60*invepsilonbar*lambda6*
             YE2[MIF1, fl1]*YE2bar[ff2, fl1]*YE2bar[MIF1, ff1] + 
            60*lambda6*Log[mH22^2/\[Mu]^2]*YE2[MIF1, fl1]*YE2bar[ff2, fl1]*
@@ -9284,19 +9284,19 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Yv1bar[ff2, fl2] - 240*invepsilonbar*lambda6*YE2bar[fl1, ff1]*
             Yv1[fl1, fl2]*Yv1bar[ff2, fl2] + 240*lambda6*Log[mH22^2/\[Mu]^2]*
             YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv1bar[ff2, fl2] - 
-           60*YE1bar[ff2, ff2$6070]*YE2[fl1, ff2$6070]*YE2bar[fl2, ff1]*
-            Yv1[fl2, fl3]*Yv1bar[fl1, fl3] - 120*lambda6*YE1bar[ff1$6070, 
-             ff1]*Yv1bar[ff2, fl1]*Yv2[ff1$6070, fl1] + 180*lambda6bar*
-            YE1bar[ff1$6070, ff1]*Yv1[ff1$6070, fl1]*Yv2bar[ff2, fl1] + 
-           120*invepsilonbar*lambda6bar*YE1bar[ff1$6070, ff1]*
-            Yv1[ff1$6070, fl1]*Yv2bar[ff2, fl1] - 120*lambda6bar*
-            Log[mH22^2/\[Mu]^2]*YE1bar[ff1$6070, ff1]*Yv1[ff1$6070, fl1]*
-            Yv2bar[ff2, fl1] - 60*lambda3*YE1bar[ff1$6070, ff1]*
-            Yv2[ff1$6070, fl1]*Yv2bar[ff2, fl1] - 10*YE1[Xflavor1$6555, 
-             Xflavor1$6129]*YE1bar[ff1$6071, Xflavor1$6129]*
-            YE1bar[Xflavor1$6555, ff1]*Yv2[ff1$6071, fl1]*Yv2bar[ff2, fl1] + 
-           10*YE1[Xflavor1$6583, Xflavor1$6129]*YE1bar[ff1$6071, 
-             Xflavor1$6129]*YE1bar[Xflavor1$6583, ff1]*Yv2[ff1$6071, fl1]*
+           60*YE1bar[ff2, ff2$8463]*YE2[fl1, ff2$8463]*YE2bar[fl2, ff1]*
+            Yv1[fl2, fl3]*Yv1bar[fl1, fl3] - 120*lambda6*YE1bar[ff1$8463, 
+             ff1]*Yv1bar[ff2, fl1]*Yv2[ff1$8463, fl1] + 180*lambda6bar*
+            YE1bar[ff1$8463, ff1]*Yv1[ff1$8463, fl1]*Yv2bar[ff2, fl1] + 
+           120*invepsilonbar*lambda6bar*YE1bar[ff1$8463, ff1]*
+            Yv1[ff1$8463, fl1]*Yv2bar[ff2, fl1] - 120*lambda6bar*
+            Log[mH22^2/\[Mu]^2]*YE1bar[ff1$8463, ff1]*Yv1[ff1$8463, fl1]*
+            Yv2bar[ff2, fl1] - 60*lambda3*YE1bar[ff1$8463, ff1]*
+            Yv2[ff1$8463, fl1]*Yv2bar[ff2, fl1] - 10*YE1[Xflavor1$6553, 
+             Xflavor1$6127]*YE1bar[ff1$8464, Xflavor1$6127]*
+            YE1bar[Xflavor1$6553, ff1]*Yv2[ff1$8464, fl1]*Yv2bar[ff2, fl1] + 
+           10*YE1[Xflavor1$6581, Xflavor1$6127]*YE1bar[ff1$8464, 
+             Xflavor1$6127]*YE1bar[Xflavor1$6581, ff1]*Yv2[ff1$8464, fl1]*
             Yv2bar[ff2, fl1] - 30*lambda6*YE2bar[MIF1, ff1]*Yv2[MIF1, fl1]*
             Yv2bar[ff2, fl1] - 60*invepsilonbar*lambda6*YE2bar[MIF1, ff1]*
             Yv2[MIF1, fl1]*Yv2bar[ff2, fl1] + 60*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -9310,14 +9310,14 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Yv2bar[ff2, fl2] + 240*lambda3*YE2bar[fl1, ff1]*Yv1[fl1, fl2]*
             Yv2bar[ff2, fl2] - 120*lambda1*Log[mH22^2/\[Mu]^2]*
             YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 
-           60*YE1[Xflavor1$6476, ff1$6072]*YE1bar[Xflavor1$6476, ff1]*
-            YE2bar[fl1, ff1$6072]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] + 
-           60*YE1[Xflavor1$6555, ff1$6072]*YE1bar[Xflavor1$6555, ff1]*
-            YE2bar[fl1, ff1$6072]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 
-           60*YE1[Xflavor1$6583, ff1$6072]*YE1bar[Xflavor1$6583, ff1]*
-            YE2bar[fl1, ff1$6072]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 
-           60*YE1bar[ff1$6070, ff1]*Yv1[fl1, fl2]*Yv1bar[fl1, fl3]*
-            Yv2[ff1$6070, fl3]*Yv2bar[ff2, fl2] + 240*lambda6*
+           60*YE1[Xflavor1$6474, ff1$8465]*YE1bar[Xflavor1$6474, ff1]*
+            YE2bar[fl1, ff1$8465]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] + 
+           60*YE1[Xflavor1$6553, ff1$8465]*YE1bar[Xflavor1$6553, ff1]*
+            YE2bar[fl1, ff1$8465]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 
+           60*YE1[Xflavor1$6581, ff1$8465]*YE1bar[Xflavor1$6581, ff1]*
+            YE2bar[fl1, ff1$8465]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 
+           60*YE1bar[ff1$8463, ff1]*Yv1[fl1, fl2]*Yv1bar[fl1, fl3]*
+            Yv2[ff1$8463, fl3]*Yv2bar[ff2, fl2] + 240*lambda6*
             YE2bar[fl1, ff1]*Yv2[fl1, fl2]*Yv2bar[ff2, fl2] + 
            240*invepsilonbar*lambda6*YE2bar[fl1, ff1]*Yv2[fl1, fl2]*
             Yv2bar[ff2, fl2] - 240*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -9327,44 +9327,44 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             Yv1[fl1, fl4]*Yv1[fl2, fl3]*Yv1bar[fl2, fl4]*Yv2bar[ff2, fl3] + 
            240*Log[mH22^2/\[Mu]^2]*YE2bar[fl1, ff1]*Yv1[fl1, fl4]*
             Yv1[fl2, fl3]*Yv1bar[fl2, fl4]*Yv2bar[ff2, fl3] + 
-           10*YE1[ff2$6071, Xflavor1$6131]*YE1bar[ff1$6071, ff1]*
-            YE1bar[ff2, Xflavor1$6131]*Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, 
-             fl1] + 10*YE1[ff2$6071, Xflavor1$6556]*YE1bar[ff1$6071, ff1]*
-            YE1bar[ff2, Xflavor1$6556]*Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, 
-             fl1] - 60*YE1[ff2$6072, Xflavor1$6556]*YE1bar[ff2, 
-             Xflavor1$6556]*YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2$6072, 
+           10*YE1[ff2$8464, Xflavor1$6129]*YE1bar[ff1$8464, ff1]*
+            YE1bar[ff2, Xflavor1$6129]*Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, 
+             fl1] + 10*YE1[ff2$8464, Xflavor1$6554]*YE1bar[ff1$8464, ff1]*
+            YE1bar[ff2, Xflavor1$6554]*Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, 
+             fl1] - 60*YE1[ff2$8465, Xflavor1$6554]*YE1bar[ff2, 
+             Xflavor1$6554]*YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2$8465, 
              fl2]))/(3840*mH22^2*Pi^2), alphac6uHbar[ff2_, ff1_] -> 
        (lambda6bar*YU2bar[ff2, ff1])/mH22^2 + 
-        (onelooporder*(-120*lambda6bar*YD1bar[ff2, fl1]*YD2[ff1$6070, fl1]*
-            YU1bar[ff1$6070, ff1] + 180*lambda6*YD1[ff1$6070, fl1]*
-            YD2bar[ff2, fl1]*YU1bar[ff1$6070, ff1] + 120*invepsilonbar*
-            lambda6*YD1[ff1$6070, fl1]*YD2bar[ff2, fl1]*YU1bar[ff1$6070, 
-             ff1] - 120*lambda6*Log[mH22^2/\[Mu]^2]*YD1[ff1$6070, fl1]*
-            YD2bar[ff2, fl1]*YU1bar[ff1$6070, ff1] - 60*lambda3*
-            YD2[ff1$6070, fl1]*YD2bar[ff2, fl1]*YU1bar[ff1$6070, ff1] - 
-           60*YD1[fl1, fl2]*YD1bar[fl1, fl3]*YD2[ff1$6070, fl3]*
-            YD2bar[ff2, fl2]*YU1bar[ff1$6070, ff1] - g2^4*YU1bar[ff2, ff1] + 
+        (onelooporder*(-120*lambda6bar*YD1bar[ff2, fl1]*YD2[ff1$8463, fl1]*
+            YU1bar[ff1$8463, ff1] + 180*lambda6*YD1[ff1$8463, fl1]*
+            YD2bar[ff2, fl1]*YU1bar[ff1$8463, ff1] + 120*invepsilonbar*
+            lambda6*YD1[ff1$8463, fl1]*YD2bar[ff2, fl1]*YU1bar[ff1$8463, 
+             ff1] - 120*lambda6*Log[mH22^2/\[Mu]^2]*YD1[ff1$8463, fl1]*
+            YD2bar[ff2, fl1]*YU1bar[ff1$8463, ff1] - 60*lambda3*
+            YD2[ff1$8463, fl1]*YD2bar[ff2, fl1]*YU1bar[ff1$8463, ff1] - 
+           60*YD1[fl1, fl2]*YD1bar[fl1, fl3]*YD2[ff1$8463, fl3]*
+            YD2bar[ff2, fl2]*YU1bar[ff1$8463, ff1] - g2^4*YU1bar[ff2, ff1] + 
            20*lambda4^2*YU1bar[ff2, ff1] + 20*lambda5*lambda5bar*
             YU1bar[ff2, ff1] + 240*lambda6*lambda6bar*YU1bar[ff2, ff1] - 
            720*lambda6bar*lambda7*YU1bar[ff2, ff1] - 720*invepsilonbar*
             lambda6bar*lambda7*YU1bar[ff2, ff1] + 720*lambda6bar*lambda7*
-            Log[mH22^2/\[Mu]^2]*YU1bar[ff2, ff1] + 10*YD2[ff1$6071, fl1]*
-            YD2bar[ff2$6071, fl1]*YU1[ff2$6071, Xflavor1$6091]*
-            YU1bar[ff1$6071, ff1]*YU1bar[ff2, Xflavor1$6091] + 
-           10*YD2[ff1$6071, fl1]*YD2bar[ff2$6071, fl1]*YU1[ff2$6071, 
-             Xflavor1$6492]*YU1bar[ff1$6071, ff1]*YU1bar[ff2, 
-             Xflavor1$6492] - 240*lambda6*YD1[fl1, fl2]*YD2bar[ff2, fl2]*
+            Log[mH22^2/\[Mu]^2]*YU1bar[ff2, ff1] + 10*YD2[ff1$8464, fl1]*
+            YD2bar[ff2$8464, fl1]*YU1[ff2$8464, Xflavor1$6089]*
+            YU1bar[ff1$8464, ff1]*YU1bar[ff2, Xflavor1$6089] + 
+           10*YD2[ff1$8464, fl1]*YD2bar[ff2$8464, fl1]*YU1[ff2$8464, 
+             Xflavor1$6490]*YU1bar[ff1$8464, ff1]*YU1bar[ff2, 
+             Xflavor1$6490] - 240*lambda6*YD1[fl1, fl2]*YD2bar[ff2, fl2]*
             YU1bar[fl1, ff1] - 240*invepsilonbar*lambda6*YD1[fl1, fl2]*
             YD2bar[ff2, fl2]*YU1bar[fl1, ff1] + 240*lambda6*
             Log[mH22^2/\[Mu]^2]*YD1[fl1, fl2]*YD2bar[ff2, fl2]*
-            YU1bar[fl1, ff1] - 10*YD2[ff1$6071, fl1]*YD2bar[ff2, fl1]*
-            YU1[Xflavor1$6490, Xflavor1$6089]*YU1bar[ff1$6071, Xflavor1$6089]*
-            YU1bar[Xflavor1$6490, ff1] + 10*YD2[ff1$6071, fl1]*
-            YD2bar[ff2, fl1]*YU1[Xflavor1$6574, Xflavor1$6089]*
-            YU1bar[ff1$6071, Xflavor1$6089]*YU1bar[Xflavor1$6574, ff1] - 
-           240*lambda6*YU1bar[ff1$6070, ff1]*YU1bar[ff2, fl1]*
-            YU2[ff1$6070, fl1] - 360*lambda6*YU1bar[ff2, ff2$6070]*
-            YU1bar[fl1, ff1]*YU2[fl1, ff2$6070] - 1200*lambda5bar*lambda6*
+            YU1bar[fl1, ff1] - 10*YD2[ff1$8464, fl1]*YD2bar[ff2, fl1]*
+            YU1[Xflavor1$6488, Xflavor1$6087]*YU1bar[ff1$8464, Xflavor1$6087]*
+            YU1bar[Xflavor1$6488, ff1] + 10*YD2[ff1$8464, fl1]*
+            YD2bar[ff2, fl1]*YU1[Xflavor1$6572, Xflavor1$6087]*
+            YU1bar[ff1$8464, Xflavor1$6087]*YU1bar[Xflavor1$6572, ff1] - 
+           240*lambda6*YU1bar[ff1$8463, ff1]*YU1bar[ff2, fl1]*
+            YU2[ff1$8463, fl1] - 360*lambda6*YU1bar[ff2, ff2$8463]*
+            YU1bar[fl1, ff1]*YU2[fl1, ff2$8463] - 1200*lambda5bar*lambda6*
             YU2bar[ff2, ff1] - 1200*invepsilonbar*lambda5bar*lambda6*
             YU2bar[ff2, ff1] + 720*lambda2*lambda6bar*YU2bar[ff2, ff1] + 
            720*invepsilonbar*lambda2*lambda6bar*YU2bar[ff2, ff1] - 
@@ -9384,28 +9384,28 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            480*lambda5bar*lambda7*Log[mH22^2/\[Mu]^2]*YU2bar[ff2, ff1] + 
            720*lambda1*lambda7bar*Log[mH22^2/\[Mu]^2]*YU2bar[ff2, ff1] - 
            240*lambda4*lambda7bar*Log[mH22^2/\[Mu]^2]*YU2bar[ff2, ff1] + 
-           360*lambda6bar*YU1[ff1$6070, fl1]*YU1bar[ff1$6070, ff1]*
+           360*lambda6bar*YU1[ff1$8463, fl1]*YU1bar[ff1$8463, ff1]*
             YU2bar[ff2, fl1] + 240*invepsilonbar*lambda6bar*
-            YU1[ff1$6070, fl1]*YU1bar[ff1$6070, ff1]*YU2bar[ff2, fl1] - 
-           240*lambda6bar*Log[mH22^2/\[Mu]^2]*YU1[ff1$6070, fl1]*
-            YU1bar[ff1$6070, ff1]*YU2bar[ff2, fl1] - 60*lambda3*
-            YU1bar[ff1$6070, ff1]*YU2[ff1$6070, fl1]*YU2bar[ff2, fl1] - 
-           60*lambda4*YU1bar[ff1$6070, ff1]*YU2[ff1$6070, fl1]*
-            YU2bar[ff2, fl1] - 10*YU1[Xflavor1$6490, Xflavor1$6089]*
-            YU1bar[ff1$6071, Xflavor1$6089]*YU1bar[Xflavor1$6490, ff1]*
-            YU2[ff1$6071, fl1]*YU2bar[ff2, fl1] + 10*YU1[Xflavor1$6574, 
-             Xflavor1$6089]*YU1bar[ff1$6071, Xflavor1$6089]*
-            YU1bar[Xflavor1$6574, ff1]*YU2[ff1$6071, fl1]*YU2bar[ff2, fl1] + 
+            YU1[ff1$8463, fl1]*YU1bar[ff1$8463, ff1]*YU2bar[ff2, fl1] - 
+           240*lambda6bar*Log[mH22^2/\[Mu]^2]*YU1[ff1$8463, fl1]*
+            YU1bar[ff1$8463, ff1]*YU2bar[ff2, fl1] - 60*lambda3*
+            YU1bar[ff1$8463, ff1]*YU2[ff1$8463, fl1]*YU2bar[ff2, fl1] - 
+           60*lambda4*YU1bar[ff1$8463, ff1]*YU2[ff1$8463, fl1]*
+            YU2bar[ff2, fl1] - 10*YU1[Xflavor1$6488, Xflavor1$6087]*
+            YU1bar[ff1$8464, Xflavor1$6087]*YU1bar[Xflavor1$6488, ff1]*
+            YU2[ff1$8464, fl1]*YU2bar[ff2, fl1] + 10*YU1[Xflavor1$6572, 
+             Xflavor1$6087]*YU1bar[ff1$8464, Xflavor1$6087]*
+            YU1bar[Xflavor1$6572, ff1]*YU2[ff1$8464, fl1]*YU2bar[ff2, fl1] + 
            240*lambda6bar*YU1[fl1, fl2]*YU1bar[fl1, ff1]*YU2bar[ff2, fl2] + 
            240*invepsilonbar*lambda6bar*YU1[fl1, fl2]*YU1bar[fl1, ff1]*
             YU2bar[ff2, fl2] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
             YU1[fl1, fl2]*YU1bar[fl1, ff1]*YU2bar[ff2, fl2] - 
-           60*YU1[fl1, fl2]*YU1bar[ff1$6070, ff1]*YU1bar[fl1, fl3]*
-            YU2[ff1$6070, fl3]*YU2bar[ff2, fl2] + 
-           10*YU1[ff2$6071, Xflavor1$6091]*YU1bar[ff1$6071, ff1]*
-            YU1bar[ff2, Xflavor1$6091]*YU2[ff1$6071, fl1]*YU2bar[ff2$6071, 
-             fl1] + 10*YU1[ff2$6071, Xflavor1$6492]*YU1bar[ff1$6071, ff1]*
-            YU1bar[ff2, Xflavor1$6492]*YU2[ff1$6071, fl1]*YU2bar[ff2$6071, 
+           60*YU1[fl1, fl2]*YU1bar[ff1$8463, ff1]*YU1bar[fl1, fl3]*
+            YU2[ff1$8463, fl3]*YU2bar[ff2, fl2] + 
+           10*YU1[ff2$8464, Xflavor1$6089]*YU1bar[ff1$8464, ff1]*
+            YU1bar[ff2, Xflavor1$6089]*YU2[ff1$8464, fl1]*YU2bar[ff2$8464, 
+             fl1] + 10*YU1[ff2$8464, Xflavor1$6490]*YU1bar[ff1$8464, ff1]*
+            YU1bar[ff2, Xflavor1$6490]*YU2[ff1$8464, fl1]*YU2bar[ff2$8464, 
              fl1] - 240*lambda6bar*YD1[fl1, fl2]*YD1bar[ff2, fl2]*
             YU2bar[fl1, ff1] - 240*invepsilonbar*lambda6bar*YD1[fl1, fl2]*
             YD1bar[ff2, fl2]*YU2bar[fl1, ff1] + 240*lambda6bar*
@@ -9419,39 +9419,39 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YU2bar[fl1, ff1] + 240*invepsilonbar*lambda6bar*YD2[fl1, fl2]*
             YD2bar[ff2, fl2]*YU2bar[fl1, ff1] - 240*lambda6bar*
             Log[mH22^2/\[Mu]^2]*YD2[fl1, fl2]*YD2bar[ff2, fl2]*
-            YU2bar[fl1, ff1] + 540*lambda6bar*YU1[fl1, ff2$6070]*
-            YU1bar[ff2, ff2$6070]*YU2bar[fl1, ff1] + 360*invepsilonbar*
-            lambda6bar*YU1[fl1, ff2$6070]*YU1bar[ff2, ff2$6070]*
+            YU2bar[fl1, ff1] + 540*lambda6bar*YU1[fl1, ff2$8463]*
+            YU1bar[ff2, ff2$8463]*YU2bar[fl1, ff1] + 360*invepsilonbar*
+            lambda6bar*YU1[fl1, ff2$8463]*YU1bar[ff2, ff2$8463]*
             YU2bar[fl1, ff1] - 360*lambda6bar*Log[mH22^2/\[Mu]^2]*
-            YU1[fl1, ff2$6070]*YU1bar[ff2, ff2$6070]*YU2bar[fl1, ff1] + 
+            YU1[fl1, ff2$8463]*YU1bar[ff2, ff2$8463]*YU2bar[fl1, ff1] + 
            240*lambda6bar*YU1[fl1, fl2]*YU1bar[ff2, fl2]*YU2bar[fl1, ff1] + 
            240*invepsilonbar*lambda6bar*YU1[fl1, fl2]*YU1bar[ff2, fl2]*
             YU2bar[fl1, ff1] - 240*lambda6bar*Log[mH22^2/\[Mu]^2]*
             YU1[fl1, fl2]*YU1bar[ff2, fl2]*YU2bar[fl1, ff1] - 
-           60*YD1[fl1, fl2]*YD2bar[ff2$6072, fl2]*YU1[ff2$6072, 
-             Xflavor1$6492]*YU1bar[ff2, Xflavor1$6492]*YU2bar[fl1, ff1] - 
-           120*lambda3*YU1bar[ff2, ff2$6070]*YU2[fl1, ff2$6070]*
-            YU2bar[fl1, ff1] - 60*lambda4*YU1bar[ff2, ff2$6070]*
-            YU2[fl1, ff2$6070]*YU2bar[fl1, ff1] - 60*YD1[fl1, fl2]*
-            YD1bar[fl3, fl2]*YU1bar[ff2, ff2$6070]*YU2[fl3, ff2$6070]*
-            YU2bar[fl1, ff1] - 60*YU1[fl1, fl2]*YU1bar[ff2, ff2$6070]*
-            YU1bar[fl3, fl2]*YU2[fl3, ff2$6070]*YU2bar[fl1, ff1] - 
+           60*YD1[fl1, fl2]*YD2bar[ff2$8465, fl2]*YU1[ff2$8465, 
+             Xflavor1$6490]*YU1bar[ff2, Xflavor1$6490]*YU2bar[fl1, ff1] - 
+           120*lambda3*YU1bar[ff2, ff2$8463]*YU2[fl1, ff2$8463]*
+            YU2bar[fl1, ff1] - 60*lambda4*YU1bar[ff2, ff2$8463]*
+            YU2[fl1, ff2$8463]*YU2bar[fl1, ff1] - 60*YD1[fl1, fl2]*
+            YD1bar[fl3, fl2]*YU1bar[ff2, ff2$8463]*YU2[fl3, ff2$8463]*
+            YU2bar[fl1, ff1] - 60*YU1[fl1, fl2]*YU1bar[ff2, ff2$8463]*
+            YU1bar[fl3, fl2]*YU2[fl3, ff2$8463]*YU2bar[fl1, ff1] - 
            240*lambda5bar*YU1[fl1, fl2]*YU2bar[ff2, fl2]*YU2bar[fl1, ff1] - 
            60*lambda6bar*YU2[fl1, MIF1]*YU2bar[ff2, MIF1]*YU2bar[fl1, ff1] - 
            120*invepsilonbar*lambda6bar*YU2[fl1, MIF1]*YU2bar[ff2, MIF1]*
             YU2bar[fl1, ff1] + 120*lambda6bar*Log[mH22^2/\[Mu]^2]*
             YU2[fl1, MIF1]*YU2bar[ff2, MIF1]*YU2bar[fl1, ff1] + 
-           20*YU1[Xflavor1$6103, ff1$6071]*YU1bar[ff2, ff2$6071]*
-            YU1bar[Xflavor1$6103, ff1]*YU2[fl1, ff2$6071]*
-            YU2bar[fl1, ff1$6071] + 20*YU1[Xflavor1$6574, ff1$6071]*
-            YU1bar[ff2, ff2$6071]*YU1bar[Xflavor1$6574, ff1]*
-            YU2[fl1, ff2$6071]*YU2bar[fl1, ff1$6071] - 60*YD1[fl1, fl2]*
-            YD2bar[ff2, fl2]*YU1[Xflavor1$6436, ff1$6072]*
-            YU1bar[Xflavor1$6436, ff1]*YU2bar[fl1, ff1$6072] + 
-           60*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[Xflavor1$6490, ff1$6072]*
-            YU1bar[Xflavor1$6490, ff1]*YU2bar[fl1, ff1$6072] - 
-           60*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[Xflavor1$6574, ff1$6072]*
-            YU1bar[Xflavor1$6574, ff1]*YU2bar[fl1, ff1$6072] - 
+           20*YU1[Xflavor1$6101, ff1$8464]*YU1bar[ff2, ff2$8464]*
+            YU1bar[Xflavor1$6101, ff1]*YU2[fl1, ff2$8464]*
+            YU2bar[fl1, ff1$8464] + 20*YU1[Xflavor1$6572, ff1$8464]*
+            YU1bar[ff2, ff2$8464]*YU1bar[Xflavor1$6572, ff1]*
+            YU2[fl1, ff2$8464]*YU2bar[fl1, ff1$8464] - 60*YD1[fl1, fl2]*
+            YD2bar[ff2, fl2]*YU1[Xflavor1$6434, ff1$8465]*
+            YU1bar[Xflavor1$6434, ff1]*YU2bar[fl1, ff1$8465] + 
+           60*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[Xflavor1$6488, ff1$8465]*
+            YU1bar[Xflavor1$6488, ff1]*YU2bar[fl1, ff1$8465] - 
+           60*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[Xflavor1$6572, ff1$8465]*
+            YU1bar[Xflavor1$6572, ff1]*YU2bar[fl1, ff1$8465] - 
            240*YD1[fl1, fl2]*YD1[fl3, fl4]*YD1bar[fl1, fl4]*YD2bar[ff2, fl2]*
             YU2bar[fl3, ff1] - 240*invepsilonbar*YD1[fl1, fl2]*YD1[fl3, fl4]*
             YD1bar[fl1, fl4]*YD2bar[ff2, fl2]*YU2bar[fl3, ff1] + 
@@ -9472,9 +9472,9 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            240*lambda6*lambda6bar*YD1bar[ff2, ff1] - 720*lambda6*lambda7bar*
             YD1bar[ff2, ff1] - 720*invepsilonbar*lambda6*lambda7bar*
             YD1bar[ff2, ff1] + 720*lambda6*lambda7bar*Log[mH22^2/\[Mu]^2]*
-            YD1bar[ff2, ff1] - 240*lambda6bar*YD1bar[ff1$6070, ff1]*
-            YD1bar[ff2, fl1]*YD2[ff1$6070, fl1] - 360*lambda6bar*
-            YD1bar[ff2, ff2$6070]*YD1bar[fl1, ff1]*YD2[fl1, ff2$6070] + 
+            YD1bar[ff2, ff1] - 240*lambda6bar*YD1bar[ff1$8463, ff1]*
+            YD1bar[ff2, fl1]*YD2[ff1$8463, fl1] - 360*lambda6bar*
+            YD1bar[ff2, ff2$8463]*YD1bar[fl1, ff1]*YD2[fl1, ff2$8463] + 
            720*lambda2*lambda6*YD2bar[ff2, ff1] + 720*invepsilonbar*lambda2*
             lambda6*YD2bar[ff2, ff1] - 720*lambda3*lambda6*YD2bar[ff2, ff1] - 
            720*invepsilonbar*lambda3*lambda6*YD2bar[ff2, ff1] - 
@@ -9494,50 +9494,50 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            720*lambda1*lambda7*Log[mH22^2/\[Mu]^2]*YD2bar[ff2, ff1] - 
            240*lambda4*lambda7*Log[mH22^2/\[Mu]^2]*YD2bar[ff2, ff1] - 
            480*lambda5*lambda7bar*Log[mH22^2/\[Mu]^2]*YD2bar[ff2, ff1] + 
-           360*lambda6*YD1[ff1$6070, fl1]*YD1bar[ff1$6070, ff1]*
-            YD2bar[ff2, fl1] + 240*invepsilonbar*lambda6*YD1[ff1$6070, fl1]*
-            YD1bar[ff1$6070, ff1]*YD2bar[ff2, fl1] - 240*lambda6*
-            Log[mH22^2/\[Mu]^2]*YD1[ff1$6070, fl1]*YD1bar[ff1$6070, ff1]*
-            YD2bar[ff2, fl1] - 60*lambda3*YD1bar[ff1$6070, ff1]*
-            YD2[ff1$6070, fl1]*YD2bar[ff2, fl1] - 60*lambda4*
-            YD1bar[ff1$6070, ff1]*YD2[ff1$6070, fl1]*YD2bar[ff2, fl1] - 
-           10*YD1[Xflavor1$6512, Xflavor1$6089]*YD1bar[ff1$6071, 
-             Xflavor1$6089]*YD1bar[Xflavor1$6512, ff1]*YD2[ff1$6071, fl1]*
-            YD2bar[ff2, fl1] + 10*YD1[Xflavor1$6577, Xflavor1$6089]*
-            YD1bar[ff1$6071, Xflavor1$6089]*YD1bar[Xflavor1$6577, ff1]*
-            YD2[ff1$6071, fl1]*YD2bar[ff2, fl1] + 240*lambda6*YD1[fl1, fl2]*
+           360*lambda6*YD1[ff1$8463, fl1]*YD1bar[ff1$8463, ff1]*
+            YD2bar[ff2, fl1] + 240*invepsilonbar*lambda6*YD1[ff1$8463, fl1]*
+            YD1bar[ff1$8463, ff1]*YD2bar[ff2, fl1] - 240*lambda6*
+            Log[mH22^2/\[Mu]^2]*YD1[ff1$8463, fl1]*YD1bar[ff1$8463, ff1]*
+            YD2bar[ff2, fl1] - 60*lambda3*YD1bar[ff1$8463, ff1]*
+            YD2[ff1$8463, fl1]*YD2bar[ff2, fl1] - 60*lambda4*
+            YD1bar[ff1$8463, ff1]*YD2[ff1$8463, fl1]*YD2bar[ff2, fl1] - 
+           10*YD1[Xflavor1$6510, Xflavor1$6087]*YD1bar[ff1$8464, 
+             Xflavor1$6087]*YD1bar[Xflavor1$6510, ff1]*YD2[ff1$8464, fl1]*
+            YD2bar[ff2, fl1] + 10*YD1[Xflavor1$6575, Xflavor1$6087]*
+            YD1bar[ff1$8464, Xflavor1$6087]*YD1bar[Xflavor1$6575, ff1]*
+            YD2[ff1$8464, fl1]*YD2bar[ff2, fl1] + 240*lambda6*YD1[fl1, fl2]*
             YD1bar[fl1, ff1]*YD2bar[ff2, fl2] + 240*invepsilonbar*lambda6*
             YD1[fl1, fl2]*YD1bar[fl1, ff1]*YD2bar[ff2, fl2] - 
            240*lambda6*Log[mH22^2/\[Mu]^2]*YD1[fl1, fl2]*YD1bar[fl1, ff1]*
-            YD2bar[ff2, fl2] - 60*YD1[fl1, fl2]*YD1bar[ff1$6070, ff1]*
-            YD1bar[fl1, fl3]*YD2[ff1$6070, fl3]*YD2bar[ff2, fl2] + 
-           10*YD1[ff2$6071, Xflavor1$6091]*YD1bar[ff1$6071, ff1]*
-            YD1bar[ff2, Xflavor1$6091]*YD2[ff1$6071, fl1]*YD2bar[ff2$6071, 
-             fl1] + 10*YD1[ff2$6071, Xflavor1$6513]*YD1bar[ff1$6071, ff1]*
-            YD1bar[ff2, Xflavor1$6513]*YD2[ff1$6071, fl1]*YD2bar[ff2$6071, 
-             fl1] + 540*lambda6*YD1[fl1, ff2$6070]*YD1bar[ff2, ff2$6070]*
-            YD2bar[fl1, ff1] + 360*invepsilonbar*lambda6*YD1[fl1, ff2$6070]*
-            YD1bar[ff2, ff2$6070]*YD2bar[fl1, ff1] - 360*lambda6*
-            Log[mH22^2/\[Mu]^2]*YD1[fl1, ff2$6070]*YD1bar[ff2, ff2$6070]*
+            YD2bar[ff2, fl2] - 60*YD1[fl1, fl2]*YD1bar[ff1$8463, ff1]*
+            YD1bar[fl1, fl3]*YD2[ff1$8463, fl3]*YD2bar[ff2, fl2] + 
+           10*YD1[ff2$8464, Xflavor1$6089]*YD1bar[ff1$8464, ff1]*
+            YD1bar[ff2, Xflavor1$6089]*YD2[ff1$8464, fl1]*YD2bar[ff2$8464, 
+             fl1] + 10*YD1[ff2$8464, Xflavor1$6511]*YD1bar[ff1$8464, ff1]*
+            YD1bar[ff2, Xflavor1$6511]*YD2[ff1$8464, fl1]*YD2bar[ff2$8464, 
+             fl1] + 540*lambda6*YD1[fl1, ff2$8463]*YD1bar[ff2, ff2$8463]*
+            YD2bar[fl1, ff1] + 360*invepsilonbar*lambda6*YD1[fl1, ff2$8463]*
+            YD1bar[ff2, ff2$8463]*YD2bar[fl1, ff1] - 360*lambda6*
+            Log[mH22^2/\[Mu]^2]*YD1[fl1, ff2$8463]*YD1bar[ff2, ff2$8463]*
             YD2bar[fl1, ff1] + 240*lambda6*YD1[fl1, fl2]*YD1bar[ff2, fl2]*
             YD2bar[fl1, ff1] + 240*invepsilonbar*lambda6*YD1[fl1, fl2]*
             YD1bar[ff2, fl2]*YD2bar[fl1, ff1] - 240*lambda6*
             Log[mH22^2/\[Mu]^2]*YD1[fl1, fl2]*YD1bar[ff2, fl2]*
-            YD2bar[fl1, ff1] - 120*lambda3*YD1bar[ff2, ff2$6070]*
-            YD2[fl1, ff2$6070]*YD2bar[fl1, ff1] - 60*lambda4*
-            YD1bar[ff2, ff2$6070]*YD2[fl1, ff2$6070]*YD2bar[fl1, ff1] - 
-           60*YD1[fl1, fl2]*YD1bar[ff2, ff2$6070]*YD1bar[fl3, fl2]*
-            YD2[fl3, ff2$6070]*YD2bar[fl1, ff1] - 240*lambda5*YD1[fl1, fl2]*
+            YD2bar[fl1, ff1] - 120*lambda3*YD1bar[ff2, ff2$8463]*
+            YD2[fl1, ff2$8463]*YD2bar[fl1, ff1] - 60*lambda4*
+            YD1bar[ff2, ff2$8463]*YD2[fl1, ff2$8463]*YD2bar[fl1, ff1] - 
+           60*YD1[fl1, fl2]*YD1bar[ff2, ff2$8463]*YD1bar[fl3, fl2]*
+            YD2[fl3, ff2$8463]*YD2bar[fl1, ff1] - 240*lambda5*YD1[fl1, fl2]*
             YD2bar[ff2, fl2]*YD2bar[fl1, ff1] - 60*lambda6*YD2[fl1, MIF1]*
             YD2bar[ff2, MIF1]*YD2bar[fl1, ff1] - 120*invepsilonbar*lambda6*
             YD2[fl1, MIF1]*YD2bar[ff2, MIF1]*YD2bar[fl1, ff1] + 
            120*lambda6*Log[mH22^2/\[Mu]^2]*YD2[fl1, MIF1]*YD2bar[ff2, MIF1]*
-            YD2bar[fl1, ff1] + 20*YD1[Xflavor1$6117, ff1$6071]*
-            YD1bar[ff2, ff2$6071]*YD1bar[Xflavor1$6117, ff1]*
-            YD2[fl1, ff2$6071]*YD2bar[fl1, ff1$6071] + 
-           20*YD1[Xflavor1$6577, ff1$6071]*YD1bar[ff2, ff2$6071]*
-            YD1bar[Xflavor1$6577, ff1]*YD2[fl1, ff2$6071]*
-            YD2bar[fl1, ff1$6071] - 30*lambda6*YD2[MIF1, fl1]*
+            YD2bar[fl1, ff1] + 20*YD1[Xflavor1$6115, ff1$8464]*
+            YD1bar[ff2, ff2$8464]*YD1bar[Xflavor1$6115, ff1]*
+            YD2[fl1, ff2$8464]*YD2bar[fl1, ff1$8464] + 
+           20*YD1[Xflavor1$6575, ff1$8464]*YD1bar[ff2, ff2$8464]*
+            YD1bar[Xflavor1$6575, ff1]*YD2[fl1, ff2$8464]*
+            YD2bar[fl1, ff1$8464] - 30*lambda6*YD2[MIF1, fl1]*
             YD2bar[ff2, fl1]*YD2bar[MIF1, ff1] - 60*invepsilonbar*lambda6*
             YD2[MIF1, fl1]*YD2bar[ff2, fl1]*YD2bar[MIF1, ff1] + 
            60*lambda6*Log[mH22^2/\[Mu]^2]*YD2[MIF1, fl1]*YD2bar[ff2, fl1]*
@@ -9545,19 +9545,19 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YU1bar[ff2, fl2] - 240*invepsilonbar*lambda6*YD2bar[fl1, ff1]*
             YU1[fl1, fl2]*YU1bar[ff2, fl2] + 240*lambda6*Log[mH22^2/\[Mu]^2]*
             YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU1bar[ff2, fl2] - 
-           60*YD1bar[ff2, ff2$6070]*YD2[fl1, ff2$6070]*YD2bar[fl2, ff1]*
-            YU1[fl2, fl3]*YU1bar[fl1, fl3] - 120*lambda6*YD1bar[ff1$6070, 
-             ff1]*YU1bar[ff2, fl1]*YU2[ff1$6070, fl1] + 180*lambda6bar*
-            YD1bar[ff1$6070, ff1]*YU1[ff1$6070, fl1]*YU2bar[ff2, fl1] + 
-           120*invepsilonbar*lambda6bar*YD1bar[ff1$6070, ff1]*
-            YU1[ff1$6070, fl1]*YU2bar[ff2, fl1] - 120*lambda6bar*
-            Log[mH22^2/\[Mu]^2]*YD1bar[ff1$6070, ff1]*YU1[ff1$6070, fl1]*
-            YU2bar[ff2, fl1] - 60*lambda3*YD1bar[ff1$6070, ff1]*
-            YU2[ff1$6070, fl1]*YU2bar[ff2, fl1] - 10*YD1[Xflavor1$6512, 
-             Xflavor1$6089]*YD1bar[ff1$6071, Xflavor1$6089]*
-            YD1bar[Xflavor1$6512, ff1]*YU2[ff1$6071, fl1]*YU2bar[ff2, fl1] + 
-           10*YD1[Xflavor1$6577, Xflavor1$6089]*YD1bar[ff1$6071, 
-             Xflavor1$6089]*YD1bar[Xflavor1$6577, ff1]*YU2[ff1$6071, fl1]*
+           60*YD1bar[ff2, ff2$8463]*YD2[fl1, ff2$8463]*YD2bar[fl2, ff1]*
+            YU1[fl2, fl3]*YU1bar[fl1, fl3] - 120*lambda6*YD1bar[ff1$8463, 
+             ff1]*YU1bar[ff2, fl1]*YU2[ff1$8463, fl1] + 180*lambda6bar*
+            YD1bar[ff1$8463, ff1]*YU1[ff1$8463, fl1]*YU2bar[ff2, fl1] + 
+           120*invepsilonbar*lambda6bar*YD1bar[ff1$8463, ff1]*
+            YU1[ff1$8463, fl1]*YU2bar[ff2, fl1] - 120*lambda6bar*
+            Log[mH22^2/\[Mu]^2]*YD1bar[ff1$8463, ff1]*YU1[ff1$8463, fl1]*
+            YU2bar[ff2, fl1] - 60*lambda3*YD1bar[ff1$8463, ff1]*
+            YU2[ff1$8463, fl1]*YU2bar[ff2, fl1] - 10*YD1[Xflavor1$6510, 
+             Xflavor1$6087]*YD1bar[ff1$8464, Xflavor1$6087]*
+            YD1bar[Xflavor1$6510, ff1]*YU2[ff1$8464, fl1]*YU2bar[ff2, fl1] + 
+           10*YD1[Xflavor1$6575, Xflavor1$6087]*YD1bar[ff1$8464, 
+             Xflavor1$6087]*YD1bar[Xflavor1$6575, ff1]*YU2[ff1$8464, fl1]*
             YU2bar[ff2, fl1] - 30*lambda6*YD2bar[MIF1, ff1]*YU2[MIF1, fl1]*
             YU2bar[ff2, fl1] - 60*invepsilonbar*lambda6*YD2bar[MIF1, ff1]*
             YU2[MIF1, fl1]*YU2bar[ff2, fl1] + 60*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -9571,14 +9571,14 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YU2bar[ff2, fl2] + 240*lambda3*YD2bar[fl1, ff1]*YU1[fl1, fl2]*
             YU2bar[ff2, fl2] - 120*lambda1*Log[mH22^2/\[Mu]^2]*
             YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2, fl2] - 
-           60*YD1[Xflavor1$6450, ff1$6072]*YD1bar[Xflavor1$6450, ff1]*
-            YD2bar[fl1, ff1$6072]*YU1[fl1, fl2]*YU2bar[ff2, fl2] + 
-           60*YD1[Xflavor1$6512, ff1$6072]*YD1bar[Xflavor1$6512, ff1]*
-            YD2bar[fl1, ff1$6072]*YU1[fl1, fl2]*YU2bar[ff2, fl2] - 
-           60*YD1[Xflavor1$6577, ff1$6072]*YD1bar[Xflavor1$6577, ff1]*
-            YD2bar[fl1, ff1$6072]*YU1[fl1, fl2]*YU2bar[ff2, fl2] - 
-           60*YD1bar[ff1$6070, ff1]*YU1[fl1, fl2]*YU1bar[fl1, fl3]*
-            YU2[ff1$6070, fl3]*YU2bar[ff2, fl2] + 240*lambda6*
+           60*YD1[Xflavor1$6448, ff1$8465]*YD1bar[Xflavor1$6448, ff1]*
+            YD2bar[fl1, ff1$8465]*YU1[fl1, fl2]*YU2bar[ff2, fl2] + 
+           60*YD1[Xflavor1$6510, ff1$8465]*YD1bar[Xflavor1$6510, ff1]*
+            YD2bar[fl1, ff1$8465]*YU1[fl1, fl2]*YU2bar[ff2, fl2] - 
+           60*YD1[Xflavor1$6575, ff1$8465]*YD1bar[Xflavor1$6575, ff1]*
+            YD2bar[fl1, ff1$8465]*YU1[fl1, fl2]*YU2bar[ff2, fl2] - 
+           60*YD1bar[ff1$8463, ff1]*YU1[fl1, fl2]*YU1bar[fl1, fl3]*
+            YU2[ff1$8463, fl3]*YU2bar[ff2, fl2] + 240*lambda6*
             YD2bar[fl1, ff1]*YU2[fl1, fl2]*YU2bar[ff2, fl2] + 
            240*invepsilonbar*lambda6*YD2bar[fl1, ff1]*YU2[fl1, fl2]*
             YU2bar[ff2, fl2] - 240*lambda6*Log[mH22^2/\[Mu]^2]*
@@ -9588,223 +9588,223 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
             YU1[fl1, fl4]*YU1[fl2, fl3]*YU1bar[fl2, fl4]*YU2bar[ff2, fl3] + 
            240*Log[mH22^2/\[Mu]^2]*YD2bar[fl1, ff1]*YU1[fl1, fl4]*
             YU1[fl2, fl3]*YU1bar[fl2, fl4]*YU2bar[ff2, fl3] + 
-           10*YD1[ff2$6071, Xflavor1$6091]*YD1bar[ff1$6071, ff1]*
-            YD1bar[ff2, Xflavor1$6091]*YU2[ff1$6071, fl1]*YU2bar[ff2$6071, 
-             fl1] + 10*YD1[ff2$6071, Xflavor1$6513]*YD1bar[ff1$6071, ff1]*
-            YD1bar[ff2, Xflavor1$6513]*YU2[ff1$6071, fl1]*YU2bar[ff2$6071, 
-             fl1] - 60*YD1[ff2$6072, Xflavor1$6513]*YD1bar[ff2, 
-             Xflavor1$6513]*YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2$6072, 
+           10*YD1[ff2$8464, Xflavor1$6089]*YD1bar[ff1$8464, ff1]*
+            YD1bar[ff2, Xflavor1$6089]*YU2[ff1$8464, fl1]*YU2bar[ff2$8464, 
+             fl1] + 10*YD1[ff2$8464, Xflavor1$6511]*YD1bar[ff1$8464, ff1]*
+            YD1bar[ff2, Xflavor1$6511]*YU2[ff1$8464, fl1]*YU2bar[ff2$8464, 
+             fl1] - 60*YD1[ff2$8465, Xflavor1$6511]*YD1bar[ff2, 
+             Xflavor1$6511]*YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2$8465, 
              fl2]))/(3840*mH22^2*Pi^2), alphac6vW[ff1_, ff2_] -> 
-       (onelooporder*(-(g2*YE2[ff1, fl1]*YE2bar[ff2$6071, fl1]*
-            Yv1[ff2$6071, ff2]) - 3*g2*YE1bar[fl1, fl2]*YE2[ff1, fl2]*
+       (onelooporder*(-(g2*YE2[ff1, fl1]*YE2bar[ff2$8464, fl1]*
+            Yv1[ff2$8464, ff2]) - 3*g2*YE1bar[fl1, fl2]*YE2[ff1, fl2]*
            Yv2[fl1, ff2] - 6*g2*invepsilonbar*YE1bar[fl1, fl2]*YE2[ff1, fl2]*
            Yv2[fl1, ff2] + 6*g2*Log[mH22^2/\[Mu]^2]*YE1bar[fl1, fl2]*
-           YE2[ff1, fl2]*Yv2[fl1, ff2] - g2*Yv1[ff2$6071, ff2]*Yv2[ff1, fl1]*
-           Yv2bar[ff2$6071, fl1]))/(768*mH22^2*Pi^2), 
+           YE2[ff1, fl2]*Yv2[fl1, ff2] - g2*Yv1[ff2$8464, ff2]*Yv2[ff1, fl1]*
+           Yv2bar[ff2$8464, fl1]))/(768*mH22^2*Pi^2), 
       alphac6vB[ff1_, ff2_] -> (onelooporder*(2*g1*YH*YE2[ff1, fl1]*
-           YE2bar[ff2$6071, fl1]*Yv1[ff2$6071, ff2] - 2*g1*YvR*YE2[ff1, fl1]*
-           YE2bar[ff2$6071, fl1]*Yv1[ff2$6071, ff2] - 6*g1*YE2[ff1, fl1]*
-           YE2bar[ff2$6073, fl1]*Yv1[ff2$6073, ff2] - 15*g1*YE1bar[fl1, fl2]*
+           YE2bar[ff2$8464, fl1]*Yv1[ff2$8464, ff2] - 2*g1*YvR*YE2[ff1, fl1]*
+           YE2bar[ff2$8464, fl1]*Yv1[ff2$8464, ff2] - 6*g1*YE2[ff1, fl1]*
+           YE2bar[ff2$8466, fl1]*Yv1[ff2$8466, ff2] - 15*g1*YE1bar[fl1, fl2]*
            YE2[ff1, fl2]*Yv2[fl1, ff2] - 18*g1*invepsilonbar*YE1bar[fl1, fl2]*
            YE2[ff1, fl2]*Yv2[fl1, ff2] - 12*g1*YH*YE1bar[fl1, fl2]*
            YE2[ff1, fl2]*Yv2[fl1, ff2] + 12*g1*YvR*YE1bar[fl1, fl2]*
            YE2[ff1, fl2]*Yv2[fl1, ff2] + 18*g1*Log[mH22^2/\[Mu]^2]*
            YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv2[fl1, ff2] + 
-          2*g1*YH*Yv1[ff2$6071, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$6071, fl1] - 
-          2*g1*YvR*Yv1[ff2$6071, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$6071, fl1] - 
-          4*g1*YvR*Yv1[ff1, ff1$6071]*Yv2[fl1, ff2]*Yv2bar[fl1, ff1$6071] - 
-          6*g1*Yv1[ff1, ff1$6073]*Yv2[fl1, ff2]*Yv2bar[fl1, ff1$6073]))/
+          2*g1*YH*Yv1[ff2$8464, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$8464, fl1] - 
+          2*g1*YvR*Yv1[ff2$8464, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$8464, fl1] - 
+          4*g1*YvR*Yv1[ff1, ff1$8464]*Yv2[fl1, ff2]*Yv2bar[fl1, ff1$8464] - 
+          6*g1*Yv1[ff1, ff1$8466]*Yv2[fl1, ff2]*Yv2bar[fl1, ff1$8466]))/
         (768*mH22^2*Pi^2), alphac6eW[ff1_, ff2_] -> 
-       (onelooporder*(-(g2*YE1[ff2$6071, ff2]*YE2[ff1, fl1]*
-            YE2bar[ff2$6071, fl1]) - 3*g2*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
+       (onelooporder*(-(g2*YE1[ff2$8464, ff2]*YE2[ff1, fl1]*
+            YE2bar[ff2$8464, fl1]) - 3*g2*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
            Yv2[ff1, fl2] - 6*g2*invepsilonbar*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
            Yv2[ff1, fl2] + 6*g2*Log[mH22^2/\[Mu]^2]*YE2[fl1, ff2]*
-           Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - g2*YE1[ff2$6071, ff2]*
-           Yv2[ff1, fl1]*Yv2bar[ff2$6071, fl1]))/(768*mH22^2*Pi^2), 
-      alphac6eB[ff1_, ff2_] -> (onelooporder*(-2*g1*YER*YE1[ff2$6071, ff2]*
-           YE2[ff1, fl1]*YE2bar[ff2$6071, fl1] - 2*g1*YH*YE1[ff2$6071, ff2]*
-           YE2[ff1, fl1]*YE2bar[ff2$6071, fl1] - 6*g1*YE1[ff2$6073, ff2]*
-           YE2[ff1, fl1]*YE2bar[ff2$6073, fl1] - 4*g1*YER*YE1[ff1, ff1$6071]*
-           YE2[fl1, ff2]*YE2bar[fl1, ff1$6071] - 6*g1*YE1[ff1, ff1$6073]*
-           YE2[fl1, ff2]*YE2bar[fl1, ff1$6073] - 9*g1*YE2[fl1, ff2]*
+           Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - g2*YE1[ff2$8464, ff2]*
+           Yv2[ff1, fl1]*Yv2bar[ff2$8464, fl1]))/(768*mH22^2*Pi^2), 
+      alphac6eB[ff1_, ff2_] -> (onelooporder*(-2*g1*YER*YE1[ff2$8464, ff2]*
+           YE2[ff1, fl1]*YE2bar[ff2$8464, fl1] - 2*g1*YH*YE1[ff2$8464, ff2]*
+           YE2[ff1, fl1]*YE2bar[ff2$8464, fl1] - 6*g1*YE1[ff2$8466, ff2]*
+           YE2[ff1, fl1]*YE2bar[ff2$8466, fl1] - 4*g1*YER*YE1[ff1, ff1$8464]*
+           YE2[fl1, ff2]*YE2bar[fl1, ff1$8464] - 6*g1*YE1[ff1, ff1$8466]*
+           YE2[fl1, ff2]*YE2bar[fl1, ff1$8466] - 9*g1*YE2[fl1, ff2]*
            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 6*g1*invepsilonbar*YE2[fl1, ff2]*
            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] + 12*g1*YER*YE2[fl1, ff2]*
            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] + 12*g1*YH*YE2[fl1, ff2]*
            Yv1bar[fl1, fl2]*Yv2[ff1, fl2] + 6*g1*Log[mH22^2/\[Mu]^2]*
            YE2[fl1, ff2]*Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 
-          2*g1*YER*YE1[ff2$6071, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$6071, fl1] - 
-          2*g1*YH*YE1[ff2$6071, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$6071, fl1]))/
+          2*g1*YER*YE1[ff2$8464, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$8464, fl1] - 
+          2*g1*YH*YE1[ff2$8464, ff2]*Yv2[ff1, fl1]*Yv2bar[ff2$8464, fl1]))/
         (768*mH22^2*Pi^2), alphac6uG[ff1_, ff2_] -> 
-       (onelooporder*(-(gs*YD2[ff1, fl1]*YD2bar[ff2$6071, fl1]*
-            YU1[ff2$6071, ff2]) + 3*gs*YD2[ff1, fl1]*YD2bar[ff2$6073, fl1]*
-           YU1[ff2$6073, ff2] + 18*gs*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
+       (onelooporder*(-(gs*YD2[ff1, fl1]*YD2bar[ff2$8464, fl1]*
+            YU1[ff2$8464, ff2]) + 3*gs*YD2[ff1, fl1]*YD2bar[ff2$8466, fl1]*
+           YU1[ff2$8466, ff2] + 18*gs*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
            YU2[fl1, ff2] + 12*gs*invepsilonbar*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
            YU2[fl1, ff2] - 12*gs*Log[mH22^2/\[Mu]^2]*YD1bar[fl1, fl2]*
-           YD2[ff1, fl2]*YU2[fl1, ff2] - gs*YU1[ff2$6071, ff2]*YU2[ff1, fl1]*
-           YU2bar[ff2$6071, fl1] + 3*gs*YU1[ff2$6073, ff2]*YU2[ff1, fl1]*
-           YU2bar[ff2$6073, fl1] - 2*gs*YU1[ff1, ff1$6071]*YU2[fl1, ff2]*
-           YU2bar[fl1, ff1$6071] + 6*gs*YU1[ff1, ff1$6073]*YU2[fl1, ff2]*
-           YU2bar[fl1, ff1$6073]))/(384*mH22^2*Pi^2), 
+           YD2[ff1, fl2]*YU2[fl1, ff2] - gs*YU1[ff2$8464, ff2]*YU2[ff1, fl1]*
+           YU2bar[ff2$8464, fl1] + 3*gs*YU1[ff2$8466, ff2]*YU2[ff1, fl1]*
+           YU2bar[ff2$8466, fl1] - 2*gs*YU1[ff1, ff1$8464]*YU2[fl1, ff2]*
+           YU2bar[fl1, ff1$8464] + 6*gs*YU1[ff1, ff1$8466]*YU2[fl1, ff2]*
+           YU2bar[fl1, ff1$8466]))/(384*mH22^2*Pi^2), 
       alphac6uW[ff1_, ff2_] -> (onelooporder*
-         (-(g2*YD2[ff1, fl1]*YD2bar[ff2$6071, fl1]*YU1[ff2$6071, ff2]) - 
+         (-(g2*YD2[ff1, fl1]*YD2bar[ff2$8464, fl1]*YU1[ff2$8464, ff2]) - 
           3*g2*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU2[fl1, ff2] - 
           6*g2*invepsilonbar*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU2[fl1, ff2] + 
           6*g2*Log[mH22^2/\[Mu]^2]*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
-           YU2[fl1, ff2] - g2*YU1[ff2$6071, ff2]*YU2[ff1, fl1]*
-           YU2bar[ff2$6071, fl1]))/(768*mH22^2*Pi^2), 
+           YU2[fl1, ff2] - g2*YU1[ff2$8464, ff2]*YU2[ff1, fl1]*
+           YU2bar[ff2$8464, fl1]))/(768*mH22^2*Pi^2), 
       alphac6uB[ff1_, ff2_] -> (onelooporder*(2*g1*YH*YD2[ff1, fl1]*
-           YD2bar[ff2$6071, fl1]*YU1[ff2$6071, ff2] - 2*g1*YUR*YD2[ff1, fl1]*
-           YD2bar[ff2$6071, fl1]*YU1[ff2$6071, ff2] - 2*g1*YD2[ff1, fl1]*
-           YD2bar[ff2$6073, fl1]*YU1[ff2$6073, ff2] + g1*YD1bar[fl1, fl2]*
+           YD2bar[ff2$8464, fl1]*YU1[ff2$8464, ff2] - 2*g1*YUR*YD2[ff1, fl1]*
+           YD2bar[ff2$8464, fl1]*YU1[ff2$8464, ff2] - 2*g1*YD2[ff1, fl1]*
+           YD2bar[ff2$8466, fl1]*YU1[ff2$8466, ff2] + g1*YD1bar[fl1, fl2]*
            YD2[ff1, fl2]*YU2[fl1, ff2] - 2*g1*invepsilonbar*YD1bar[fl1, fl2]*
            YD2[ff1, fl2]*YU2[fl1, ff2] - 12*g1*YH*YD1bar[fl1, fl2]*
            YD2[ff1, fl2]*YU2[fl1, ff2] + 12*g1*YUR*YD1bar[fl1, fl2]*
            YD2[ff1, fl2]*YU2[fl1, ff2] + 2*g1*Log[mH22^2/\[Mu]^2]*
            YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU2[fl1, ff2] + 
-          2*g1*YH*YU1[ff2$6071, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6071, fl1] - 
-          2*g1*YUR*YU1[ff2$6071, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6071, fl1] + 
-          4*g1*YU1[ff2$6073, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6073, fl1] - 
-          4*g1*YUR*YU1[ff1, ff1$6071]*YU2[fl1, ff2]*YU2bar[fl1, ff1$6071] + 
-          2*g1*YU1[ff1, ff1$6073]*YU2[fl1, ff2]*YU2bar[fl1, ff1$6073]))/
+          2*g1*YH*YU1[ff2$8464, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8464, fl1] - 
+          2*g1*YUR*YU1[ff2$8464, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8464, fl1] + 
+          4*g1*YU1[ff2$8466, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8466, fl1] - 
+          4*g1*YUR*YU1[ff1, ff1$8464]*YU2[fl1, ff2]*YU2bar[fl1, ff1$8464] + 
+          2*g1*YU1[ff1, ff1$8466]*YU2[fl1, ff2]*YU2bar[fl1, ff1$8466]))/
         (768*mH22^2*Pi^2), alphac6dG[ff1_, ff2_] -> 
-       (onelooporder*(-(gs*YD1[ff2$6071, ff2]*YD2[ff1, fl1]*
-            YD2bar[ff2$6071, fl1]) + 3*gs*YD1[ff2$6073, ff2]*YD2[ff1, fl1]*
-           YD2bar[ff2$6073, fl1] - 2*gs*YD1[ff1, ff1$6071]*YD2[fl1, ff2]*
-           YD2bar[fl1, ff1$6071] + 6*gs*YD1[ff1, ff1$6073]*YD2[fl1, ff2]*
-           YD2bar[fl1, ff1$6073] + 18*gs*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
+       (onelooporder*(-(gs*YD1[ff2$8464, ff2]*YD2[ff1, fl1]*
+            YD2bar[ff2$8464, fl1]) + 3*gs*YD1[ff2$8466, ff2]*YD2[ff1, fl1]*
+           YD2bar[ff2$8466, fl1] - 2*gs*YD1[ff1, ff1$8464]*YD2[fl1, ff2]*
+           YD2bar[fl1, ff1$8464] + 6*gs*YD1[ff1, ff1$8466]*YD2[fl1, ff2]*
+           YD2bar[fl1, ff1$8466] + 18*gs*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
            YU2[ff1, fl2] + 12*gs*invepsilonbar*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
            YU2[ff1, fl2] - 12*gs*Log[mH22^2/\[Mu]^2]*YD2[fl1, ff2]*
-           YU1bar[fl1, fl2]*YU2[ff1, fl2] - gs*YD1[ff2$6071, ff2]*
-           YU2[ff1, fl1]*YU2bar[ff2$6071, fl1] + 3*gs*YD1[ff2$6073, ff2]*
-           YU2[ff1, fl1]*YU2bar[ff2$6073, fl1]))/(384*mH22^2*Pi^2), 
+           YU1bar[fl1, fl2]*YU2[ff1, fl2] - gs*YD1[ff2$8464, ff2]*
+           YU2[ff1, fl1]*YU2bar[ff2$8464, fl1] + 3*gs*YD1[ff2$8466, ff2]*
+           YU2[ff1, fl1]*YU2bar[ff2$8466, fl1]))/(384*mH22^2*Pi^2), 
       alphac6dW[ff1_, ff2_] -> (onelooporder*
-         (-(g2*YD1[ff2$6071, ff2]*YD2[ff1, fl1]*YD2bar[ff2$6071, fl1]) - 
+         (-(g2*YD1[ff2$8464, ff2]*YD2[ff1, fl1]*YD2bar[ff2$8464, fl1]) - 
           3*g2*YD2[fl1, ff2]*YU1bar[fl1, fl2]*YU2[ff1, fl2] - 
           6*g2*invepsilonbar*YD2[fl1, ff2]*YU1bar[fl1, fl2]*YU2[ff1, fl2] + 
           6*g2*Log[mH22^2/\[Mu]^2]*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
-           YU2[ff1, fl2] - g2*YD1[ff2$6071, ff2]*YU2[ff1, fl1]*
-           YU2bar[ff2$6071, fl1]))/(768*mH22^2*Pi^2), 
-      alphac6dB[ff1_, ff2_] -> (onelooporder*(-2*g1*YDR*YD1[ff2$6071, ff2]*
-           YD2[ff1, fl1]*YD2bar[ff2$6071, fl1] - 2*g1*YH*YD1[ff2$6071, ff2]*
-           YD2[ff1, fl1]*YD2bar[ff2$6071, fl1] - 2*g1*YD1[ff2$6073, ff2]*
-           YD2[ff1, fl1]*YD2bar[ff2$6073, fl1] - 4*g1*YDR*YD1[ff1, ff1$6071]*
-           YD2[fl1, ff2]*YD2bar[fl1, ff1$6071] + 2*g1*YD1[ff1, ff1$6073]*
-           YD2[fl1, ff2]*YD2bar[fl1, ff1$6073] + 7*g1*YD2[fl1, ff2]*
+           YU2[ff1, fl2] - g2*YD1[ff2$8464, ff2]*YU2[ff1, fl1]*
+           YU2bar[ff2$8464, fl1]))/(768*mH22^2*Pi^2), 
+      alphac6dB[ff1_, ff2_] -> (onelooporder*(-2*g1*YDR*YD1[ff2$8464, ff2]*
+           YD2[ff1, fl1]*YD2bar[ff2$8464, fl1] - 2*g1*YH*YD1[ff2$8464, ff2]*
+           YD2[ff1, fl1]*YD2bar[ff2$8464, fl1] - 2*g1*YD1[ff2$8466, ff2]*
+           YD2[ff1, fl1]*YD2bar[ff2$8466, fl1] - 4*g1*YDR*YD1[ff1, ff1$8464]*
+           YD2[fl1, ff2]*YD2bar[fl1, ff1$8464] + 2*g1*YD1[ff1, ff1$8466]*
+           YD2[fl1, ff2]*YD2bar[fl1, ff1$8466] + 7*g1*YD2[fl1, ff2]*
            YU1bar[fl1, fl2]*YU2[ff1, fl2] + 10*g1*invepsilonbar*YD2[fl1, ff2]*
            YU1bar[fl1, fl2]*YU2[ff1, fl2] + 12*g1*YDR*YD2[fl1, ff2]*
            YU1bar[fl1, fl2]*YU2[ff1, fl2] + 12*g1*YH*YD2[fl1, ff2]*
            YU1bar[fl1, fl2]*YU2[ff1, fl2] - 10*g1*Log[mH22^2/\[Mu]^2]*
            YD2[fl1, ff2]*YU1bar[fl1, fl2]*YU2[ff1, fl2] - 
-          2*g1*YDR*YD1[ff2$6071, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6071, fl1] - 
-          2*g1*YH*YD1[ff2$6071, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6071, fl1] + 
-          4*g1*YD1[ff2$6073, ff2]*YU2[ff1, fl1]*YU2bar[ff2$6073, fl1]))/
+          2*g1*YDR*YD1[ff2$8464, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8464, fl1] - 
+          2*g1*YH*YD1[ff2$8464, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8464, fl1] + 
+          4*g1*YD1[ff2$8466, ff2]*YU2[ff1, fl1]*YU2bar[ff2$8466, fl1]))/
         (768*mH22^2*Pi^2), alphac6vWbar[ff2_, ff1_] -> 
-       (onelooporder*(-(g2*YE2[ff1$6071, fl1]*YE2bar[ff2, fl1]*
-            Yv1bar[ff1$6071, ff1]) - g2*Yv1bar[ff1$6071, ff1]*
-           Yv2[ff1$6071, fl1]*Yv2bar[ff2, fl1] - 3*g2*YE1[fl1, fl2]*
+       (onelooporder*(-(g2*YE2[ff1$8464, fl1]*YE2bar[ff2, fl1]*
+            Yv1bar[ff1$8464, ff1]) - g2*Yv1bar[ff1$8464, ff1]*
+           Yv2[ff1$8464, fl1]*Yv2bar[ff2, fl1] - 3*g2*YE1[fl1, fl2]*
            YE2bar[ff2, fl2]*Yv2bar[fl1, ff1] - 6*g2*invepsilonbar*
            YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv2bar[fl1, ff1] + 
           6*g2*Log[mH22^2/\[Mu]^2]*YE1[fl1, fl2]*YE2bar[ff2, fl2]*
            Yv2bar[fl1, ff1]))/(768*mH22^2*Pi^2), alphac6vBbar[ff2_, ff1_] -> 
-       (onelooporder*(2*g1*YH*YE2[ff1$6071, fl1]*YE2bar[ff2, fl1]*
-           Yv1bar[ff1$6071, ff1] - 2*g1*YvR*YE2[ff1$6071, fl1]*
-           YE2bar[ff2, fl1]*Yv1bar[ff1$6071, ff1] - 6*g1*YE2[ff1$6073, fl1]*
-           YE2bar[ff2, fl1]*Yv1bar[ff1$6073, ff1] + 
-          2*g1*YH*Yv1bar[ff1$6071, ff1]*Yv2[ff1$6071, fl1]*Yv2bar[ff2, fl1] - 
-          2*g1*YvR*Yv1bar[ff1$6071, ff1]*Yv2[ff1$6071, fl1]*
+       (onelooporder*(2*g1*YH*YE2[ff1$8464, fl1]*YE2bar[ff2, fl1]*
+           Yv1bar[ff1$8464, ff1] - 2*g1*YvR*YE2[ff1$8464, fl1]*
+           YE2bar[ff2, fl1]*Yv1bar[ff1$8464, ff1] - 6*g1*YE2[ff1$8466, fl1]*
+           YE2bar[ff2, fl1]*Yv1bar[ff1$8466, ff1] + 
+          2*g1*YH*Yv1bar[ff1$8464, ff1]*Yv2[ff1$8464, fl1]*Yv2bar[ff2, fl1] - 
+          2*g1*YvR*Yv1bar[ff1$8464, ff1]*Yv2[ff1$8464, fl1]*
            Yv2bar[ff2, fl1] - 15*g1*YE1[fl1, fl2]*YE2bar[ff2, fl2]*
            Yv2bar[fl1, ff1] - 18*g1*invepsilonbar*YE1[fl1, fl2]*
            YE2bar[ff2, fl2]*Yv2bar[fl1, ff1] - 12*g1*YH*YE1[fl1, fl2]*
            YE2bar[ff2, fl2]*Yv2bar[fl1, ff1] + 12*g1*YvR*YE1[fl1, fl2]*
            YE2bar[ff2, fl2]*Yv2bar[fl1, ff1] + 18*g1*Log[mH22^2/\[Mu]^2]*
            YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv2bar[fl1, ff1] - 
-          4*g1*YvR*Yv1bar[ff2, ff2$6071]*Yv2[fl1, ff2$6071]*
-           Yv2bar[fl1, ff1] - 6*g1*Yv1bar[ff2, ff2$6073]*Yv2[fl1, ff2$6073]*
+          4*g1*YvR*Yv1bar[ff2, ff2$8464]*Yv2[fl1, ff2$8464]*
+           Yv2bar[fl1, ff1] - 6*g1*Yv1bar[ff2, ff2$8466]*Yv2[fl1, ff2$8466]*
            Yv2bar[fl1, ff1]))/(768*mH22^2*Pi^2), alphac6eWbar[ff2_, ff1_] -> 
-       (onelooporder*(-(g2*YE1bar[ff1$6071, ff1]*YE2[ff1$6071, fl1]*
-            YE2bar[ff2, fl1]) - g2*YE1bar[ff1$6071, ff1]*Yv2[ff1$6071, fl1]*
+       (onelooporder*(-(g2*YE1bar[ff1$8464, ff1]*YE2[ff1$8464, fl1]*
+            YE2bar[ff2, fl1]) - g2*YE1bar[ff1$8464, ff1]*Yv2[ff1$8464, fl1]*
            Yv2bar[ff2, fl1] - 3*g2*YE2bar[fl1, ff1]*Yv1[fl1, fl2]*
            Yv2bar[ff2, fl2] - 6*g2*invepsilonbar*YE2bar[fl1, ff1]*
            Yv1[fl1, fl2]*Yv2bar[ff2, fl2] + 6*g2*Log[mH22^2/\[Mu]^2]*
            YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2]))/
         (768*mH22^2*Pi^2), alphac6eBbar[ff2_, ff1_] -> 
-       (onelooporder*(-2*g1*YER*YE1bar[ff1$6071, ff1]*YE2[ff1$6071, fl1]*
-           YE2bar[ff2, fl1] - 2*g1*YH*YE1bar[ff1$6071, ff1]*
-           YE2[ff1$6071, fl1]*YE2bar[ff2, fl1] - 6*g1*YE1bar[ff1$6073, ff1]*
-           YE2[ff1$6073, fl1]*YE2bar[ff2, fl1] - 4*g1*YER*
-           YE1bar[ff2, ff2$6071]*YE2[fl1, ff2$6071]*YE2bar[fl1, ff1] - 
-          6*g1*YE1bar[ff2, ff2$6073]*YE2[fl1, ff2$6073]*YE2bar[fl1, ff1] - 
-          2*g1*YER*YE1bar[ff1$6071, ff1]*Yv2[ff1$6071, fl1]*
-           Yv2bar[ff2, fl1] - 2*g1*YH*YE1bar[ff1$6071, ff1]*
-           Yv2[ff1$6071, fl1]*Yv2bar[ff2, fl1] - 9*g1*YE2bar[fl1, ff1]*
+       (onelooporder*(-2*g1*YER*YE1bar[ff1$8464, ff1]*YE2[ff1$8464, fl1]*
+           YE2bar[ff2, fl1] - 2*g1*YH*YE1bar[ff1$8464, ff1]*
+           YE2[ff1$8464, fl1]*YE2bar[ff2, fl1] - 6*g1*YE1bar[ff1$8466, ff1]*
+           YE2[ff1$8466, fl1]*YE2bar[ff2, fl1] - 4*g1*YER*
+           YE1bar[ff2, ff2$8464]*YE2[fl1, ff2$8464]*YE2bar[fl1, ff1] - 
+          6*g1*YE1bar[ff2, ff2$8466]*YE2[fl1, ff2$8466]*YE2bar[fl1, ff1] - 
+          2*g1*YER*YE1bar[ff1$8464, ff1]*Yv2[ff1$8464, fl1]*
+           Yv2bar[ff2, fl1] - 2*g1*YH*YE1bar[ff1$8464, ff1]*
+           Yv2[ff1$8464, fl1]*Yv2bar[ff2, fl1] - 9*g1*YE2bar[fl1, ff1]*
            Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 6*g1*invepsilonbar*
            YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] + 
           12*g1*YER*YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] + 
           12*g1*YH*YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2, fl2] + 
           6*g1*Log[mH22^2/\[Mu]^2]*YE2bar[fl1, ff1]*Yv1[fl1, fl2]*
            Yv2bar[ff2, fl2]))/(768*mH22^2*Pi^2), alphac6uGbar[ff2_, ff1_] -> 
-       (onelooporder*(-(gs*YD2[ff1$6071, fl1]*YD2bar[ff2, fl1]*
-            YU1bar[ff1$6071, ff1]) + 3*gs*YD2[ff1$6073, fl1]*YD2bar[ff2, fl1]*
-           YU1bar[ff1$6073, ff1] - gs*YU1bar[ff1$6071, ff1]*
-           YU2[ff1$6071, fl1]*YU2bar[ff2, fl1] + 3*gs*YU1bar[ff1$6073, ff1]*
-           YU2[ff1$6073, fl1]*YU2bar[ff2, fl1] + 18*gs*YD1[fl1, fl2]*
+       (onelooporder*(-(gs*YD2[ff1$8464, fl1]*YD2bar[ff2, fl1]*
+            YU1bar[ff1$8464, ff1]) + 3*gs*YD2[ff1$8466, fl1]*YD2bar[ff2, fl1]*
+           YU1bar[ff1$8466, ff1] - gs*YU1bar[ff1$8464, ff1]*
+           YU2[ff1$8464, fl1]*YU2bar[ff2, fl1] + 3*gs*YU1bar[ff1$8466, ff1]*
+           YU2[ff1$8466, fl1]*YU2bar[ff2, fl1] + 18*gs*YD1[fl1, fl2]*
            YD2bar[ff2, fl2]*YU2bar[fl1, ff1] + 12*gs*invepsilonbar*
            YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU2bar[fl1, ff1] - 
           12*gs*Log[mH22^2/\[Mu]^2]*YD1[fl1, fl2]*YD2bar[ff2, fl2]*
-           YU2bar[fl1, ff1] - 2*gs*YU1bar[ff2, ff2$6071]*YU2[fl1, ff2$6071]*
-           YU2bar[fl1, ff1] + 6*gs*YU1bar[ff2, ff2$6073]*YU2[fl1, ff2$6073]*
+           YU2bar[fl1, ff1] - 2*gs*YU1bar[ff2, ff2$8464]*YU2[fl1, ff2$8464]*
+           YU2bar[fl1, ff1] + 6*gs*YU1bar[ff2, ff2$8466]*YU2[fl1, ff2$8466]*
            YU2bar[fl1, ff1]))/(384*mH22^2*Pi^2), alphac6uWbar[ff2_, ff1_] -> 
-       (onelooporder*(-(g2*YD2[ff1$6071, fl1]*YD2bar[ff2, fl1]*
-            YU1bar[ff1$6071, ff1]) - g2*YU1bar[ff1$6071, ff1]*
-           YU2[ff1$6071, fl1]*YU2bar[ff2, fl1] - 3*g2*YD1[fl1, fl2]*
+       (onelooporder*(-(g2*YD2[ff1$8464, fl1]*YD2bar[ff2, fl1]*
+            YU1bar[ff1$8464, ff1]) - g2*YU1bar[ff1$8464, ff1]*
+           YU2[ff1$8464, fl1]*YU2bar[ff2, fl1] - 3*g2*YD1[fl1, fl2]*
            YD2bar[ff2, fl2]*YU2bar[fl1, ff1] - 6*g2*invepsilonbar*
            YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU2bar[fl1, ff1] + 
           6*g2*Log[mH22^2/\[Mu]^2]*YD1[fl1, fl2]*YD2bar[ff2, fl2]*
            YU2bar[fl1, ff1]))/(768*mH22^2*Pi^2), alphac6uBbar[ff2_, ff1_] -> 
-       (onelooporder*(2*g1*YH*YD2[ff1$6071, fl1]*YD2bar[ff2, fl1]*
-           YU1bar[ff1$6071, ff1] - 2*g1*YUR*YD2[ff1$6071, fl1]*
-           YD2bar[ff2, fl1]*YU1bar[ff1$6071, ff1] - 2*g1*YD2[ff1$6073, fl1]*
-           YD2bar[ff2, fl1]*YU1bar[ff1$6073, ff1] + 
-          2*g1*YH*YU1bar[ff1$6071, ff1]*YU2[ff1$6071, fl1]*YU2bar[ff2, fl1] - 
-          2*g1*YUR*YU1bar[ff1$6071, ff1]*YU2[ff1$6071, fl1]*
-           YU2bar[ff2, fl1] + 4*g1*YU1bar[ff1$6073, ff1]*YU2[ff1$6073, fl1]*
+       (onelooporder*(2*g1*YH*YD2[ff1$8464, fl1]*YD2bar[ff2, fl1]*
+           YU1bar[ff1$8464, ff1] - 2*g1*YUR*YD2[ff1$8464, fl1]*
+           YD2bar[ff2, fl1]*YU1bar[ff1$8464, ff1] - 2*g1*YD2[ff1$8466, fl1]*
+           YD2bar[ff2, fl1]*YU1bar[ff1$8466, ff1] + 
+          2*g1*YH*YU1bar[ff1$8464, ff1]*YU2[ff1$8464, fl1]*YU2bar[ff2, fl1] - 
+          2*g1*YUR*YU1bar[ff1$8464, ff1]*YU2[ff1$8464, fl1]*
+           YU2bar[ff2, fl1] + 4*g1*YU1bar[ff1$8466, ff1]*YU2[ff1$8466, fl1]*
            YU2bar[ff2, fl1] + g1*YD1[fl1, fl2]*YD2bar[ff2, fl2]*
            YU2bar[fl1, ff1] - 2*g1*invepsilonbar*YD1[fl1, fl2]*
            YD2bar[ff2, fl2]*YU2bar[fl1, ff1] - 12*g1*YH*YD1[fl1, fl2]*
            YD2bar[ff2, fl2]*YU2bar[fl1, ff1] + 12*g1*YUR*YD1[fl1, fl2]*
            YD2bar[ff2, fl2]*YU2bar[fl1, ff1] + 2*g1*Log[mH22^2/\[Mu]^2]*
            YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU2bar[fl1, ff1] - 
-          4*g1*YUR*YU1bar[ff2, ff2$6071]*YU2[fl1, ff2$6071]*
-           YU2bar[fl1, ff1] + 2*g1*YU1bar[ff2, ff2$6073]*YU2[fl1, ff2$6073]*
+          4*g1*YUR*YU1bar[ff2, ff2$8464]*YU2[fl1, ff2$8464]*
+           YU2bar[fl1, ff1] + 2*g1*YU1bar[ff2, ff2$8466]*YU2[fl1, ff2$8466]*
            YU2bar[fl1, ff1]))/(768*mH22^2*Pi^2), alphac6dGbar[ff2_, ff1_] -> 
-       (onelooporder*(-(gs*YD1bar[ff1$6071, ff1]*YD2[ff1$6071, fl1]*
-            YD2bar[ff2, fl1]) + 3*gs*YD1bar[ff1$6073, ff1]*YD2[ff1$6073, fl1]*
-           YD2bar[ff2, fl1] - 2*gs*YD1bar[ff2, ff2$6071]*YD2[fl1, ff2$6071]*
-           YD2bar[fl1, ff1] + 6*gs*YD1bar[ff2, ff2$6073]*YD2[fl1, ff2$6073]*
-           YD2bar[fl1, ff1] - gs*YD1bar[ff1$6071, ff1]*YU2[ff1$6071, fl1]*
-           YU2bar[ff2, fl1] + 3*gs*YD1bar[ff1$6073, ff1]*YU2[ff1$6073, fl1]*
+       (onelooporder*(-(gs*YD1bar[ff1$8464, ff1]*YD2[ff1$8464, fl1]*
+            YD2bar[ff2, fl1]) + 3*gs*YD1bar[ff1$8466, ff1]*YD2[ff1$8466, fl1]*
+           YD2bar[ff2, fl1] - 2*gs*YD1bar[ff2, ff2$8464]*YD2[fl1, ff2$8464]*
+           YD2bar[fl1, ff1] + 6*gs*YD1bar[ff2, ff2$8466]*YD2[fl1, ff2$8466]*
+           YD2bar[fl1, ff1] - gs*YD1bar[ff1$8464, ff1]*YU2[ff1$8464, fl1]*
+           YU2bar[ff2, fl1] + 3*gs*YD1bar[ff1$8466, ff1]*YU2[ff1$8466, fl1]*
            YU2bar[ff2, fl1] + 18*gs*YD2bar[fl1, ff1]*YU1[fl1, fl2]*
            YU2bar[ff2, fl2] + 12*gs*invepsilonbar*YD2bar[fl1, ff1]*
            YU1[fl1, fl2]*YU2bar[ff2, fl2] - 12*gs*Log[mH22^2/\[Mu]^2]*
            YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2, fl2]))/
         (384*mH22^2*Pi^2), alphac6dWbar[ff2_, ff1_] -> 
-       (onelooporder*(-(g2*YD1bar[ff1$6071, ff1]*YD2[ff1$6071, fl1]*
-            YD2bar[ff2, fl1]) - g2*YD1bar[ff1$6071, ff1]*YU2[ff1$6071, fl1]*
+       (onelooporder*(-(g2*YD1bar[ff1$8464, ff1]*YD2[ff1$8464, fl1]*
+            YD2bar[ff2, fl1]) - g2*YD1bar[ff1$8464, ff1]*YU2[ff1$8464, fl1]*
            YU2bar[ff2, fl1] - 3*g2*YD2bar[fl1, ff1]*YU1[fl1, fl2]*
            YU2bar[ff2, fl2] - 6*g2*invepsilonbar*YD2bar[fl1, ff1]*
            YU1[fl1, fl2]*YU2bar[ff2, fl2] + 6*g2*Log[mH22^2/\[Mu]^2]*
            YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2, fl2]))/
         (768*mH22^2*Pi^2), alphac6dBbar[ff2_, ff1_] -> 
-       (onelooporder*(-2*g1*YDR*YD1bar[ff1$6071, ff1]*YD2[ff1$6071, fl1]*
-           YD2bar[ff2, fl1] - 2*g1*YH*YD1bar[ff1$6071, ff1]*
-           YD2[ff1$6071, fl1]*YD2bar[ff2, fl1] - 2*g1*YD1bar[ff1$6073, ff1]*
-           YD2[ff1$6073, fl1]*YD2bar[ff2, fl1] - 4*g1*YDR*
-           YD1bar[ff2, ff2$6071]*YD2[fl1, ff2$6071]*YD2bar[fl1, ff1] + 
-          2*g1*YD1bar[ff2, ff2$6073]*YD2[fl1, ff2$6073]*YD2bar[fl1, ff1] - 
-          2*g1*YDR*YD1bar[ff1$6071, ff1]*YU2[ff1$6071, fl1]*
-           YU2bar[ff2, fl1] - 2*g1*YH*YD1bar[ff1$6071, ff1]*
-           YU2[ff1$6071, fl1]*YU2bar[ff2, fl1] + 4*g1*YD1bar[ff1$6073, ff1]*
-           YU2[ff1$6073, fl1]*YU2bar[ff2, fl1] + 7*g1*YD2bar[fl1, ff1]*
+       (onelooporder*(-2*g1*YDR*YD1bar[ff1$8464, ff1]*YD2[ff1$8464, fl1]*
+           YD2bar[ff2, fl1] - 2*g1*YH*YD1bar[ff1$8464, ff1]*
+           YD2[ff1$8464, fl1]*YD2bar[ff2, fl1] - 2*g1*YD1bar[ff1$8466, ff1]*
+           YD2[ff1$8466, fl1]*YD2bar[ff2, fl1] - 4*g1*YDR*
+           YD1bar[ff2, ff2$8464]*YD2[fl1, ff2$8464]*YD2bar[fl1, ff1] + 
+          2*g1*YD1bar[ff2, ff2$8466]*YD2[fl1, ff2$8466]*YD2bar[fl1, ff1] - 
+          2*g1*YDR*YD1bar[ff1$8464, ff1]*YU2[ff1$8464, fl1]*
+           YU2bar[ff2, fl1] - 2*g1*YH*YD1bar[ff1$8464, ff1]*
+           YU2[ff1$8464, fl1]*YU2bar[ff2, fl1] + 4*g1*YD1bar[ff1$8466, ff1]*
+           YU2[ff1$8466, fl1]*YU2bar[ff2, fl1] + 7*g1*YD2bar[fl1, ff1]*
            YU1[fl1, fl2]*YU2bar[ff2, fl2] + 10*g1*invepsilonbar*
            YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2, fl2] + 
           12*g1*YDR*YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2, fl2] + 
@@ -9819,37 +9819,37 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
           180*invepsilonbar*YE1[fl1, fl2]*YE1bar[fl1, fl3]*YE2[ff1, fl3]*
            YE2bar[ff2, fl2] + 180*Log[mH22^2/\[Mu]^2]*YE1[fl1, fl2]*
            YE1bar[fl1, fl3]*YE2[ff1, fl3]*YE2bar[ff2, fl2] - 
-          30*YE1[ff1, ff1$6071]*YE1bar[ff2, ff2$6071]*YE2[fl1, ff2$6071]*
-           YE2bar[fl1, ff1$6071] + 45*YE1bar[ff2, ff2$6072]*
-           YE2[fl1, ff2$6072]*Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 
-          45*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1bar[ff2, ff2$6072]*
-           Yv2[fl1, ff2$6072] - 10*g1^2*YH*Yv2[ff1, fl1]*Yv2bar[ff2, fl1] + 
-          45*YE1[ff1, ff1$6072]*YE2bar[fl1, ff1$6072]*Yv1[fl1, fl2]*
+          30*YE1[ff1, ff1$8464]*YE1bar[ff2, ff2$8464]*YE2[fl1, ff2$8464]*
+           YE2bar[fl1, ff1$8464] + 45*YE1bar[ff2, ff2$8465]*
+           YE2[fl1, ff2$8465]*Yv1bar[fl1, fl2]*Yv2[ff1, fl2] - 
+          45*YE1bar[fl1, fl2]*YE2[ff1, fl2]*Yv1bar[ff2, ff2$8465]*
+           Yv2[fl1, ff2$8465] - 10*g1^2*YH*Yv2[ff1, fl1]*Yv2bar[ff2, fl1] + 
+          45*YE1[ff1, ff1$8465]*YE2bar[fl1, ff1$8465]*Yv1[fl1, fl2]*
            Yv2bar[ff2, fl2] + 180*Yv1[fl1, fl2]*Yv1bar[fl1, fl3]*
            Yv2[ff1, fl3]*Yv2bar[ff2, fl2] + 180*invepsilonbar*Yv1[fl1, fl2]*
            Yv1bar[fl1, fl3]*Yv2[ff1, fl3]*Yv2bar[ff2, fl2] - 
           180*Log[mH22^2/\[Mu]^2]*Yv1[fl1, fl2]*Yv1bar[fl1, fl3]*
-           Yv2[ff1, fl3]*Yv2bar[ff2, fl2] + 30*Yv1[ff1, ff1$6071]*
-           Yv1bar[ff2, ff2$6071]*Yv2[fl1, ff2$6071]*Yv2bar[fl1, ff1$6071] - 
-          45*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[ff1, ff1$6072]*
-           Yv2bar[fl1, ff1$6072]))/(5760*mH22^2*Pi^2), 
+           Yv2[ff1, fl3]*Yv2bar[ff2, fl2] + 30*Yv1[ff1, ff1$8464]*
+           Yv1bar[ff2, ff2$8464]*Yv2[fl1, ff2$8464]*Yv2bar[fl1, ff1$8464] - 
+          45*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[ff1, ff1$8465]*
+           Yv2bar[fl1, ff1$8465]))/(5760*mH22^2*Pi^2), 
       alphac6Hl3[ff1_, ff2_] -> (onelooporder*(-3*g2^4*Unit3[ff1, ff2] + 
-          10*g2^2*YE2[ff1, fl1]*YE2bar[ff2, fl1] - 60*YE1[ff1, ff1$6071]*
-           YE1bar[ff2, ff2$6071]*YE2[fl1, ff2$6071]*YE2bar[fl1, ff1$6071] + 
-          90*YE1bar[ff2, ff2$6072]*YE2[fl1, ff2$6072]*Yv1bar[fl1, fl2]*
+          10*g2^2*YE2[ff1, fl1]*YE2bar[ff2, fl1] - 60*YE1[ff1, ff1$8464]*
+           YE1bar[ff2, ff2$8464]*YE2[fl1, ff2$8464]*YE2bar[fl1, ff1$8464] + 
+          90*YE1bar[ff2, ff2$8465]*YE2[fl1, ff2$8465]*Yv1bar[fl1, fl2]*
            Yv2[ff1, fl2] + 90*YE1bar[fl1, fl2]*YE2[ff1, fl2]*
-           Yv1bar[ff2, ff2$6072]*Yv2[fl1, ff2$6072] + 10*g2^2*Yv2[ff1, fl1]*
-           Yv2bar[ff2, fl1] + 90*YE1[ff1, ff1$6072]*YE2bar[fl1, ff1$6072]*
-           Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 60*Yv1[ff1, ff1$6071]*
-           Yv1bar[ff2, ff2$6071]*Yv2[fl1, ff2$6071]*Yv2bar[fl1, ff1$6071] + 
-          90*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[ff1, ff1$6072]*
-           Yv2bar[fl1, ff1$6072]))/(11520*mH22^2*Pi^2), 
+           Yv1bar[ff2, ff2$8465]*Yv2[fl1, ff2$8465] + 10*g2^2*Yv2[ff1, fl1]*
+           Yv2bar[ff2, fl1] + 90*YE1[ff1, ff1$8465]*YE2bar[fl1, ff1$8465]*
+           Yv1[fl1, fl2]*Yv2bar[ff2, fl2] - 60*Yv1[ff1, ff1$8464]*
+           Yv1bar[ff2, ff2$8464]*Yv2[fl1, ff2$8464]*Yv2bar[fl1, ff1$8464] + 
+          90*YE1[fl1, fl2]*YE2bar[ff2, fl2]*Yv1[ff1, ff1$8465]*
+           Yv2bar[fl1, ff1$8465]))/(11520*mH22^2*Pi^2), 
       alphac6Hv[ff1_, ff2_] -> (onelooporder*
-         (-(YE2[ff1$6071, fl1]*YE2bar[ff2$6071, fl1]*Yv1[ff2$6071, ff2]*
-            Yv1bar[ff1$6071, ff1]) + 3*YE1bar[fl1, fl2]*YE2[ff1$6072, fl2]*
-           Yv1bar[ff1$6072, ff1]*Yv2[fl1, ff2] - Yv1[ff2$6071, ff2]*
-           Yv1bar[ff1$6071, ff1]*Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, fl1] + 
-          3*YE1[fl1, fl2]*YE2bar[ff2$6072, fl2]*Yv1[ff2$6072, ff2]*
+         (-(YE2[ff1$8464, fl1]*YE2bar[ff2$8464, fl1]*Yv1[ff2$8464, ff2]*
+            Yv1bar[ff1$8464, ff1]) + 3*YE1bar[fl1, fl2]*YE2[ff1$8465, fl2]*
+           Yv1bar[ff1$8465, ff1]*Yv2[fl1, ff2] - Yv1[ff2$8464, ff2]*
+           Yv1bar[ff1$8464, ff1]*Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, fl1] + 
+          3*YE1[fl1, fl2]*YE2bar[ff2$8465, fl2]*Yv1[ff2$8465, ff2]*
            Yv2bar[fl1, ff1] + 6*g1^2*YH*Yv2[fl1, ff2]*Yv2bar[fl1, ff1] + 
           4*g1^2*invepsilonbar*YH*Yv2[fl1, ff2]*Yv2bar[fl1, ff1] - 
           4*g1^2*YH*Log[mH22^2/\[Mu]^2]*Yv2[fl1, ff2]*Yv2bar[fl1, ff1] + 
@@ -9862,8 +9862,8 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            Yv2bar[fl1, ff1] + 6*Log[mH22^2/\[Mu]^2]*Yv1[fl1, fl2]*
            Yv1bar[fl3, fl2]*Yv2[fl3, ff2]*Yv2bar[fl1, ff1]))/
         (192*mH22^2*Pi^2), alphac6He[ff1_, ff2_] -> 
-       (onelooporder*(-3*g1^4*YER*YH*Unit3[ff1, ff2] + 15*YE1[ff2$6071, ff2]*
-           YE1bar[ff1$6071, ff1]*YE2[ff1$6071, fl1]*YE2bar[ff2$6071, fl1] + 
+       (onelooporder*(-3*g1^4*YER*YH*Unit3[ff1, ff2] + 15*YE1[ff2$8464, ff2]*
+           YE1bar[ff1$8464, ff1]*YE2[ff1$8464, fl1]*YE2bar[ff2$8464, fl1] + 
           70*g1^2*YH*YE2[fl1, ff2]*YE2bar[fl1, ff1] + 60*g1^2*invepsilonbar*
            YH*YE2[fl1, ff2]*YE2bar[fl1, ff1] - 60*g1^2*YH*Log[mH22^2/\[Mu]^2]*
            YE2[fl1, ff2]*YE2bar[fl1, ff1] + 90*YE1[fl1, fl2]*YE1bar[fl3, fl2]*
@@ -9874,10 +9874,10 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            Yv1bar[fl1, fl3] - 90*invepsilonbar*YE2[fl1, ff2]*YE2bar[fl2, ff1]*
            Yv1[fl2, fl3]*Yv1bar[fl1, fl3] + 90*Log[mH22^2/\[Mu]^2]*
            YE2[fl1, ff2]*YE2bar[fl2, ff1]*Yv1[fl2, fl3]*Yv1bar[fl1, fl3] - 
-          45*YE1bar[ff1$6072, ff1]*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
-           Yv2[ff1$6072, fl2] + 15*YE1[ff2$6071, ff2]*YE1bar[ff1$6071, ff1]*
-           Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, fl1] - 45*YE1[ff2$6072, ff2]*
-           YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2$6072, fl2]))/
+          45*YE1bar[ff1$8465, ff1]*YE2[fl1, ff2]*Yv1bar[fl1, fl2]*
+           Yv2[ff1$8465, fl2] + 15*YE1[ff2$8464, ff2]*YE1bar[ff1$8464, ff1]*
+           Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, fl1] - 45*YE1[ff2$8465, ff2]*
+           YE2bar[fl1, ff1]*Yv1[fl1, fl2]*Yv2bar[ff2$8465, fl2]))/
         (2880*mH22^2*Pi^2), alphac6Hq1[ff1_, ff2_] -> 
        (onelooporder*(-18*g1^4*YH*YQL*Unit3[ff1, ff2] + 
           190*g1^2*YH*YD2[ff1, fl1]*YD2bar[ff2, fl1] + 120*g1^2*invepsilonbar*
@@ -9887,40 +9887,40 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
           540*invepsilonbar*YD1[fl1, fl2]*YD1bar[fl1, fl3]*YD2[ff1, fl3]*
            YD2bar[ff2, fl2] + 540*Log[mH22^2/\[Mu]^2]*YD1[fl1, fl2]*
            YD1bar[fl1, fl3]*YD2[ff1, fl3]*YD2bar[ff2, fl2] - 
-          90*YD1[ff1, ff1$6071]*YD1bar[ff2, ff2$6071]*YD2[fl1, ff2$6071]*
-           YD2bar[fl1, ff1$6071] + 135*YD1bar[ff2, ff2$6072]*
-           YD2[fl1, ff2$6072]*YU1bar[fl1, fl2]*YU2[ff1, fl2] - 
-          135*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1bar[ff2, ff2$6072]*
-           YU2[fl1, ff2$6072] - 350*g1^2*YH*YU2[ff1, fl1]*YU2bar[ff2, fl1] - 
+          90*YD1[ff1, ff1$8464]*YD1bar[ff2, ff2$8464]*YD2[fl1, ff2$8464]*
+           YD2bar[fl1, ff1$8464] + 135*YD1bar[ff2, ff2$8465]*
+           YD2[fl1, ff2$8465]*YU1bar[fl1, fl2]*YU2[ff1, fl2] - 
+          135*YD1bar[fl1, fl2]*YD2[ff1, fl2]*YU1bar[ff2, ff2$8465]*
+           YU2[fl1, ff2$8465] - 350*g1^2*YH*YU2[ff1, fl1]*YU2bar[ff2, fl1] - 
           240*g1^2*invepsilonbar*YH*YU2[ff1, fl1]*YU2bar[ff2, fl1] + 
           240*g1^2*YH*Log[mH22^2/\[Mu]^2]*YU2[ff1, fl1]*YU2bar[ff2, fl1] + 
-          135*YD1[ff1, ff1$6072]*YD2bar[fl1, ff1$6072]*YU1[fl1, fl2]*
+          135*YD1[ff1, ff1$8465]*YD2bar[fl1, ff1$8465]*YU1[fl1, fl2]*
            YU2bar[ff2, fl2] + 540*YU1[fl1, fl2]*YU1bar[fl1, fl3]*
            YU2[ff1, fl3]*YU2bar[ff2, fl2] + 540*invepsilonbar*YU1[fl1, fl2]*
            YU1bar[fl1, fl3]*YU2[ff1, fl3]*YU2bar[ff2, fl2] - 
           540*Log[mH22^2/\[Mu]^2]*YU1[fl1, fl2]*YU1bar[fl1, fl3]*
-           YU2[ff1, fl3]*YU2bar[ff2, fl2] + 90*YU1[ff1, ff1$6071]*
-           YU1bar[ff2, ff2$6071]*YU2[fl1, ff2$6071]*YU2bar[fl1, ff1$6071] - 
-          135*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[ff1, ff1$6072]*
-           YU2bar[fl1, ff1$6072]))/(17280*mH22^2*Pi^2), 
+           YU2[ff1, fl3]*YU2bar[ff2, fl2] + 90*YU1[ff1, ff1$8464]*
+           YU1bar[ff2, ff2$8464]*YU2[fl1, ff2$8464]*YU2bar[fl1, ff1$8464] - 
+          135*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[ff1, ff1$8465]*
+           YU2bar[fl1, ff1$8465]))/(17280*mH22^2*Pi^2), 
       alphac6Hq3[ff1_, ff2_] -> (onelooporder*(-3*g2^4*Unit3[ff1, ff2] + 
-          10*g2^2*YD2[ff1, fl1]*YD2bar[ff2, fl1] - 60*YD1[ff1, ff1$6071]*
-           YD1bar[ff2, ff2$6071]*YD2[fl1, ff2$6071]*YD2bar[fl1, ff1$6071] + 
-          90*YD1bar[ff2, ff2$6072]*YD2[fl1, ff2$6072]*YU1bar[fl1, fl2]*
+          10*g2^2*YD2[ff1, fl1]*YD2bar[ff2, fl1] - 60*YD1[ff1, ff1$8464]*
+           YD1bar[ff2, ff2$8464]*YD2[fl1, ff2$8464]*YD2bar[fl1, ff1$8464] + 
+          90*YD1bar[ff2, ff2$8465]*YD2[fl1, ff2$8465]*YU1bar[fl1, fl2]*
            YU2[ff1, fl2] + 90*YD1bar[fl1, fl2]*YD2[ff1, fl2]*
-           YU1bar[ff2, ff2$6072]*YU2[fl1, ff2$6072] + 10*g2^2*YU2[ff1, fl1]*
-           YU2bar[ff2, fl1] + 90*YD1[ff1, ff1$6072]*YD2bar[fl1, ff1$6072]*
-           YU1[fl1, fl2]*YU2bar[ff2, fl2] - 60*YU1[ff1, ff1$6071]*
-           YU1bar[ff2, ff2$6071]*YU2[fl1, ff2$6071]*YU2bar[fl1, ff1$6071] + 
-          90*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[ff1, ff1$6072]*
-           YU2bar[fl1, ff1$6072]))/(11520*mH22^2*Pi^2), 
+           YU1bar[ff2, ff2$8465]*YU2[fl1, ff2$8465] + 10*g2^2*YU2[ff1, fl1]*
+           YU2bar[ff2, fl1] + 90*YD1[ff1, ff1$8465]*YD2bar[fl1, ff1$8465]*
+           YU1[fl1, fl2]*YU2bar[ff2, fl2] - 60*YU1[ff1, ff1$8464]*
+           YU1bar[ff2, ff2$8464]*YU2[fl1, ff2$8464]*YU2bar[fl1, ff1$8464] + 
+          90*YD1[fl1, fl2]*YD2bar[ff2, fl2]*YU1[ff1, ff1$8465]*
+           YU2bar[fl1, ff1$8465]))/(11520*mH22^2*Pi^2), 
       alphac6Hu[ff1_, ff2_] -> (onelooporder*
-         (-9*g1^4*YH*YUR*Unit3[ff1, ff2] - 45*YD2[ff1$6071, fl1]*
-           YD2bar[ff2$6071, fl1]*YU1[ff2$6071, ff2]*YU1bar[ff1$6071, ff1] + 
-          135*YD1bar[fl1, fl2]*YD2[ff1$6072, fl2]*YU1bar[ff1$6072, ff1]*
-           YU2[fl1, ff2] - 45*YU1[ff2$6071, ff2]*YU1bar[ff1$6071, ff1]*
-           YU2[ff1$6071, fl1]*YU2bar[ff2$6071, fl1] + 135*YD1[fl1, fl2]*
-           YD2bar[ff2$6072, fl2]*YU1[ff2$6072, ff2]*YU2bar[fl1, ff1] - 
+         (-9*g1^4*YH*YUR*Unit3[ff1, ff2] - 45*YD2[ff1$8464, fl1]*
+           YD2bar[ff2$8464, fl1]*YU1[ff2$8464, ff2]*YU1bar[ff1$8464, ff1] + 
+          135*YD1bar[fl1, fl2]*YD2[ff1$8465, fl2]*YU1bar[ff1$8465, ff1]*
+           YU2[fl1, ff2] - 45*YU1[ff2$8464, ff2]*YU1bar[ff1$8464, ff1]*
+           YU2[ff1$8464, fl1]*YU2bar[ff2$8464, fl1] + 135*YD1[fl1, fl2]*
+           YD2bar[ff2$8465, fl2]*YU1[ff2$8465, ff2]*YU2bar[fl1, ff1] - 
           50*g1^2*YH*YU2[fl1, ff2]*YU2bar[fl1, ff1] - 60*g1^2*invepsilonbar*
            YH*YU2[fl1, ff2]*YU2bar[fl1, ff1] + 60*g1^2*YH*Log[mH22^2/\[Mu]^2]*
            YU2[fl1, ff2]*YU2bar[fl1, ff1] + 270*YD1[fl1, fl2]*
@@ -9933,8 +9933,8 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
            YU2bar[fl1, ff1] + 270*Log[mH22^2/\[Mu]^2]*YU1[fl1, fl2]*
            YU1bar[fl3, fl2]*YU2[fl3, ff2]*YU2bar[fl1, ff1]))/
         (8640*mH22^2*Pi^2), alphac6Hd[ff1_, ff2_] -> 
-       (onelooporder*(-9*g1^4*YDR*YH*Unit3[ff1, ff2] + 45*YD1[ff2$6071, ff2]*
-           YD1bar[ff1$6071, ff1]*YD2[ff1$6071, fl1]*YD2bar[ff2$6071, fl1] - 
+       (onelooporder*(-9*g1^4*YDR*YH*Unit3[ff1, ff2] + 45*YD1[ff2$8464, ff2]*
+           YD1bar[ff1$8464, ff1]*YD2[ff1$8464, fl1]*YD2bar[ff2$8464, fl1] - 
           110*g1^2*YH*YD2[fl1, ff2]*YD2bar[fl1, ff1] - 60*g1^2*invepsilonbar*
            YH*YD2[fl1, ff2]*YD2bar[fl1, ff1] + 60*g1^2*YH*Log[mH22^2/\[Mu]^2]*
            YD2[fl1, ff2]*YD2bar[fl1, ff1] + 270*YD1[fl1, fl2]*
@@ -9946,38 +9946,38 @@ MatchingResult = {{{{alphac6G -> 0, alphac6Gt -> 0,
           270*invepsilonbar*YD2[fl1, ff2]*YD2bar[fl2, ff1]*YU1[fl2, fl3]*
            YU1bar[fl1, fl3] + 270*Log[mH22^2/\[Mu]^2]*YD2[fl1, ff2]*
            YD2bar[fl2, ff1]*YU1[fl2, fl3]*YU1bar[fl1, fl3] - 
-          135*YD1bar[ff1$6072, ff1]*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
-           YU2[ff1$6072, fl2] + 45*YD1[ff2$6071, ff2]*YD1bar[ff1$6071, ff1]*
-           YU2[ff1$6071, fl1]*YU2bar[ff2$6071, fl1] - 135*YD1[ff2$6072, ff2]*
-           YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2$6072, fl2]))/
+          135*YD1bar[ff1$8465, ff1]*YD2[fl1, ff2]*YU1bar[fl1, fl2]*
+           YU2[ff1$8465, fl2] + 45*YD1[ff2$8464, ff2]*YD1bar[ff1$8464, ff1]*
+           YU2[ff1$8464, fl1]*YU2bar[ff2$8464, fl1] - 135*YD1[ff2$8465, ff2]*
+           YD2bar[fl1, ff1]*YU1[fl1, fl2]*YU2bar[ff2$8465, fl2]))/
         (8640*mH22^2*Pi^2), alphac6Hve[ff1_, ff2_] -> 
-       (onelooporder*(YE1[ff2$6071, ff2]*YE2[ff1$6071, fl1]*
-           YE2bar[ff2$6071, fl1]*Yv1bar[ff1$6071, ff1] - 
-          3*YE2[fl1, ff2]*Yv1bar[ff1$6072, ff1]*Yv1bar[fl1, fl2]*
-           Yv2[ff1$6072, fl2] + YE1[ff2$6071, ff2]*Yv1bar[ff1$6071, ff1]*
-           Yv2[ff1$6071, fl1]*Yv2bar[ff2$6071, fl1] - 3*YE1[ff2$6072, ff2]*
-           YE1[fl1, fl2]*YE2bar[ff2$6072, fl2]*Yv2bar[fl1, ff1]))/
+       (onelooporder*(YE1[ff2$8464, ff2]*YE2[ff1$8464, fl1]*
+           YE2bar[ff2$8464, fl1]*Yv1bar[ff1$8464, ff1] - 
+          3*YE2[fl1, ff2]*Yv1bar[ff1$8465, ff1]*Yv1bar[fl1, fl2]*
+           Yv2[ff1$8465, fl2] + YE1[ff2$8464, ff2]*Yv1bar[ff1$8464, ff1]*
+           Yv2[ff1$8464, fl1]*Yv2bar[ff2$8464, fl1] - 3*YE1[ff2$8465, ff2]*
+           YE1[fl1, fl2]*YE2bar[ff2$8465, fl2]*Yv2bar[fl1, ff1]))/
         (96*mH22^2*Pi^2), alphac6Hud[ff1_, ff2_] -> 
-       (onelooporder*(YD1[ff2$6071, ff2]*YD2[ff1$6071, fl1]*
-           YD2bar[ff2$6071, fl1]*YU1bar[ff1$6071, ff1] - 
-          3*YD2[fl1, ff2]*YU1bar[ff1$6072, ff1]*YU1bar[fl1, fl2]*
-           YU2[ff1$6072, fl2] + YD1[ff2$6071, ff2]*YU1bar[ff1$6071, ff1]*
-           YU2[ff1$6071, fl1]*YU2bar[ff2$6071, fl1] - 3*YD1[ff2$6072, ff2]*
-           YD1[fl1, fl2]*YD2bar[ff2$6072, fl2]*YU2bar[fl1, ff1]))/
+       (onelooporder*(YD1[ff2$8464, ff2]*YD2[ff1$8464, fl1]*
+           YD2bar[ff2$8464, fl1]*YU1bar[ff1$8464, ff1] - 
+          3*YD2[fl1, ff2]*YU1bar[ff1$8465, ff1]*YU1bar[fl1, fl2]*
+           YU2[ff1$8465, fl2] + YD1[ff2$8464, ff2]*YU1bar[ff1$8464, ff1]*
+           YU2[ff1$8464, fl1]*YU2bar[ff2$8464, fl1] - 3*YD1[ff2$8465, ff2]*
+           YD1[fl1, fl2]*YD2bar[ff2$8465, fl2]*YU2bar[fl1, ff1]))/
         (96*mH22^2*Pi^2), alphac6Hvebar[ff2_, ff1_] -> 
-       (onelooporder*(YE1bar[ff1$6071, ff1]*YE2[ff1$6071, fl1]*
-           YE2bar[ff2$6071, fl1]*Yv1[ff2$6071, ff2] - 3*YE1bar[ff1$6072, ff1]*
-           YE1bar[fl1, fl2]*YE2[ff1$6072, fl2]*Yv2[fl1, ff2] + 
-          YE1bar[ff1$6071, ff1]*Yv1[ff2$6071, ff2]*Yv2[ff1$6071, fl1]*
-           Yv2bar[ff2$6071, fl1] - 3*YE2bar[fl1, ff1]*Yv1[ff2$6072, ff2]*
-           Yv1[fl1, fl2]*Yv2bar[ff2$6072, fl2]))/(96*mH22^2*Pi^2), 
+       (onelooporder*(YE1bar[ff1$8464, ff1]*YE2[ff1$8464, fl1]*
+           YE2bar[ff2$8464, fl1]*Yv1[ff2$8464, ff2] - 3*YE1bar[ff1$8465, ff1]*
+           YE1bar[fl1, fl2]*YE2[ff1$8465, fl2]*Yv2[fl1, ff2] + 
+          YE1bar[ff1$8464, ff1]*Yv1[ff2$8464, ff2]*Yv2[ff1$8464, fl1]*
+           Yv2bar[ff2$8464, fl1] - 3*YE2bar[fl1, ff1]*Yv1[ff2$8465, ff2]*
+           Yv1[fl1, fl2]*Yv2bar[ff2$8465, fl2]))/(96*mH22^2*Pi^2), 
       alphac6Hudbar[ff2_, ff1_] -> 
-       (onelooporder*(YD1bar[ff1$6071, ff1]*YD2[ff1$6071, fl1]*
-           YD2bar[ff2$6071, fl1]*YU1[ff2$6071, ff2] - 3*YD1bar[ff1$6072, ff1]*
-           YD1bar[fl1, fl2]*YD2[ff1$6072, fl2]*YU2[fl1, ff2] + 
-          YD1bar[ff1$6071, ff1]*YU1[ff2$6071, ff2]*YU2[ff1$6071, fl1]*
-           YU2bar[ff2$6071, fl1] - 3*YD2bar[fl1, ff1]*YU1[ff2$6072, ff2]*
-           YU1[fl1, fl2]*YU2bar[ff2$6072, fl2]))/(96*mH22^2*Pi^2), 
+       (onelooporder*(YD1bar[ff1$8464, ff1]*YD2[ff1$8464, fl1]*
+           YD2bar[ff2$8464, fl1]*YU1[ff2$8464, ff2] - 3*YD1bar[ff1$8465, ff1]*
+           YD1bar[fl1, fl2]*YD2[ff1$8465, fl2]*YU2[fl1, ff2] + 
+          YD1bar[ff1$8464, ff1]*YU1[ff2$8464, ff2]*YU2[ff1$8464, fl1]*
+           YU2bar[ff2$8464, fl1] - 3*YD2bar[fl1, ff1]*YU1[ff2$8465, ff2]*
+           YU1[fl1, fl2]*YU2bar[ff2$8465, fl2]))/(96*mH22^2*Pi^2), 
       alphac6ll[ff1_, ff2_, ff3_, ff4_] -> 
        (onelooporder*(-6*g2^4*Unit3[ff1, ff4]*Unit3[ff2, ff3] + 
           3*g2^4*Unit3[ff1, ff2]*Unit3[ff3, ff4] - 12*g1^4*YLL^2*

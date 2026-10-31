@@ -407,7 +407,9 @@ OperatorRep["dim-6:Psi4","Green"] = {
 	Dot[Fer1_,\[Gamma][lorentz1_,lorentz2_,lorentz3_],Fer2_][isospin1_,isospin1_][flavor1_,flavor2_][color1_,color1_]Dot[Fer3_,\[Gamma][lorentz1_,lorentz2_,lorentz3_],Fer4_][isospin2_,isospin2_][flavor3_,flavor4_][color2_,color2_]
 		/;And[StrRep[Fer1]===StrRep[Fer2],StrRep[Fer3]===StrRep[Fer4]]:>Piecewise[{
 			{\[ScriptCapitalO]["(6)",StrRep[Fer2]<>StrRep[Fer4]][flavor1,flavor2,flavor3,flavor4],Fer1===BarLL},
-			{\[ScriptCapitalO]["(6)",StrRep[Fer2]<>StrRep[Fer4],"(1)"][flavor1,flavor2,flavor3,flavor4],Fer1===BarQL}}],
+			{\[ScriptCapitalO]["(6)",StrRep[Fer4]<>StrRep[Fer2]][flavor3,flavor4,flavor1,flavor2],Fer3===BarLL},
+			{\[ScriptCapitalO]["(6)",StrRep[Fer2]<>StrRep[Fer4],"(1)"][flavor1,flavor2,flavor3,flavor4],Fer1===BarQL},
+			{\[ScriptCapitalO]["(6)",StrRep[Fer4]<>StrRep[Fer2],"(1)"][flavor3,flavor4,flavor1,flavor2],Fer3===BarQL}}],
 	Dot[Fer1_,\[Gamma][lorentz1_,lorentz2_,lorentz3_],Fer2_][isospin1_,isospin1_][flavor1_,flavor2_][color1_,color2_]Dot[Fer3_,\[Gamma][lorentz1_,lorentz2_,lorentz3_],Fer4_][isospin2_,isospin2_][flavor3_,flavor4_][color2_,color1_]
 		/;And[IndexBool[{color1,color2}],StrRep[Fer1]===StrRep[Fer2],StrRep[Fer3]===StrRep[Fer4]]:>Piecewise[{
 			{\[ScriptCapitalO]["(6)",StrRep[Fer2]<>StrRep[Fer4],"(8)"][flavor1,flavor2,flavor3,flavor4],Fer1===BarQL}}],
