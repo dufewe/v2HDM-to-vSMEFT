@@ -10,4 +10,4 @@ This repository contains the ancillary files for 2611.xxxxx about matching v2HDM
 
 The matching is performed under NDR and modified MS schemes up to dimension six. The overall Wilson results are provided in [@Archive/wilson.wl](@Archive/wilson.wl) at the heavy scale.
 
-If you use these files, please cite 2611.xxxxx, [2212.04510](https://arxiv.org/abs/2212.04510), and [2112.10787](https://arxiv.org/abs/2112.10787). And if you have any issues, please contact dufewe@mails.ccnu.edu.cn or xqli@mail.ccnu.edu.cn.
+If you use these files, please cite 2611.xxxxx, [2212.04510](https://arxiv.org/abs/2212.04510), and [2112.10787](https://arxiv.org/abs/2112.10787). And if you have any issues, please contact dufewe@mails.ccnu.edu.cn, hexuanzhen@mails.ccnu.edu.cn, xqli@mail.ccnu.edu.cn, yangyd@mail.ccnu.edu.cn, or y@mail.ccnu.edu.cn.
