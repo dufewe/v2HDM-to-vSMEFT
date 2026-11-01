@@ -1,4 +1,4 @@
-### v2HDM-to-vSMEFT
+## v2HDM-to-vSMEFT
 ---
 [![arXiv](https://img.shields.io/badge/arXiv-2611.xxxxx-00aa00.svg)](https://arxiv.org/abs/2611.xxxxx)
 
